@@ -45,19 +45,17 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 ### <a name="articles"></a>journal articles
 
-#### 2017
-
 #### 2016
 **Fink, L.** (2016, November). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue) 
 
 
 
 ### <a name="thesis"></a>masters thesis
-**Music modulates eyeblinks: An examination of temporal coordination.**
+#### Music modulates eyeblinks: An examination of temporal coordination.
 
 Supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross) 
 
-Abstract: 
+##### Abstract: 
 Eyeblinks have yet to attract significant attention in music cognition research, though they have been studied extensively in other domains. Rather than an artifact to be removed in eye tracking or EEG data, eyeblinks, and their connection with musical behaviors, warrant proper exploration.
 
 **Background:** Eyeblinks tend to occur at structurally salient breaks during both reading and speech; they are likely to occur at the ends of sentences and paragraphs in a text, or at pauses and turns in speech (Orchard & Stern, 1991; Cummins, 2012). Interestingly, blinks are often synchronized, or temporally coordinated, between speakers (Nakano & Kitazawa, 2010); however, individuals with autism spectrum disorders fail to show such synchrony, perhaps indicating that temporal coordination is at the root of social communication impairments (Nakano et al., 2011).
@@ -74,4 +72,4 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 
 ### <a name="dissertation"></a>doctoral dissertation
 
-Coming in a few years. . . 
+Check back in a few years. . . 

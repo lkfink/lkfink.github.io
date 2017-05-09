@@ -8,12 +8,11 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : lkfink.github.io 
+title : Lauren Fink
 author :
   name : Lauren Fink
-  email : fink.k.lauren@gmail.com
+  email : lkfink@ucdavis.edu
   github : lkfink
-  linkedIn : [Lauren Fink](https://www.linkedin.com/in/lauren-fink-2ba747109)
   feedburner : nil
 
 production_url : https://lkfink.github.io

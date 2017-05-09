@@ -45,10 +45,6 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 ### <a name="articles"></a>journal articles
 
-
-#### In preparation
-Hurley, B., **Fink, L.,** & Janata, P. Mapping the Dynamic Allocation of Attention in Music.
-
 #### 2017
 
 #### 2016
@@ -58,7 +54,9 @@ Hurley, B., **Fink, L.,** & Janata, P. Mapping the Dynamic Allocation of Attenti
 
 ### <a name="thesis"></a>masters thesis
 **Music modulates eyeblinks: An examination of temporal coordination.**
+
 Supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross) 
+
 Abstract: 
 Eyeblinks have yet to attract significant attention in music cognition research, though they have been studied extensively in other domains. Rather than an artifact to be removed in eye tracking or EEG data, eyeblinks, and their connection with musical behaviors, warrant proper exploration.
 

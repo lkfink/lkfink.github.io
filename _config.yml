@@ -10,11 +10,11 @@ highlighter: rouge
 #
 title : lkfink.github.io 
 author :
-name : Lauren Fink
-email : fink.k.lauren@gmail.com
-github : lkfink
-linkedIn : [Lauren Fink](https://www.linkedin.com/in/lauren-fink-2ba747109)
-feedburner : nil
+  name : Lauren Fink
+  email : fink.k.lauren@gmail.com
+  github : lkfink
+  linkedIn : [Lauren Fink](https://www.linkedin.com/in/lauren-fink-2ba747109)
+  feedburner : nil
 
 production_url : https://lkfink.github.io
 

@@ -32,7 +32,6 @@ Lauren received a BM in percussion performance in 2013, from the [University of 
             Email: <code>lk</code><b>I</b><code>fink</code><b>don't</b><code>@</code><b>want</b><code>uc</code><b>spam!
             </b><code>davis</code><b>So</b><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><code>u</code><br/>
-            Phone: (530) 297-4418
             <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/">LinkedIn</a><br/>
             </div>
         </div>

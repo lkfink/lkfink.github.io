@@ -21,8 +21,9 @@ Coming soon...
 
 ### <a name="audio"></a>media
 
-World premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by Andrew Goldman. 
-> Corpus Playroom, Cambridge, UK
+World premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical)  
+by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
+Corpus Playroom, Cambridge, UK
 
 
 World premiere of *Oscillator Etudes* by [Paul Schuette](http://www.paulschuette.com/)  
@@ -30,13 +31,13 @@ Cincinnati, OH, USA
 [Excerpt of performace available on YouTube](https://www.youtube.com/watch?v=inZUFKHSn1o)
 
 
-Rhode Lines (Band)
-> Cincinnati, OH
-> [Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)
+Rhode Lines (Band)  
+Cincinnati, OH  
+[Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)  
 
-MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*
-> [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf) 
-> [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
+MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
+[Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
+[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
 
 ### <a name="writing"></a>writing
 Coming soon...

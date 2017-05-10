@@ -43,7 +43,10 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
-### <a name="articles"></a>journal articles
+### <a name="articles"></a>articles
+
+#### 2017
+**Fink, L.** (in press). Chance Operations in Neuroscience.
 
 #### 2016
 **Fink, L.** (2016, November). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue) 

@@ -26,7 +26,8 @@ by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)
 Corpus Playroom, Cambridge, UK
 
 
-World premiere of *Oscillator Etudes* by [Paul Schuette](http://www.paulschuette.com/)  
+World premiere of [*Oscillator Etudes*](http://www.paulschuette.com/music/)  
+by [Paul Schuette](http://www.paulschuette.com/)  
 Cincinnati, OH, USA  
 [Excerpt of performace available on YouTube](https://www.youtube.com/watch?v=inZUFKHSn1o)
 

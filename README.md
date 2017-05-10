@@ -4,4 +4,4 @@ Lauren's [personal website](https://lkfink.github.io/) is currently under constr
 
 She was inspired to create a website on Github by [Brian Hurley](https://github.com/bkhurley).
 
-Most of her website code was adapted from [Karl Broman's](https://github.com/kbroman) personal git website and great tutorials.  
+Most of Lauren's website code was adapted from [Karl Broman's](https://github.com/kbroman) personal git website and great tutorials.  

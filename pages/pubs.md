@@ -23,14 +23,14 @@ Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupil
 
 Hurley, B., **Fink, L.**, & Janata, P. (2017, March). A resonator model predicts temporal orienting in rhythmic music. *Proceedings of the Cognitive Neuroscience Society Annual Meeting.* 
 
-Bright, A., Singleton, J., **Fink, L.**, & Rodger, K. (2017, March). Cultivating a Rhetorical Consciousness: Supporting Graduate Student Writers Across the Curriculum. Symposium presented at the College Composition and Communication Convention, Portland, OR.
+Bright, A., Singleton, J., **Fink, L.**, & Rodger, K. (2017, March). Cultivating a Rhetorical Consciousness: Supporting Graduate Student Writers Across the Curriculum. *Symposium presented at the College Composition and Communication Convention, Portland, OR.*
 
 #### 2016
 **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2016, July). Pupillary and eyeblink responses to auditory stimuli index attention and sensorimotor coupling. *Proceedings of the 14th International Conference for Music Perception & Cognition*, pg. 788. 
 
 Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attention in music with a damped oscillator model. *Proceedings of the 14th International Conference for Music Perception & Cognition*, pg. 782
 
-**Fink, L.** & Rodger, K. (2016, June). Mapping Neuroscience through Professional Writing. Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.
+**Fink, L.** & Rodger, K. (2016, June). Mapping Neuroscience through Professional Writing. *Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.*
 
 #### 2015
 **Fink, L.** (2015, July). Eyeblinks as biomarkers of temporal coordination during music cognition. *Poster presented at the Rhythm Perception & Production Workshop, Amsterdam, Netherlands.*

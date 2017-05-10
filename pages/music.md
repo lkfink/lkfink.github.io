@@ -25,9 +25,9 @@ World premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/featur
 > Corpus Playroom, Cambridge, UK
 
 
-World premiere of *Oscillator Etudes* by [Paul Schuette](http://www.paulschuette.com/)
-> Cincinnati, OH, USA
-> [Excerpt of performace available on YouTube](https://www.youtube.com/watch?v=inZUFKHSn1o)
+World premiere of *Oscillator Etudes* by [Paul Schuette](http://www.paulschuette.com/)  
+Cincinnati, OH, USA  
+[Excerpt of performace available on YouTube](https://www.youtube.com/watch?v=inZUFKHSn1o)
 
 
 Rhode Lines (Band)

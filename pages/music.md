@@ -27,20 +27,19 @@ coming soon...
 
 #### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  
-![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.html)  
-
+[![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.html)]
 
  
 #### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
 Indianapolis, IN, USA
-![setting up](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/osc2.html) 
+[![setting up](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/osc2.html)]
 
 
 
 #### Rhode Lines (Band)
 Cincinnati, OH, USA
 [Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)
-![playing drums](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/rhodeLines.html)
+[![playing drums](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/rhodeLines.html)]
 
 
 #### senior recital

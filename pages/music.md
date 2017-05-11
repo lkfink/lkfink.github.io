@@ -19,24 +19,29 @@ description: Lauren Fink's music
 ### <a name="philosophy"></a>some thoughts on music
 Coming soon...
 
-### <a name="current"></a>curren projects
+### <a name="current"></a>current projects
 coming soon...
 
 ### <a name="past"></a>past projects 
 
-![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.png)  
+
 #### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  
+![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.png)  
 
 
-![setting up](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/osc2.png)  
+ 
 #### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
-Indianapolis, IN, USA<
+Indianapolis, IN, USA
+![setting up](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/osc2.png) 
 
-![playing drums](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/rhodeLines.png)
+
+
 #### Rhode Lines (Band)
 Cincinnati, OH, USA
 [Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)
+![playing drums](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/rhodeLines.png)
+
 
 #### senior recital
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  

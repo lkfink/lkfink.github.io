@@ -39,7 +39,7 @@ At the University of California Davis, I have been a teaching assistant for the 
 
 
 ### <a name="portfolio"></a>teaching portfolio
-*Student ratings and reviews from all courses taught available upon request. Please email me.* 
+Student ratings and reviews from all courses taught available upon request. Please email me.
 
 **Excerpts from my Neurobiology discussion section reviews:**  
 

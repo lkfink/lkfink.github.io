@@ -64,7 +64,7 @@ At the University of California Davis, I have been a teaching assistant for the 
 
 ### <a name="dev"></a>courses developed
 
-#### This is your Brain on Beyoncé
+**This is your Brain on Beyoncé**
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/) and Beyoncé's recent visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/) as core texts.  
 
 Syllabus coming soon..

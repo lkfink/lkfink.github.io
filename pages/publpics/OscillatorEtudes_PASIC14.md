@@ -4,7 +4,7 @@ title: Oscillator Etudes, PASIC14
 ---
 
 
-View from the stage before performing Paul Schuette's *Oscillator Etudes* <br/>
+View from the stage before performing [Paul Schuette's](http://www.paulschuette.com/) *Oscillator Etudes* <br/>
 [Percussive Arts Society](http://www.pas.org/) International Convention, 2014  
 Indianapolis, Illinois
 

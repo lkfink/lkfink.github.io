@@ -23,23 +23,55 @@ Coming soon...
 #### Current Projects
 coming soon...
 
-#### Past Performances 
-
-World premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical)  
-by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
-Corpus Playroom, Cambridge, UK
+#### Past Projects 
 
 
-World premiere of [*Oscillator Etudes*](http://www.paulschuette.com/music/)  
-by [Paul Schuette](http://www.paulschuette.com/)  
-Cincinnati, OH, USA  
-[Excerpt of performace available on YouTube](https://www.youtube.com/watch?v=inZUFKHSn1o)
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <img src="assets/publpics/sciMus2.png" alt="Science! The Musical." title="Science! The Musical."/>
+  </td>
+  <td class="right">
+    <p> Drum set player for the world premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) <br/> 
+    by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/) <br/> 
+    Corpus Playroom, Cambridge, UK
+    </p>
+  </td>
+</tr>
+<tr>
 
 
-Rhode Lines (Band)  
-Cincinnati, OH  
-[Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)  
+<table class="wide">
+<tr>
+  <td class="left">
+    <img src="assets/publpics/osc2.png" alt="Prepping for performance of Oscillator Etudes" title="Prepping for performance of Oscillator Etudes"/>
+  </td>
+  <td class="right">
+    <p> World premiere of [*Oscillator Etudes*](http://www.paulschuette.com/music/) <br/>  
+		[Paul Schuette](http://www.paulschuette.com/) <br/>  
+		br/>Indianapolis, IN, USA  
+    </p>
+  </td>
+</tr>
+<tr>
 
+
+<table class="wide">
+<tr>
+  <td class="left">
+    <img src="assets/publpics/osc2.png" alt="Prepping for performance of Oscillator Etudes" title="Prepping for performance of Oscillator Etudes"/>
+  </td>
+  <td class="right">
+    <p> Rhode Lines (Band) <br/>  
+		Cincinnati, OH, USA <br/>  
+		[Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE) 
+    </p>
+  </td>
+</tr>
+<tr>
+
+**Senior Recital**
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 

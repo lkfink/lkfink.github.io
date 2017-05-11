@@ -23,23 +23,22 @@ coming soon...
 
 ### <a name="current"></a>courses taught
 At the University of California Davis, I have been a teaching assistant for the following courses. **Courses listed with a "D" indicate that I was responsible for designing, teaching, and grading my own discussion section.** Courses are organized below according to the department in which they were taught. 
-<br><br>
-<br><br>
+
 **Dept. of Neurobiology, Physiology, & Behavior:** 
 - Neurobiology - **D**
 - Human Brain & Disease 
 - Neurobiology of Speech 
-<br><br>
+
 **Dept. of Psychology:**
 - Psychology of Music
 - Research Methods 
-<br><br>
+
 **Humanities Program:**
 - Cultural History of the Blues - **D**
-<br><br>
+
 **University Writing Program:**  
 - Popular Science and Technology Writing - **D**
-<br><br>
+
 
 ### <a name="portfolio"></a>teaching portfolio
 Student ratings and reviews from all courses taught available upon request. Please email me. 

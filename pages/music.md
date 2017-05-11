@@ -29,14 +29,18 @@ coming soon...
 
 #### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  
-![ad]({{ BASE_PATH }}/assets/publpics/sciMus2.png)
+![ad]({{ BASE_PATH }}/assets/publpics/ScienceMusical.png)
 <br><br>
 <br><br>
 <br><br>
  
 #### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
+Focus Day Evening Concert
+[Percussive Arts Society International Convention](http://www.pas.org/)
 Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)
+Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
+![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)
 <br><br>
 <br><br>
 <br><br>

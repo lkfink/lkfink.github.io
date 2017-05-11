@@ -9,6 +9,7 @@ description: Lauren Fink's teaching
         <ul class="nav">
             <li><a href="#philosophy">teaching philosophy</a></li>
             <li><a href="#current">courses taught</a></li>
+            <li><a href="#portfolio">teaching portfolio</a></li>
             <li><a href="#misc">misc lectures</a></li>
             <li><a href="#dev">course development</a></li>
         </ul>
@@ -19,6 +20,9 @@ description: Lauren Fink's teaching
 ### <a name="philosophy"></a>teaching philosophy
 
 ### <a name="current"></a>courses taught
+
+### <a name="portfolio"></a>teaching portfolio
+Student ratings and reviews from all courses taught available upon request. Please email me. 
 
 ### <a name="misc"></a>misc lectures
 

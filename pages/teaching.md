@@ -8,9 +8,9 @@ description: Lauren Fink's teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#philosophy">teaching philosophy</a></li>
-            <li><a href="#current">current courses</a></li>
+            <li><a href="#current">courses taught</a></li>
             <li><a href="#misc">misc lectures</a></li>
-            <li><a href="#dev">under development</a></li>
+            <li><a href="#dev">course development</a></li>
         </ul>
     </div>
 </div>
@@ -18,9 +18,8 @@ description: Lauren Fink's teaching
 
 ### <a name="philosophy"></a>teaching philosophy
 
-### <a name="current"></a>Current courses
-
+### <a name="current"></a>courses taught
 
 ### <a name="misc"></a>misc lectures
 
-### <a name="dev"></a>under development
+### <a name="dev"></a>courses under development

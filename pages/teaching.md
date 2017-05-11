@@ -7,7 +7,7 @@ description: Lauren Fink's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#philosophy">teaching philosophy</a></li>
+            <li><a href="#philosophy">teaching statement</a></li>
             <li><a href="#current">courses taught</a></li>
             <li><a href="#portfolio">teaching portfolio</a></li>
             <li><a href="#dev">courses developed</a></li>
@@ -16,7 +16,7 @@ description: Lauren Fink's teaching
 </div>
 
 
-### <a name="philosophy"></a>teaching philosophy
+### <a name="philosophy"></a>teaching statement
 coming soon...
 
 ### <a name="current"></a>courses taught

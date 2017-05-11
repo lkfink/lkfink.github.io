@@ -24,7 +24,7 @@ Coming soon...
 coming soon...
 
 #### past projects 
-
+![ad](sciMus2.png)
 Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical)  
 by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  

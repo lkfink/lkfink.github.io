@@ -40,9 +40,10 @@ At the University of California Davis, I have been a teaching assistant for the 
 
 
 ### <a name="portfolio"></a>teaching portfolio
-Student ratings and reviews from all courses taught available upon request. Please email me. 
+*Student ratings and reviews from all courses taught available upon request. Please email me.* 
 
-**Excerpts from my Neurobiology discussion section reviews:**
+**Excerpts from my Neurobiology discussion section reviews:**  
+
 "Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."  
 
 "She's an amazing TA, well-versed in the subject and she finds different ways to explain things until they are understood."  

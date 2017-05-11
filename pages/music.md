@@ -25,18 +25,16 @@ coming soon...
 
 #### Past Projects 
 
-
-
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="assets/publpics/sciMus2.png" alt="Science! The Musical." title="Science! The Musical."/>
+    <a href="pages/publpics/sciMus2.html">
+      <img src="assets/publpics/sciMus2.png" alt="Science! The Musical. graph" title="Science! The Musical. graph"/>
   </td>
   <td class="right">
-    <p> Drum set player for the world premiere of [Science! *The Musical.*](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) <br/> 
-    by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/) <br/> 
-    Corpus Playroom, Cambridge, UK
-    </p>
+    <li><a href="http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical">Drum set player for the world premiere of Science! <i>The Musical.<i/></a></li>
+    <li><a href="http://heymancenter.org/people/andrew-goldman/">by Andrew Goldman</a></li>
+    <p>Corpus Playroom, Cambridge, UK</p>
   </td>
 </tr>
 <tr>
@@ -45,13 +43,13 @@ coming soon...
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="assets/publpics/osc2.png" alt="Prepping for performance of Oscillator Etudes" title="Prepping for performance of Oscillator Etudes"/>
+    <a href="pages/publpics/osc2.html">
+      <img src="assets/publpics/osc2.png" alt="Prepping for performance of Oscillator Etudes" title="Prepping for performance of Oscillator Etudes"/>
   </td>
   <td class="right">
-    <p> World premiere of [*Oscillator Etudes*](http://www.paulschuette.com/music/) <br/>  
-		[Paul Schuette](http://www.paulschuette.com/) <br/>  
-		br/>Indianapolis, IN, USA  
-    </p>
+    <li><a href="http://www.paulschuette.com/music/">World premiere of <i>Oscillator Etudes</i>(</a></li>
+    <li><a href="http://www.paulschuette.com/">by Paul Schuette</a></li>
+		<p>Indianapolis, IN, USA</p>
   </td>
 </tr>
 <tr>
@@ -60,18 +58,19 @@ coming soon...
 <table class="wide">
 <tr>
   <td class="left">
-    <img src="assets/publpics/osc2.png" alt="Prepping for performance of Oscillator Etudes" title="Prepping for performance of Oscillator Etudes"/>
+    <a href="pages/publpics/rhodeLines.html">
+      <img src="assets/publpics/rhodeLines.png" alt="Playing a show" title="Playing a show"/>
   </td>
   <td class="right">
-    <p> Rhode Lines (Band) <br/>  
-		Cincinnati, OH, USA <br/>  
-		[Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE) 
-    </p>
+    <p>Rhode Lines (Band)</p>
+		<p>Cincinnati, OH, USA</p> 
+    <li><a href="https://www.youtube.com/watch?v=zS67TM2L1KE">Old footage available on youtube</a></li>
   </td>
 </tr>
 <tr>
 
-**Senior Recital**
+
+##### Senior Recital
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 

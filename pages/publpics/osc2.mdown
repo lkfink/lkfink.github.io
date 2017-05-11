@@ -1,0 +1,8 @@
+---
+layout: page
+title: Prepping for performance of Oscillator Etudes
+---
+
+Prepping for performance of Oscillator Etudes at PASIC 2014.
+
+[![osc2](../../assets/publpics/osc2.png)](https://lkfink.github.io/pages/publpics/osc2.html)

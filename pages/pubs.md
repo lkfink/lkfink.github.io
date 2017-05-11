@@ -9,8 +9,8 @@ description: Lauren Fink's publications
         <ul class="nav">
             <li><a href="#abstracts">abstracts</a></li>
             <li><a href="#articles">articles</a></li>
-            <li><a href="#thesis">thesis</a></li>
             <li><a href="#dissertation">dissertation</a></li>
+            <li><a href="#thesis">thesis</a></li>
         </ul>
     </div>
 </div>
@@ -53,6 +53,12 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
+### <a name="dissertation"></a>doctoral dissertation
+
+Check back in a few years. . . 
+
+
+
 ### <a name="thesis"></a>masters thesis
 #### Music modulates eyeblinks: An examination of temporal coordination.
 
@@ -70,9 +76,3 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination)
 
-
-
-
-### <a name="dissertation"></a>doctoral dissertation
-
-Check back in a few years. . . 

@@ -9,6 +9,7 @@ description: Lauren Fink's music
         <ul class="nav">
             <li><a href="#philosophy">some thoughts on music</a></li>
             <li><a href="#audio">media</a></li>
+	    <li><a href="#SeniorRecital">Senior Recital</a></li>
             <li><a href="#others">of interest</a></li>
         </ul>
     </div>
@@ -66,8 +67,7 @@ coming soon...
   </td>
 <tr>
 
-
-#### Senior Recital
+### <a name="SeniorRecital"></a>Senior Recital
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 

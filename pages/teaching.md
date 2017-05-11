@@ -52,9 +52,9 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 
 ### <a name="certs"></a>teaching certifications
-[![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf), University of Califonia Davis, Center for Educational Effectiveness
+[![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf), Foundations in Teaching, University of Califonia Davis, Center for Educational Effectiveness
 
-[![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf), University of Califonia Davis, Center for Educational Effectiveness
+[![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf), Thoughtful Pedagogy for Diverse Learning Environments, University of Califonia Davis, Center for Educational Effectiveness
 
 
 ### <a name="misc"></a>misc lectures

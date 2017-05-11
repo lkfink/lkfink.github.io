@@ -9,7 +9,7 @@ description: Lauren Fink's music
         <ul class="nav">
             <li><a href="#philosophy">some thoughts on music</a></li>
             <li><a href="#audio">media</a></li>
-	    <li><a href="#SeniorRecital">Senior Recital</a></li>
+	    <li><a href="#recital">senior recital</a></li>
             <li><a href="#others">of interest</a></li>
         </ul>
     </div>
@@ -57,17 +57,14 @@ coming soon...
   <td class="left">
     <a href="pages/publpics/rhodeLines.html">
       <img src="assets/publpics/rhodeLines.png" alt="Playing a show" title="Playing a show"/>
-
-<table class="wide">
-<tr>
   <td class="right">
     <p>Rhode Lines (Band)</p>
-		<p>Cincinnati, OH, USA</p> 
+    <p>Cincinnati, OH, USA</p> 
     <li><a href="https://www.youtube.com/watch?v=zS67TM2L1KE">Old footage available on youtube</a></li>
   </td>
 <tr>
 
-### <a name="SeniorRecital"></a>Senior Recital
+### <a name="recital"></a>senior recital
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 

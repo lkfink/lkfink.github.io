@@ -56,6 +56,9 @@ coming soon...
   <td class="left">
     <a href="pages/publpics/rhodeLines.html">
       <img src="assets/publpics/rhodeLines.png" alt="Playing a show" title="Playing a show"/>
+
+<table class="wide">
+<tr>
   <td class="right">
     <p>Rhode Lines (Band)</p>
 		<p>Cincinnati, OH, USA</p> 
@@ -64,7 +67,7 @@ coming soon...
 <tr>
 
 
-##### Senior Recital
+#### Senior Recital
 MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 

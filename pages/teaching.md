@@ -10,7 +10,7 @@ description: Lauren Fink's teaching
             <li><a href="#philosophy">teaching philosophy</a></li>
             <li><a href="#current">courses taught</a></li>
             <li><a href="#portfolio">teaching portfolio</a></li>
-            <li><a href="#dev">course developed</a></li>
+            <li><a href="#dev">courses developed</a></li>
         </ul>
     </div>
 </div>

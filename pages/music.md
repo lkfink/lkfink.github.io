@@ -8,7 +8,8 @@ description: Lauren Fink's music
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#philosophy">some thoughts on music</a></li>
-            <li><a href="#audio">media</a></li>
+            <li><a href="#current">current projects</a></li>
+            <li><a href="#past">past projects</a></li>
             <li><a href="#others">of interest</a></li>
         </ul>
     </div>
@@ -18,24 +19,22 @@ description: Lauren Fink's music
 ### <a name="philosophy"></a>some thoughts on music
 Coming soon...
 
-### <a name="audio"></a>media
-
-#### current projects
+### <a name="current"></a>curren projects
 coming soon...
 
-#### past projects 
-![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.png)  
+### <a name="past"></a>past projects 
 
-Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
+![ad](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/sciMus2.png)  
+#### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  
 
 
 ![setting up](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/osc2.png)  
-World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
+#### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
 Indianapolis, IN, USA<
 
 ![playing drums](https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/rhodeLines.png)
-Rhode Lines (Band)
+#### Rhode Lines (Band)
 Cincinnati, OH, USA
 [Old footage available on youtube](https://www.youtube.com/watch?v=zS67TM2L1KE)
 

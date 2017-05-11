@@ -43,7 +43,9 @@ Cincinnati, OH, USA
 
 
 #### senior recital
-MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
+#### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
+![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)
+![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
 

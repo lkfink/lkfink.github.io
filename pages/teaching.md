@@ -10,7 +10,6 @@ description: Lauren Fink's teaching
             <li><a href="#philosophy">teaching philosophy</a></li>
             <li><a href="#current">courses taught</a></li>
             <li><a href="#portfolio">teaching portfolio</a></li>
-            <li><a href="#certs">teaching certifications</a></li>
             <li><a href="#dev">course developed</a></li>
         </ul>
     </div>
@@ -55,7 +54,7 @@ At the University of California Davis, I have been a teaching assistant for the 
 "Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."
 
 
-### <a name="certs"></a>teaching certifications
+#### Teaching Certifications
 **Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf) 
 
 **Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf)

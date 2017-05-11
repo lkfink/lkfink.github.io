@@ -19,5 +19,5 @@ With this conference, we hope to provide a platform for expert researchers at th
 
 We also like to encourage researchers of more basic questions to apply, e.g., research on cross-modal interactions, if their research might contribute to an understanding of music processing.
 
-Note, we also plan a special issue on selected presentations of the conference with the focus on eye-movement research in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/).
+**Note, we also plan a special issue on selected presentations of the conference with the focus on eye-movement research in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/).**
 

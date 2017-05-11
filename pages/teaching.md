@@ -58,9 +58,7 @@ At the University of California Davis, I have been a teaching assistant for the 
 ### <a name="certs"></a>teaching certifications
 **Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf) 
 
-**Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf)
-
-
+**Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf target="blank")
 
 ### <a name="dev"></a>courses developed
 

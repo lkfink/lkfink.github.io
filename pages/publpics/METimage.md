@@ -10,7 +10,7 @@ See [https://www.ae.mpg.de/met17](https://www.ae.mpg.de/met17) for more details.
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html)
 
-**Call for Abstracts**
+**Call for Abstracts:**
 We are very pleased to announce this call for abstract submissions for the conference on “Music and Eye-tracking“ (MET17). Our goal is to bring together the leading experts from psychology, all fields of music research, sociology, cultural sciences, and neuroscience, united in the interest to investigate musical processing using eye-tracking methodology or combining eye-tracking with other methods.
 
 Musical processing unfolds in different domains. One obvious application of eye-tracking methodology is music sight-reading, a field, where much progress has been made in the 20th century. During the last few years there seems to be growing enthusiasm to apply eye-tracking methodology to capture the full complexity of musical processing, extending to music perception, cognition, learning, skill-acquisition, expertise, performance, social interactions, rhythmic entrainment, emotion processing, induced states of altered awareness, and cross-modal interactions between the auditory, visual, or motoric systems, to name just a few examples.

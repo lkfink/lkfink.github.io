@@ -17,7 +17,7 @@ description: Lauren Fink's music
 *“nothing is accomplished by writing a piece of music  
 nothing is accomplished by hearing a piece of music  
 nothing is accomplished by playing a piece of music  
-our ears are now in excellent condition.”*
+our ears are now in excellent condition.”*  
 ― John Cage, Silence: Lectures and Writings
 <br><br>
 

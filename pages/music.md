@@ -47,16 +47,6 @@ Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
 <br><br>
 <br><br>
 
-#### Rhode Lines (Band)
-Cincinnati, OH, USA
-![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png)  
-
-Click to play  
-
-[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE)
-<br><br>
-<br><br>
-<br><br>
 
 #### senior recital
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
@@ -81,4 +71,14 @@ Fool in the Rain - Led Zeppelin, arr. [Alex Fragiskatos](https://fragiskatosperc
 Click the image to play  
 
 [![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU)
+
+#### Rhode Lines (Band)
+Cincinnati, OH, USA
+![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png)  
+
+Click the image below to play  
+[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE)
+<br><br>
+<br><br>
+<br><br>
 

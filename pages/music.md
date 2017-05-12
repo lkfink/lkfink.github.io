@@ -52,7 +52,7 @@ View from the stage before the show.
 
 #### senior recital
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
-For a full description, please see the program and program notes. 
+For a full description, please see the program and program notes.  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"} 
 ![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)  

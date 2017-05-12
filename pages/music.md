@@ -63,7 +63,7 @@ Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
 Knockin' on Wood - Red Norvo, arr. [Shane Jones](http://www.shanejonespercussion.com/)  
 Click the image to play
 
-[![Knockin' on Wood](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=axHd9fq6yY4)
+[![Knockin' on Wood](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=axHd9fq6yY4){:target="_blank"}
 <br><br>
 <br><br>
 <br><br>
@@ -72,7 +72,7 @@ Click the image to play
 Fool in the Rain - Led Zeppelin, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/)  
 Click the image to play  
 
-[![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU)
+[![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU){:target="_blank"}
 <br><br>
 <br><br>
 <br><br>
@@ -81,7 +81,7 @@ Click the image to play
 Cincinnati, OH, USA  
 <!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
 Click the image below to play  
-[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE)
+[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE){:target="_blank"}
 <br><br>
 <br><br>
 <br><br>

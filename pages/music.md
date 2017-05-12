@@ -79,7 +79,7 @@ Click the image to play
 
 #### Rhode Lines (Band)
 Cincinnati, OH, USA
-[comment]: <> (![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png))
+<!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
  
 
 Click the image below to play  

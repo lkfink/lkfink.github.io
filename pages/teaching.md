@@ -20,7 +20,7 @@ description: Lauren Fink's teaching
 coming soon...
 
 ### <a name="current"></a>courses taught
-At the University of California Davis, I have been a teaching assistant for numerous courses. **Courses listed with a "D" indicate that I was responsible for designing, teaching, and grading my own discussion section.** Courses are organized below according to the department in which they were taught. 
+At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized below according to the department in which they were taught. 
 
 **Dept. of Neurobiology, Physiology, & Behavior:** 
 - Neurobiology - **D**
@@ -39,7 +39,7 @@ At the University of California Davis, I have been a teaching assistant for nume
 
 
 ### <a name="portfolio"></a>teaching portfolio
-Student ratings and reviews from all courses taught available upon request. Please email me.
+Student ratings and reviews from all courses taught available upon request. Please email Lauren.
 
 **Excerpts from my Neurobiology discussion section reviews:**  
 

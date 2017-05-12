@@ -43,7 +43,7 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 **Excerpts from my Neurobiology discussion section reviews:**  
 
-*"Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."  
+*"Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."*  
 
 *"She's an amazing TA, well-versed in the subject and she finds different ways to explain things until they are understood."*  
 

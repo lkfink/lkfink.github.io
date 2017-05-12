@@ -2,6 +2,7 @@
 layout: page
 title: music
 description: Lauren Fink's music
+<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
 ---
 
 <div class="navbar">
@@ -56,7 +57,8 @@ For a full description, please see the program and program notes.
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"} 
 ![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)  
-Recital Poster
+Recital Poster  
+
 ![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)  
 View of the stage before the show
 <br><br>

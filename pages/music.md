@@ -32,11 +32,8 @@ coming soon...
 Focus Day Evening Concert
 [Percussive Arts Society International Convention](http://www.pas.org/){:target="_blank"}
 Indianapolis, IN, USA
-![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)
-Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}
-<br><br>
-![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
-View from the stage before the show.
+![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png) ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
+Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"} View from the stage before the show.
 <br><br>
 <br><br>
 <br><br>

@@ -78,10 +78,8 @@ Click the image to play
 <br><br>
 
 #### Rhode Lines (Band)
-Cincinnati, OH, USA
+Cincinnati, OH, USA  
 <!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
- 
-
 Click the image below to play  
 [![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE)
 <br><br>

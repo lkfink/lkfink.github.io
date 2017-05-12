@@ -7,7 +7,6 @@ description: Lauren Fink's music
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#philosophy">some thoughts on music</a></li>
             <li><a href="#current">current projects</a></li>
             <li><a href="#past">past projects</a></li>
         </ul>
@@ -15,8 +14,11 @@ description: Lauren Fink's music
 </div>
 
 
-### <a name="philosophy"></a>some thoughts on music
-Coming soon...
+*“nothing is accomplished by writing a piece of music  
+nothing is accomplished by hearing a piece of music  
+nothing is accomplished by playing a piece of music  
+our ears are now in excellent condition.”*
+― John Cage, Silence: Lectures and Writings
 <br><br>
 
 ### <a name="current"></a>current projects
@@ -55,12 +57,22 @@ Cincinnati, OH, USA
 
 #### senior recital
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
-![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)
-![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
+![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)
+![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)
 <br><br>
 <br><br>
 <br><br>
 
+#### Playing with some friends in Cincinnati
+Knockin' on Wood - Red Norvo, arr. [Shane Jones](http://www.shanejonespercussion.com/)
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=axHd9fq6yY4">
+</iframe>
+
+Fool in the Rain - Led Zeppelin, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/)
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=Ga-iHxlNgqU">
+</iframe>
 

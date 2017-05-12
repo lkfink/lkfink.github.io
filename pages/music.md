@@ -51,9 +51,9 @@ Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
 Cincinnati, OH, USA
 ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png)  
 
-Click to play
+Click to play  
+
 [![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE)
-zS67TM2L1KE
 <br><br>
 <br><br>
 <br><br>

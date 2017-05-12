@@ -43,15 +43,15 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 **Excerpts from my Neurobiology discussion section reviews:**  
 
-"Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."  
+*"Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."  
 
-"She's an amazing TA, well-versed in the subject and she finds different ways to explain things until they are understood."  
+*"She's an amazing TA, well-versed in the subject and she finds different ways to explain things until they are understood."*  
 
-"Lauren's quirky explanations made a lot more sense most of the time than the professor's. She is great at clarifying things that were presented in lecture in a non-intuitive manner. I appreciate her efforts and genuine desire to help students understand. She also wears the coolest socks sometimes."  
+*"Lauren's quirky explanations made a lot more sense most of the time than the professor's. She is great at clarifying things that were presented in lecture in a non-intuitive manner. I appreciate her efforts and genuine desire to help students understand. She also wears the coolest socks sometimes."*  
 
-"Lauren was very funny and helpful. I liked her a lot as a TA and she made it clear which concepts were important and which concepts we were thinking too deeply about for the class. She kept discussion interesting. I would enjoy having her as a TA again! :) Thanks for all your help, Lauren!"  
+*"Lauren was very funny and helpful. I liked her a lot as a TA and she made it clear which concepts were important and which concepts we were thinking too deeply about for the class. She kept discussion interesting. I would enjoy having her as a TA again! :) Thanks for all your help, Lauren!"*  
 
-"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."
+*"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
 
 
 #### Teaching Certifications

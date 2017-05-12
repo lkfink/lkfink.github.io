@@ -28,7 +28,7 @@ coming soon...
 ### <a name="past"></a>past projects 
 
 
-#### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
+#### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical){:target="_blank"} by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/){:target="_blank"}  
 Corpus Playroom, Cambridge, UK  
 ![ad]({{ BASE_PATH }}/assets/publpics/ScienceMusical.png)  
 Poster advertisement
@@ -36,12 +36,12 @@ Poster advertisement
 <br><br>
 <br><br>
  
-#### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/)
+#### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/){:target="_blank"}
 Focus Day Evening Concert
-[Percussive Arts Society International Convention](http://www.pas.org/)
+[Percussive Arts Society International Convention](http://www.pas.org/){:target="_blank"}
 Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)
-Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
+Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}
 <br><br>
 ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
 View from the stage before the show.
@@ -52,8 +52,8 @@ View from the stage before the show.
 
 #### senior recital
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
-[Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
-[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
+[Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   
+[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"} 
 ![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)
 ![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)  
 View of the stage before the show
@@ -63,7 +63,7 @@ View of the stage before the show
 
 #### Playing with some friends in Cincinnati
 
-Knockin' on Wood - Red Norvo, arr. [Shane Jones](http://www.shanejonespercussion.com/)  
+**Knockin' on Wood - Red Norvo**, arr. [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}  
 Click the image to play
 
 [![Knockin' on Wood](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=axHd9fq6yY4){:target="_blank"}
@@ -72,7 +72,7 @@ Click the image to play
 <br><br>
 
 
-Fool in the Rain - Led Zeppelin, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/)  
+**Fool in the Rain - Led Zeppelin**, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/){:target="_blank"}  
 Click the image to play  
 
 [![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU){:target="_blank"}

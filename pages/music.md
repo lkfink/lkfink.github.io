@@ -30,7 +30,8 @@ coming soon...
 
 #### Drum set player for world premiere of [Science! *The Musical*.](http://www.mus.cam.ac.uk/news/feature-pieces/science-the-musical) by [Andrew Goldman](http://heymancenter.org/people/andrew-goldman/)  
 Corpus Playroom, Cambridge, UK  
-![ad]({{ BASE_PATH }}/assets/publpics/ScienceMusical.png)
+![ad]({{ BASE_PATH }}/assets/publpics/ScienceMusical.png)  
+Poster advertisement
 <br><br>
 <br><br>
 <br><br>
@@ -42,7 +43,8 @@ Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)
 Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
 <br><br>
-![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)
+![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
+View from the stage before the show.
 <br><br>
 <br><br>
 <br><br>
@@ -53,7 +55,8 @@ Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf)   
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf) 
 ![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)
-![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)
+![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)  
+View of the stage before the show
 <br><br>
 <br><br>
 <br><br>

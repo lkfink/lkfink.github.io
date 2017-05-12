@@ -10,7 +10,6 @@ description: Lauren Fink's music
             <li><a href="#philosophy">some thoughts on music</a></li>
             <li><a href="#current">current projects</a></li>
             <li><a href="#past">past projects</a></li>
-            <li><a href="#others">of interest</a></li>
         </ul>
     </div>
 </div>
@@ -40,6 +39,7 @@ Focus Day Evening Concert
 Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)
 Photo credit [Shane Jones](http://www.shanejonespercussion.com/)
+<br><br>
 ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)
 <br><br>
 <br><br>
@@ -63,5 +63,4 @@ Cincinnati, OH, USA
 <br><br>
 <br><br>
 
-### <a name="others"></a>of interest
-Coming soon...
+

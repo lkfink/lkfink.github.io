@@ -53,12 +53,14 @@ Poster advertisement
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 For a full description, please see the program and program notes.  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   
-[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"} 
+[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}  
 The chance-determined background audio track described in the performance notes (that played behind the live music throughout the recital) can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent. 
+
 <audio controls preload> 
     <!-- <source src="audio.mp3"></source> -->
     <source src="../assets/audio/recital_background_track.ogg"></source> 
-</audio>
+</audio>  
+
 
 ![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)  
 Recital Poster  

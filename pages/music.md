@@ -66,13 +66,16 @@ Cincinnati, OH, USA
 <br><br>
 
 #### Playing with some friends in Cincinnati
+<html>
+<body>
 Knockin' on Wood - Red Norvo, arr. [Shane Jones](http://www.shanejonespercussion.com/)
-<iframe width="420" height="315"
+<iframe width="620" height="315"
 src="https://www.youtube.com/watch?v=axHd9fq6yY4">
 </iframe>
 
 Fool in the Rain - Led Zeppelin, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/)
-<iframe width="420" height="315"
+<iframe width="620" height="315"
 src="https://www.youtube.com/watch?v=Ga-iHxlNgqU">
 </iframe>
-
+</body>
+</html>

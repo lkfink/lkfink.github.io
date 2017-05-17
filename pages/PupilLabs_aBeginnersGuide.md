@@ -1,7 +1,7 @@
 ## Pupil Lab's mobile eye-tracking glasses:
 ## A guide to buying and using
 
-by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, *M.Phil*
+by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, *M.Phil*  
 May 2017
 
 

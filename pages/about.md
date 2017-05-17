@@ -4,13 +4,23 @@ title: about
 description: Lauren Fink is a neuroscience PhD student at the University of California, Davis.
 ---
 
-Lauren Fink is a graduate student researcher in the [lab of Petr Janata](https://atonal.ucdavis.edu/) at the University of California, Davis. She is also a [graduate writing fellow](http://writing.ucdavis.edu/programs-services/writing-across-curriculum/graduate-students-and-postdoctoral) in the university's Writing Across the Curriculum Program and editor-in-chief of *[Explorations](http://explorations.ucdavis.edu/): The UC Davis Journal of Undergraduate Research.*
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/fink_cv.pdf" target="_blank">cv</a></li>
+          <li><a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">linkedIn</a></li>
+          <li><a href="https://github.com/lkfink" target="_blank">github</a></li>
+      </ul>
+  </div>
+</div>
+
+Lauren Fink is a graduate student researcher in the [lab of Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"} at the University of California, Davis. She is also a [graduate writing fellow](http://writing.ucdavis.edu/programs-services/writing-across-curriculum/graduate-students-and-postdoctoral){:target="_blank"} in the university's Writing Across the Curriculum Program and editor-in-chief of *[Explorations](http://explorations.ucdavis.edu/){:target="_blank"}: The UC Davis Journal of Undergraduate Research.*
 
 
-Lauren received a BM in percussion performance in 2013, from the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/), where she studied with with [Allen Otte](https://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof_0) of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html). In 2014, Lauren received an M.Phil in Music Studies: Music & Science from the [University of Cambridge](https://www.cam.ac.uk/). At Cambridge, Lauren was a researcher at the [Center for Music & Science](http://cms.mus.cam.ac.uk/) and was supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross).
+Lauren received a BM in percussion performance in 2013, from the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/){:target="_blank"}, where she studied with with [Allen Otte](https://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof_0){:target="_blank"} of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html){:target="_blank"}. In 2014, Lauren received an M.Phil in Music Studies: Music & Science from the [University of Cambridge](https://www.cam.ac.uk/){:target="_blank"}. At Cambridge, Lauren was a researcher at the [Center for Music & Science](http://cms.mus.cam.ac.uk/){:target="_blank"} and was supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"}.
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/fink_cv.pdf) 
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/fink_cv.pdf){:target="_blank"} 
 
 
 ---
@@ -21,9 +31,9 @@ Lauren received a BM in percussion performance in 2013, from the [University of 
     <div class="row-fluid">
         <div class="span5">
             Lauren Fink<br/>
-            <a href="http://neuroscience.ucdavis.edu/gg/">Neuroscience Graduate Program</a><br/>
-            <a href="https://www.ucdavis.edu/">University of California, Davis</a><br/>
-            <a href="http://mindbrain.ucdavis.edu/">Center for Mind and Brain</a><br/>
+            <a href="http://neuroscience.ucdavis.edu/gg/" target="_blank">Neuroscience Graduate Program</a><br/>
+            <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a><br/>
+            <a href="http://mindbrain.ucdavis.edu/" target="_blank">Center for Mind and Brain</a><br/>
             267 Cousteau Place <br/>
             Davis, CA 95618<br/>
             USA<br/><br/>
@@ -32,7 +42,7 @@ Lauren received a BM in percussion performance in 2013, from the [University of 
             Email: <code>lk</code><b>I</b><code>fink</code><b>don't</b><code>@</code><b>want</b><code>uc</code><b>spam!
             </b><code>davis</code><b>So</b><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><code>u</code><br/>
-            <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/">LinkedIn</a><br/>
+            <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">LinkedIn</a><br/>
             </div>
         </div>
 

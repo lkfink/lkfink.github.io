@@ -49,7 +49,7 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 **Fink, L.** (in press). Chance Operations in Neuroscience.
 
 #### 2016
-**Fink, L.** (2016, November). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue) 
+**Fink, L.** (2016, November). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
 
 
 
@@ -62,7 +62,7 @@ Check back in a few years. . .
 ### <a name="thesis"></a>masters thesis
 #### Music modulates eyeblinks: An examination of temporal coordination.
 
-Supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross) 
+Supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"} 
 
 ##### Abstract: 
 Eyeblinks have yet to attract significant attention in music cognition research, though they have been studied extensively in other domains. Rather than an artifact to be removed in eye tracking or EEG data, eyeblinks, and their connection with musical behaviors, warrant proper exploration.
@@ -74,5 +74,5 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 
 **Present Aims:** Because eyeblinks have clear social and clinical implications, the goal of this thesis is to examine the role eyeblinks might play in music cognition and to discuss the results of a sight- reading experiment conducted at the Conservatorium van Amsterdam. Results of the experiment suggest that, in general, eyeblinks are suppressed while sight-reading; however, blinks that do occur tend to be at musical phrase transitions or at other structurally relevant musical instances. While there is variability across participants in average number of blinks per reading, there is an incredible amount of consistency on an individual basis in average number of blinks, as well as musical/temporal location of blinks across readings. Overall, it seems that eyeblinks provide insights into an individual’s chunking of musical information and are likely to be a particularly useful evaluative tool in pedagogical and/or therapeutic settings, in addition to experimental ones.
 
-[Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination)
+[Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
 

@@ -55,14 +55,14 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 
 #### Teaching Certifications
-**Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf) 
+**Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf){:target="_blank"} 
 
-**Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf)
+**Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf){:target="_blank"}
 
 ### <a name="dev"></a>courses developed
 
 **This is your Brain on Beyoncé**  
 
-An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/) and Beyoncé's recent visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/) as core texts.  
+An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's recent visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  
 
 Syllabus coming soon..

@@ -9,8 +9,9 @@ description: Lauren Fink's publications
         <ul class="nav">
             <li><a href="#abstracts">abstracts</a></li>
             <li><a href="#articles">articles</a></li>
-            <li><a href="#dissertation">dissertation</a></li>
+            <li><a href="#editor">edited volumes</a></li>
             <li><a href="#thesis">thesis</a></li>
+            <li><a href="#dissertation">dissertation</a></li>
         </ul>
     </div>
 </div>
@@ -20,6 +21,8 @@ description: Lauren Fink's publications
 
 #### 2017
 Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*
+
+**Fink, L.**, Geng, J., Hurley, B. & Janata, P. Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Conference on Music & Eye-Tracking, Frankfurt, Germany.*
 
 Hurley, B., **Fink, L.**, & Janata, P. (2017, March). A resonator model predicts temporal orienting in rhythmic music. *Proceedings of the Cognitive Neuroscience Society Annual Meeting.* 
 
@@ -43,19 +46,20 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
+### <a name="editor"></a>edited volumes
+
+**L. Fink** (Ed.) (2017). *Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19). The Regents of the University of California.   
+
+J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* 
+
+
 ### <a name="articles"></a>articles
 
 #### 2017
-**Fink, L.** (in press). Chance Operations in Neuroscience.
+**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
 
 #### 2016
-**Fink, L.** (2016, November). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
-
-
-
-### <a name="dissertation"></a>doctoral dissertation
-
-Check back in a few years. . . 
+**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
 
 
 
@@ -75,4 +79,9 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 **Present Aims:** Because eyeblinks have clear social and clinical implications, the goal of this thesis is to examine the role eyeblinks might play in music cognition and to discuss the results of a sight- reading experiment conducted at the Conservatorium van Amsterdam. Results of the experiment suggest that, in general, eyeblinks are suppressed while sight-reading; however, blinks that do occur tend to be at musical phrase transitions or at other structurally relevant musical instances. While there is variability across participants in average number of blinks per reading, there is an incredible amount of consistency on an individual basis in average number of blinks, as well as musical/temporal location of blinks across readings. Overall, it seems that eyeblinks provide insights into an individual’s chunking of musical information and are likely to be a particularly useful evaluative tool in pedagogical and/or therapeutic settings, in addition to experimental ones.
 
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
+
+
+### <a name="dissertation"></a>doctoral dissertation
+
+Check back in a few years. . . 
 

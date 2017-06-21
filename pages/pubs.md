@@ -50,7 +50,7 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 **L. Fink** (Ed.) (2017). *Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19). The Regents of the University of California.   
 
-J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* 
+J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
 
 
 ### <a name="articles"></a>articles

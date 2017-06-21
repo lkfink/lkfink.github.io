@@ -31,7 +31,5 @@ Info coming soon...
 
 #### R
 
-#### HTML/CSS
-
 ### <a name="music"></a>on academia
 Info coming soon... 

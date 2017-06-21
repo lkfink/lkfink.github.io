@@ -9,7 +9,7 @@ May 2017
 I spent a lot of time deliberating about how I wanted to use the glasses and what I needed them to be able to do. Here are some things that helped me in my deliberation process that you might consider doing: 
 - Read through [Pupil Lab's online documentation](https://docs.pupil-labs.com/){:target="_blank"}.
 - Download [Pupil Capture](https://github.com/pupil-labs/pupil/releases/tag/v0.9.10){:target="_blank"} and [Pupil Player](https://github.com/pupil-labs/pupil/releases/tag/v0.9.10){:target="_blank"} (the software for recording and viewing the eye-tracking data, rexpectively). You won't be able to do much with these without your glasses but you can get a sense of the use interface and what is possible. 
-- Email the Pupil Labs sales team. Will, from the team, promptly answered all of my questions. I sent him over 10 emails ans each time he was polite and helpful.  
+- Email the Pupil Labs sales team. Will, from the team, promptly answered all of my questions. I sent him over 10 emails and each time he was polite and helpful.  
 - Follow the discussions Pupil Labs glasses users are having on [Discord](https://discordapp.com/invite/gKmmGqy){:target="_blank"}
 - Wacth the issue thread on the [Pupil Labs github page](https://github.com/pupil-labs/pupil){:target="_blank"}. This is probably only necessary if you plan to dig in to the Pupil Capture or Pupil Player code.
 

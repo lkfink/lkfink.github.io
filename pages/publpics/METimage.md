@@ -18,7 +18,7 @@ Musical processing unfolds in different domains. One obvious application of eye-
 With this conference, we hope to provide a platform for expert researchers at the intersection of music and eye-tracking to communicate with one another, to foster and enrich discussions about methods, and to continue refining models and theories of musical processing with insights from eye-tracking. We have also invited researchers that apply more basic questions, e.g., research on cross-modal interactions. Together we will discuss the complex question: what do eye movements, pupil dilation, and blinking activity tell us about musical processing?
 
 ## Conference Program
-Click here to view the MET conference program [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}  
+Click here to view the MET conference program [![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}  
 
 ## Special Issue in JEMR
 We arranged for a special issue with selected presentations from the conference to be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/), starting fall/winter 2017/18.

@@ -54,6 +54,10 @@ invited to communicate their research. Our project will provide a platform for s
 - Enhance the visibility of underrepresented scientists
 - Give underrepresented scientists a broader platform to reach the scientific community, especially aspiring young scientists
 - Facilitate candid dialogue between underrepresented faculty and students, particularly regarding their journeys in academia
-- Establish research connections and possible collaborations between our invited speakers and researchers at UC Davis
+- Establish research connections and possible collaborations between our invited speakers and researchers at UC Davis  
+
+
+
+![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/SOMA.png)  
 
 

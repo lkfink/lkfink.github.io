@@ -38,7 +38,7 @@ The code for this project is currently being developed and will eventually be pu
 ### <a name="MET"></a>Conference on Music and Eye-Tracking
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html)  
 
-The [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17), was organized by Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html). MET was held 17-18 August 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html) organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17), which was held 17-18 August 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 
 [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: resources
+title: Resources
 description: useful resources
 ---
 

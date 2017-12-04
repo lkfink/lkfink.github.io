@@ -30,5 +30,5 @@ Info coming soon...
 #### Python
 [Free Audio Signal Processing Course on Coursera](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"}
 
-### <a name="music"></a>academia
+### <a name="music"></a>Academia
 Info coming soon... 

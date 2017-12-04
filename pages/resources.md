@@ -28,7 +28,7 @@ Info coming soon...
 #### Matlab
 
 #### Python
-[Free Audio Signal Processing Course on Coursera](https://www.coursera.org/learn/audio-signal-processing){target=blank}
+[Free Audio Signal Processing Course on Coursera](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"}
 
 ### <a name="music"></a>academia
 Info coming soon... 

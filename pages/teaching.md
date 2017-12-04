@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 description: Lauren Fink's teaching
 ---
 

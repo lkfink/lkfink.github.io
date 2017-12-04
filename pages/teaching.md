@@ -7,19 +7,19 @@ description: Lauren Fink's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#philosophy">teaching statement</a></li>
-            <li><a href="#current">courses taught</a></li>
-            <li><a href="#portfolio">teaching portfolio</a></li>
-            <li><a href="#dev">courses developed</a></li>
+            <li><a href="#philosophy">Teaching statement</a></li>
+            <li><a href="#current">Courses taught</a></li>
+            <li><a href="#portfolio">Teaching portfolio</a></li>
+            <li><a href="#dev">Courses developed</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="philosophy"></a>teaching statement
+### <a name="philosophy"></a>Teaching statement
 coming soon...
 
-### <a name="current"></a>courses taught
+### <a name="current"></a>Courses taught
 At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized below according to the department in which they were taught. 
 
 **Dept. of Neurobiology, Physiology, & Behavior:** 
@@ -38,7 +38,7 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 - Popular Science and Technology Writing - **D**
 
 
-### <a name="portfolio"></a>teaching portfolio
+### <a name="portfolio"></a>Teaching portfolio
 Student ratings and reviews from all courses taught available upon request. Please email Lauren.
 
 **Excerpts from my Neurobiology discussion section reviews:**  
@@ -59,7 +59,7 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 **Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf){:target="_blank"}
 
-### <a name="dev"></a>courses developed
+### <a name="dev"></a>Courses developed
 
 **This is your Brain on Beyoncé**  
 

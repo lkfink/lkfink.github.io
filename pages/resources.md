@@ -23,7 +23,7 @@ Free [Introduction to Music Theory course](http://www.open.edu/openlearn/history
 
 [Public Domain Music Scores](http://imslp.org/wiki/Main_Page){:target="_blank"}
 
-[International Inventory of Musical Sources](International Inventory of Musical Sources){:target="_blank"}
+[International Inventory of Musical Sources](http://www.rism.info/){:target="_blank"}
 
 [Free repository of sounds](https://freesound.org/){:target="_blank"}
 

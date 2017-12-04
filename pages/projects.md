@@ -7,8 +7,8 @@ description: Lauren Fink's projects
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#mobile eye-tracking">mobile eye-tracking</a></li>
-            <li><a href="#modeling attention">modeling attention</a></li>
+            <li><a href="#Mobile eye-tracking">mobile eye-tracking</a></li>
+            <li><a href="#Modeling attention">modeling attention</a></li>
             <li><a href="#GEM">GEM</a></li> 
             <li><a href="#MET">MET</a></li> 
             <li><a href="#SOMA">SOMA</a></li> 
@@ -17,7 +17,7 @@ description: Lauren Fink's projects
 </div>
 
 
-### <a name="mobile eye-tracking"></a>mobile eye-tracking
+### <a name="mMbile eye-tracking"></a>mobile eye-tracking
 
 Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon.
 
@@ -25,7 +25,7 @@ For anyone considering purchasing from Pupil Labs, Lauren has written up a [shor
 
 <br><br>
 
-### <a name="modeling attention"></a>modeling attention
+### <a name="Modeling attention"></a>modeling attention
 In this project, we use a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, we aim to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.
 
 <br><br>

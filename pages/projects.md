@@ -26,7 +26,7 @@ For anyone considering purchasing from Pupil Labs, Lauren has written up a [shor
 <br><br>
 
 ### <a name="modeling attention"></a>modeling attention
-Lauren is using eye-tracking and Tomic and Janata's (2008) [Beyond-the-Beat model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict dynamic attention to musical scenes. More details coming soon.
+Music is present in all known human cultures and is commonly used to facilitate social interactions, mood/arousal regulation, and therapeutic change. As such, music is a potent, ethologically valid tool for studying the neural mechanisms of attention and interpersonal coordination. In this project, we use a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, we aim to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.
 
 <br><br>
 

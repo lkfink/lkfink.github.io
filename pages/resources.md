@@ -7,22 +7,22 @@ description: useful resources
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#music">music</a></li>
-            <li><a href="#neuroscience">neuroscience</a></li>
-            <li><a href="#programming">programming</a></li>
-            <li><a href="#academia">academia</a></li>
+            <li><a href="#music">Music</a></li>
+            <li><a href="#neuroscience">Neuroscience</a></li>
+            <li><a href="#programming">Programming</a></li>
+            <li><a href="#academia">Academia</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="music"></a>music
+### <a name="music"></a>Music
 Info coming soon... 
 
-### <a name="neuroscience"></a>neuroscience
+### <a name="neuroscience"></a>Neuroscience
 Info coming soon... 
 
-### <a name="music"></a>programming
+### <a name="music"></a>Programming
 Info coming soon... 
 
 #### Matlab

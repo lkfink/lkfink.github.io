@@ -7,10 +7,10 @@ description: useful resources
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#music">on music</a></li>
-            <li><a href="#neuroscience">on neuroscience</a></li>
-            <li><a href="#programming">on programming</a></li>
-            <li><a href="#academia">on academia</a></li>
+            <li><a href="#music">music</a></li>
+            <li><a href="#neuroscience">neuroscience</a></li>
+            <li><a href="#programming">programming</a></li>
+            <li><a href="#academia">academia</a></li>
         </ul>
     </div>
 </div>

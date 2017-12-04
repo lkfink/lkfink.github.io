@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 description: Lauren Fink's projects
 ---
 

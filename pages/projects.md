@@ -10,6 +10,7 @@ description: Lauren Fink's projects
             <li><a href="#mobile eye-tracking">mobile eye-tracking</a></li>
             <li><a href="#modeling attention">modeling attention</a></li>
             <li><a href="#GEM">GEM</a></li> 
+            <li><a href="#MET">MET</a></li> 
             <li><a href="#SOMA">SOMA</a></li> 
         </ul>
     </div>
@@ -34,8 +35,21 @@ The code for this project is currently being developed and will eventually be pu
 
 <br><br>
 
+### <a name="MET"></a>Conference on Music and Eye-Tracking
+[![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html)  
+
+The [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17), was organized by Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html) and held August 17-18, 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+
+[![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
+
+We have arranged for a special issue with selected presentations from the conference to be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/). Submissions are currently being accepted and will be published on a rolling basis, beginning winter 2018.
+
+
+
+<br><br>
+
 ### <a name="SOMA"></a>SOMA: Seminar Outreach for Minority Advocacy
-This is a collaborative project with fellow neuroscience graduate student [Milagros Copara](https://www.researchgate.net/profile/Milagros_Copara){:target="_blank"} to enhance diversity within UC Davis and our neuroscience graduate group. We have received funding from the UC Davis [Diversity Inclusion and Innovation Grant](http://studentaffairs.ucdavis.edu/campus-diversity/diversity-inclusion/dii/index.html){:target="_blank"}.  
+SOMA is a collaborative project with fellow neuroscience graduate student [Milagros Copara](https://www.researchgate.net/profile/Milagros_Copara){:target="_blank"} to enhance diversity within UC Davis and our neuroscience graduate group. We have received funding from the UC Davis [Diversity Inclusion and Innovation Grant](http://studentaffairs.ucdavis.edu/campus-diversity/diversity-inclusion/dii/index.html){:target="_blank"}.  
 
 **Abstract:**
 Despite the enthusiasm of the Neuroscience Graduate Group for increasing diversity, there exists a lack of training and awareness regarding diversity-related issues. Adding to this deficit, few underrepresented minorities are invited to give seminars, creating an illusion among our group that success as a minority is rare - a sentiment counter to our stated goals, as well as the retention of our diverse student population. To enhance the visibility of successful underrepresented minorities in neuroscience and educate our campus community about psychological issues that contribute to continued oppression of minority groups, we plan to organize a speaker series consisting of scientists from underrepresented backgrounds. Half of these speakers will be from cellular or systems neuroscience backgrounds, while the other half will be from social neuroscience, speaking on their research related to the neuroscience of implicit bias, race relations, gender, etc. All invited speakers will be asked to begin their seminar with a description of their journeys in academia as a minority. We hope this opportunity to share personal stories will enhance the awareness of underrepresented stories in academia. Potential invited speakers include Tiffany Ito who studies the neural correlates of prejudice and Ben Barres - a transgender man who speaks about gender bias in academia, as well as the function of neural glial cells. Each seminar will be followed by lunch, allowing students the opportunity to interact with the speaker on a personal level. All talks will be open to the entire campus community; lunches will be reserved for neuroscience graduate students.  

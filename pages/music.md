@@ -8,21 +8,21 @@ description: Lauren Fink's music
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#current">current projects</a></li>
-            <li><a href="#past">past projects</a></li>
+            <li><a href="#current">Current projects</a></li>
+            <li><a href="#past">Past projects</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="current"></a>current projects
+### <a name="current"></a>Current projects
 Lauren is a volunteer drum set coach at [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"}. 
 > "Girls Rock Sacramento is a nonprofit 501 C-3 organization that empowers girls through music and music education. We promote an environment that fosters self-confidence, creativity and teamwork. GRS challenges gender stereotypes, encourages collaboration and tolerance among peers, and provides a comfortable and safe place for girls of all backgrounds to express themselves. Through music lessons, workshops, group activities and live performance, girls acquire skills that help guide them throughout their lives."
 
 More current projects coming soon...
 <br><br>
 
-### <a name="past"></a>past projects 
+### <a name="past"></a>Past projects 
  
 #### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/){:target="_blank"}
 Focus Day Evening Concert
@@ -45,7 +45,7 @@ Poster advertisement
 <br><br>
 <br><br>
 
-#### senior recital
+#### Senior recital
 #### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
 For a full description, please see the program and program notes.  
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   

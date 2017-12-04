@@ -36,7 +36,9 @@ More coming soon...
 
 [Auditory Neuroscience tutorials](https://auditoryneuroscience.com/){:target="_blank"}
 
-[Anne's List](https://anneslist.net/){:target="_blank"}, highlighting women in neuroscience
+[Anne's List](https://anneslist.net/){:target="_blank"}, highlighting women in neuroscience  
+
+[Bias Watch Neuro](https://biaswatchneuro.com/?wref=bif){:target="_blank"} - "The goal of this site is to track the speaker composition of conferences in neuroscience, particularly with respect to gender representation."  
 
 More coming soon... 
 

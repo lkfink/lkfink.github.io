@@ -19,7 +19,9 @@ description: useful resources
 
 ### <a name="music"></a>Music
 
-Free [Introduction to Music Theory course](http://www.open.edu/openlearn/history-the-arts/culture/music/introduction-music-theory/content-section-0?active-tab=description-tab){:target="_blank"} from the Open University
+Free [courses from the Berklee College of Music](https://www.edx.org/school/berkleex){:target="_blank"}
+
+Free [Introduction to Western Music Theory course](http://www.open.edu/openlearn/history-the-arts/culture/music/introduction-music-theory/content-section-0?active-tab=description-tab){:target="_blank"} from the Open University
 
 [Public Domain Music Scores](http://imslp.org/wiki/Main_Page){:target="_blank"}
 

@@ -7,9 +7,9 @@ description: Lauren Fink is a neuroscience PhD student at the University of Cali
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/fink_cv.pdf" target="_blank">cv</a></li>
-          <li><a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">linkedIn</a></li>
-          <li><a href="https://github.com/lkfink" target="_blank">github</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/fink_cv.pdf" target="_blank">CV</a></li>
+          <li><a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">LinkedIn</a></li>
+          <li><a href="https://github.com/lkfink" target="_blank">Github</a></li>
       </ul>
   </div>
 </div>

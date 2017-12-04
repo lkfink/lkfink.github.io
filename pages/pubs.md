@@ -7,17 +7,17 @@ description: Lauren Fink's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#abstracts">abstracts</a></li>
-            <li><a href="#articles">articles</a></li>
-            <li><a href="#editor">edited volumes</a></li>
-            <li><a href="#thesis">thesis</a></li>
-            <li><a href="#dissertation">dissertation</a></li>
+            <li><a href="#abstracts">Abstracts</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#editor">Edited volumes</a></li>
+            <li><a href="#thesis">Thesis</a></li>
+            <li><a href="#dissertation">Dissertation</a></li>
         </ul>
     </div>
 </div>
 
 
-### <a name="abstracts"></a>conference abstracts
+### <a name="abstracts"></a>Conference abstracts
 
 #### 2017
 Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*
@@ -46,14 +46,14 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
-### <a name="editor"></a>edited volumes
+### <a name="editor"></a>Edited volumes
 
 **L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
 
 J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
 
 
-### <a name="articles"></a>articles
+### <a name="articles"></a>Articles
 
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
@@ -63,7 +63,7 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 
 
-### <a name="thesis"></a>masters thesis
+### <a name="thesis"></a>Masters thesis
 #### Music modulates eyeblinks: An examination of temporal coordination.
 
 Supervised by [Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"} 
@@ -81,7 +81,7 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
 
 
-### <a name="dissertation"></a>doctoral dissertation
+### <a name="dissertation"></a>Doctoral dissertation
 
 Check back in a few years. . . 
 

@@ -2,8 +2,8 @@
 layout: page
 title: Music
 description: Lauren Fink's music
-<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
 ---
+
 
 <div class="navbar">
     <div class="navbar-inner">

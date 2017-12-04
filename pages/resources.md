@@ -16,20 +16,19 @@ description: useful resources
 </div>
 
 
-### <a name="music"></a>on music
+### <a name="music"></a>music
 Info coming soon... 
 
-### <a name="neuroscience"></a>on neuroscience
+### <a name="neuroscience"></a>neuroscience
 Info coming soon... 
 
-### <a name="music"></a>on programming
+### <a name="music"></a>programming
 Info coming soon... 
 
 #### Matlab
 
 #### Python
+[Free Audio Signal Processing Course on Coursera](https://www.coursera.org/learn/audio-signal-processing){target=blank}
 
-#### R
-
-### <a name="music"></a>on academia
+### <a name="music"></a>academia
 Info coming soon... 

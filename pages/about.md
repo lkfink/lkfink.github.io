@@ -25,7 +25,7 @@ Lauren received a BM in percussion performance in 2013, from the [University of 
 ---
 
 <div class="container">
-<h4><a name="contact"></a>contact</h4>
+<h4><a name="contact"></a>Contact</h4>
 
     <div class="row-fluid">
         <div class="span5">

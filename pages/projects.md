@@ -40,7 +40,7 @@ The code for this project is currently being developed and will eventually be pu
 
 Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html) organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17), which was held 17-18 August 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 
-[![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
+Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
 We have arranged for a special issue with selected presentations from the conference to be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/). Submissions are currently being reviewed and will be published on a rolling basis, beginning winter 2018.
 

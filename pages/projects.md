@@ -42,7 +42,7 @@ Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/peop
 
 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
-We have arranged for a special issue with selected presentations from the conference to be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/). Submissions are currently being reviewed and will be published on a rolling basis, beginning winter 2018.
+A special issue with selected presentations from the conference will be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/). Submissions are currently being reviewed and will be published on a rolling basis, beginning winter 2018.
 
 
 

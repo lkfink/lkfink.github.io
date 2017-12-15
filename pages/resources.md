@@ -56,7 +56,7 @@ More coming soon...
 #### Python
 Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"} on Coursera  
 
-[matplotlib](http://matplotlib.org/){:target="_blank"} – make nice plots in python!  
+[Matplotlib](http://matplotlib.org/){:target="_blank"} – make nice plots in python!  
 
 [SciPy tutorials](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html){:target="_blank"}  
 

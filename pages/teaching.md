@@ -67,4 +67,4 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's recent visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  
 
-Syllabus coming soon..
+Syllabus available upon request.

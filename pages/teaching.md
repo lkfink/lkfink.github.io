@@ -55,6 +55,8 @@ Student ratings and reviews from all courses taught available upon request. Plea
 
 
 #### Teaching Certifications
+**Science Communication Program**, American Association for the Advancement of Science. [![Science Communication Program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Certificate_AAAS_ScienceCommunicationProgram.pdf){:target="_blank"} 
+
 **Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf){:target="_blank"} 
 
 **Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf){:target="_blank"}

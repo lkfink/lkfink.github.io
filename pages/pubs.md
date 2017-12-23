@@ -20,7 +20,7 @@ description: Lauren Fink's publications
 ### <a name="abstracts"></a>Conference abstracts
 
 #### 2017
-Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*
+Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *Proceedings of the European Conference on Eye Movements, Wüppertal, Germany,* pgs. 73-75.
 
 **Fink, L.**, Geng, J., Hurley, B. & Janata, P. (2017, August). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Conference on Music & Eye-Tracking, Frankfurt, Germany.*
 

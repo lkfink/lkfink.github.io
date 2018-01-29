@@ -30,7 +30,7 @@ Lauren received a BM in percussion performance in 2013, from the [University of 
     <div class="row-fluid">
         <div class="span5">
             Lauren Fink<br/>
-            <a href="http://neuroscience.ucdavis.edu/gg/" target="_blank">Neuroscience Graduate Program</a><br/>
+            <a href="http://neuroscience.ucdavis.edu/gg/" target="_blank">Neuroscience Graduate Group</a><br/>
             <a href="https://www.ucdavis.edu/" target="_blank">University of California, Davis</a><br/>
             <a href="http://mindbrain.ucdavis.edu/" target="_blank">Center for Mind and Brain</a><br/>
             267 Cousteau Place <br/>

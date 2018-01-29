@@ -57,6 +57,9 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 ### <a name="articles"></a>Articles
 
+#### 2018
+Hurley, B. K., **Fink, L. K.**, Janata, P. (2017). Mapping the dynamic allocation of attention in musical patterns. Manusicript submitted for publication.  
+
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
 

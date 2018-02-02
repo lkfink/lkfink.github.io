@@ -15,13 +15,21 @@ description: Lauren Fink's music
 </div>
 
 
-### <a name="current"></a>Current projects
+### <a name="current"></a>Current projects  
+
+#### California Arts Council
+From Winter 2018-2020, Lauren is a peer review panelist for the [California Arts Council](http://www.arts.ca.gov/){:target="_blank"}.
+> "Peer-review panels [. . .] ensure that our grant application review process is democratic, fair and representative of California’s diverse geography; wealth of organizations; racial, ethnic and gender identities; perspectives and knowledge."  
+
+![CAC logo]({{ BASE_PATH }}/pages/publpics/CAC.png) 
+
+#### Girls Rock Sacramento
 Lauren is a volunteer drum set coach at [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"}. 
 > "Girls Rock Sacramento is a nonprofit 501 C-3 organization that empowers girls through music and music education. We promote an environment that fosters self-confidence, creativity and teamwork. GRS challenges gender stereotypes, encourages collaboration and tolerance among peers, and provides a comfortable and safe place for girls of all backgrounds to express themselves. Through music lessons, workshops, group activities and live performance, girls acquire skills that help guide them throughout their lives."
 
 ![GRS kit]({{ BASE_PATH }}/pages/publpics/GRS.png)  
 
-More current projects coming soon...
+
 <br><br>
 
 ### <a name="past"></a>Past projects 

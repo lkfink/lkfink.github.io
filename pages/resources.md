@@ -54,7 +54,10 @@ More coming soon...
 [IPEM Toolbox](https://www.ugent.be/lw/kunstwetenschappen/en/research-groups/musicology/ipem/finishedprojects/ipem-toolbox.htm){:target="_blank"}
 
 #### Python
-Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"} on Coursera  
+
+[A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp){:target="_blank"}  
+
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){:target="_blank"} 
 
 [Matplotlib](http://matplotlib.org/){:target="_blank"} – make nice plots in python!  
 
@@ -67,6 +70,8 @@ Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signa
 [Numpy user guide](https://docs.scipy.org/doc/numpy-dev/user/){:target="_blank"}  
 
 [NumPy for Matlab users](http://mathesaurus.sourceforge.net/matlab-numpy.html){:target="_blank"} - a cheat sheet of functions  
+
+Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"} on Coursera  
  
 
 

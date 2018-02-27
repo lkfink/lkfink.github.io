@@ -3,6 +3,16 @@ layout: page
 title: About
 description: Lauren Fink is a neuroscience PhD student at the University of California, Davis.
 ---
+<HEAD>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-114823830-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-114823830-1');
+  </script>
+</HEAD>
 
 <div class="navbar">
   <div class="navbar-inner">

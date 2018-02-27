@@ -17,9 +17,9 @@ description: Lauren Fink's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#abstracts">Abstracts</a></li>
-            <li><a href="#articles">Articles</a></li>
             <li><a href="#editor">Edited volumes</a></li>
+            <li><a href="#articles">Articles</a></li>
+            <li><a href="#abstracts">Abstracts</a></li>
             <li><a href="#thesis">Thesis</a></li>
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
@@ -27,10 +27,43 @@ description: Lauren Fink's publications
 </div>
 
 
+
+
+
+
+### <a name="editor"></a>Edited volumes
+
+**Fink, L.** & Lange, E. (2018, forthcoming). Special Issue on Music & Eye-Tracking. *Journal of Eye Movement Research*.
+
+**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
+
+J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
+
+
+
+
+
+
+### <a name="articles"></a>Articles
+
+#### 2018
+Hurley, B. K., **Fink, L. K.**, Janata, P. (2017). Mapping the dynamic allocation of attention in musical patterns. Manuscript submitted for publication.  
+
+#### 2017
+**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
+
+#### 2016
+**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
+
+
+
+
+
+
 ### <a name="abstracts"></a>Conference abstracts  
 
 #### 2018
-**Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. Symposium to be presented at the College Composition and Communication Convention, Kansas City, MO.
+**Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. *Symposium presented at the College Composition and Communication Convention, Kansas City, MO.*
 
 #### 2017
 Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *Proceedings of the European Conference on Eye Movements, Wüppertal, Germany,* pgs. 73-75.
@@ -59,25 +92,7 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
-### <a name="editor"></a>Edited volumes
 
-**Fink, L.** & Lange, E. (2018, forthcoming). Special Issue on Music & Eye-Tracking. *Journal of Eye Movement Research*.
-
-**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
-
-J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
-
-
-### <a name="articles"></a>Articles
-
-#### 2018
-Hurley, B. K., **Fink, L. K.**, Janata, P. (2017). Mapping the dynamic allocation of attention in musical patterns. Manuscript submitted for publication.  
-
-#### 2017
-**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
-
-#### 2016
-**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
 
 
 
@@ -97,6 +112,10 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 **Present Aims:** Because eyeblinks have clear social and clinical implications, the goal of this thesis is to examine the role eyeblinks might play in music cognition and to discuss the results of a sight- reading experiment conducted at the Conservatorium van Amsterdam. Results of the experiment suggest that, in general, eyeblinks are suppressed while sight-reading; however, blinks that do occur tend to be at musical phrase transitions or at other structurally relevant musical instances. While there is variability across participants in average number of blinks per reading, there is an incredible amount of consistency on an individual basis in average number of blinks, as well as musical/temporal location of blinks across readings. Overall, it seems that eyeblinks provide insights into an individual’s chunking of musical information and are likely to be a particularly useful evaluative tool in pedagogical and/or therapeutic settings, in addition to experimental ones.
 
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
+
+
+
+
 
 
 ### <a name="dissertation"></a>Doctoral dissertation

@@ -27,7 +27,10 @@ description: Lauren Fink's publications
 </div>
 
 
-### <a name="abstracts"></a>Conference abstracts
+### <a name="abstracts"></a>Conference abstracts  
+
+#### 2018
+**Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. Symposium to be presented at the College Composition and Communication Convention, Kansas City, MO.
 
 #### 2017
 Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *Proceedings of the European Conference on Eye Movements, Wüppertal, Germany,* pgs. 73-75.

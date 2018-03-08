@@ -83,7 +83,8 @@ More coming soon...
 
 Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"} on Coursera  
  
-
+#### SQL
+[SQL tutorial on Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/){:target="_blank"}
 
 
 

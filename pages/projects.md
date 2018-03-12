@@ -85,7 +85,7 @@ invited to communicate their research. Our project will provide a platform for s
 
 ![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/SOMA.png)  
 
-
+<br><br>
 
 ### <a name="WAC"></a>Writing Across the Curriculum (WAC)
 Lauren currently serves as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, she manages a team of six Graduate Writing Fellows and acts as a liason between graduate fellows and faculty. Part of her role involves content creation and organization. For example, [Lauren recently developed a new website for the WAC team](https://sites.google.com/ucdavis.edu/wac){:target="_blank"}.  

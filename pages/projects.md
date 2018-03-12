@@ -22,12 +22,13 @@ description: Lauren Fink's projects
             <li><a href="#GEM">GEM</a></li> 
             <li><a href="#MET">MET</a></li> 
             <li><a href="#SOMA">SOMA</a></li> 
+            <li><a href="#WAC">WAC</a></li> 
         </ul>
     </div>
 </div>
 
 
-### <a name="mMbile eye-tracking"></a>Mobile eye-tracking
+### <a name="Mobile eye-tracking"></a>Mobile eye-tracking
 
 Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon.
 
@@ -83,5 +84,12 @@ invited to communicate their research. Our project will provide a platform for s
 
 
 ![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/SOMA.png)  
+
+
+
+### <a name="WAC"></a>Writing Across the Curriculum (WAC)
+Lauren currently serves as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, she manages a team of six Graduate Writing Fellows and acts as a liason between graduate fellows and faculty. Part of her role involves content creation and organization. For example, [Lauren recently developed a new website for the WAC team](https://sites.google.com/ucdavis.edu/wac){:target="_blank"}.  
+
+The WAC fellows hold one-on-one [writing consultations](https://sites.google.com/ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](https://sites.google.com/ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](https://sites.google.com/ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](https://sites.google.com/ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](https://sites.google.com/ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. Lauren developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](https://sites.google.com/ucdavis.edu/wac/wac/gwf-bios){:target="_blank"}. 
 
 

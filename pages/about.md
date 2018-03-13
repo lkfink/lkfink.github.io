@@ -24,7 +24,7 @@ description: Lauren Fink is a neuroscience PhD student at the University of Cali
   </div>
 </div>
 
-Lauren Fink is a PhD candidate in the [lab of Dr. Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"} at the University of California, Davis.  
+Lauren Fink is a PhD candidate in the [lab of Dr. Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"} at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}.  
 
 Lauren received a BM in percussion performance in 2013, from the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/){:target="_blank"}, where she studied with [Allen Otte](http://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof){:target="_blank"} of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html){:target="_blank"}. In 2015, Lauren received an M.Phil in Music Studies from the [University of Cambridge](https://www.cam.ac.uk/){:target="_blank"}. At Cambridge, Lauren was a researcher at the [Center for Music & Science](http://cms.mus.cam.ac.uk/){:target="_blank"} and was supervised by [Dr. Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"}.  
 

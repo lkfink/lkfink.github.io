@@ -49,10 +49,10 @@ Recently, Lauren has been a visiting researcher at the [Swartz Center for Comput
             USA<br/><br/>
 
             <div id="hide_email">
+            <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">LinkedIn</a><br/>
             Email: <code>lk</code><b>I</b><code>fink</code><b>don't</b><code>@</code><b>want</b><code>uc</code><b>spam!
             </b><code>davis</code><b>So</b><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><code>u</code><br/>
-            <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">LinkedIn</a><br/>
             <a href="https://orcid.org/0000-0001-6699-750X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6699-750X</a>
             </div>
         </div>

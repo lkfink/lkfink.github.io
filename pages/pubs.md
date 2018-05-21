@@ -33,7 +33,7 @@ description: Lauren Fink's publications
 
 ### <a name="editor"></a>Edited volumes
 
-**Fink, L.** & Lange, E. (2018, forthcoming). Special Issue on Music & Eye-Tracking. *Journal of Eye Movement Research*.
+**Fink, L.** & Lange, E. (2018, forthcoming). Special Issue on Music & Eye-Tracking. *Journal of Eye Movement Research*.  
 
 **L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
 
@@ -47,7 +47,12 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 ### <a name="articles"></a>Articles
 
 #### 2018
-Hurley, B. K., **Fink, L. K.**, Janata, P. (2017). Mapping the dynamic allocation of attention in musical patterns. Manuscript submitted for publication.  
+
+**Fink, L.**, Hurley, B., Geng, J. & Janata, P. (submitted). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  
+
+**Fink, L.** & Lange, E. (in press). The application of eye-tracking in music research. *Journal of Eye Movement Research.*  
+
+Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* DOI: 10.1037/xhp0000563
 
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
@@ -63,6 +68,11 @@ Hurley, B. K., **Fink, L. K.**, Janata, P. (2017). Mapping the dynamic allocatio
 ### <a name="abstracts"></a>Conference abstracts  
 
 #### 2018
+
+**Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk to be presented at the International Conference on Music Perception & Cognition, Graz, Austria.* 
+
+**Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*
+
 **Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. *Symposium presented at the College Composition and Communication Convention, Kansas City, MO.*
 
 #### 2017

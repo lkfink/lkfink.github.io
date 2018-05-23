@@ -90,11 +90,17 @@ Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signa
 
 ### <a name="music"></a>Academia
 
-[Women & Science](http://www.jessicagrahn.com/women--science.html){:target="_blank"} from Dr. Jessica Grahn (lots of useful links!)
-[Academia Net](http://www.academia-net.org/project/){:target="_blank"}
-[Women in Cognitive Science](http://womenincogsci.org/){:target="_blank"}
-[Anne's List](https://anneslist.net/){:target="_blank"}
-[Women in Music Information Retrieval](http://www.ismir.net/wimir.html){:target="_blank"}
-[Bias Watch Neuro](https://biaswatchneuro.com/){:target="_blank"}
+[Women & Science](http://www.jessicagrahn.com/women--science.html){:target="_blank"} from Dr. Jessica Grahn (lots of useful links!)  
+
+[Academia Net](http://www.academia-net.org/project/){:target="_blank"}  
+
+[Women in Cognitive Science](http://womenincogsci.org/){:target="_blank"}  
+
+[Anne's List](https://anneslist.net/){:target="_blank"}  
+
+[Women in Music Information Retrieval](http://www.ismir.net/wimir.html){:target="_blank"}  
+
+[Bias Watch Neuro](https://biaswatchneuro.com/){:target="_blank"}  
+
 
 More coming soon... 

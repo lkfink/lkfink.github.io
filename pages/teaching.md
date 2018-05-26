@@ -18,8 +18,9 @@ description: Lauren Fink's teaching
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#philosophy">Teaching statement</a></li>
-            <li><a href="#current">Courses taught</a></li>
-            <li><a href="#portfolio">Teaching portfolio</a></li>
+            <li><a href="#courses">Courses taught</a></li>
+            <li><a href="#reviews">Reviews</a></li>
+            <li><a href="#certifications">Certifications</a></li>
             <li><a href="#dev">Courses developed</a></li>
         </ul>
     </div>
@@ -32,7 +33,7 @@ coming soon...
 <br>
 <br>
 
-### <a name="current"></a>Courses taught
+### <a name="courses"></a>Courses taught
 At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized below according to the department in which they were taught. 
 
 **Dept. of Neurobiology, Physiology, & Behavior:** 
@@ -53,7 +54,7 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 <br>
 <br>
 
-### <a name="portfolio"></a>Teaching portfolio
+### <a name="reviews"></a>Reviews
 Student ratings and reviews from all courses taught available upon request. 
 
 **Excerpts from Neurobiology discussion section reviews:**  
@@ -68,8 +69,7 @@ Student ratings and reviews from all courses taught available upon request.
 
 *"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
 
-
-#### Teaching Certifications
+### <a name="certifications"></a>Teaching Certifications
 **Science Communication Program**, American Association for the Advancement of Science. [![Science Communication Program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Certificate_AAAS_ScienceCommunicationProgram.pdf){:target="_blank"} 
 
 **Designing an Undergraduate STEM Course**, American Association for the Advancement of Science. [![STEM course](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Certificate_AAAS_designingSTEMcourse.pdf){:target="_blank"}  

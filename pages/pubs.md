@@ -41,7 +41,9 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 
 
-
+<br></br>
+<br></br>
+<br></br>
 
 
 ### <a name="articles"></a>Articles
@@ -61,7 +63,9 @@ Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocatio
 **Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
 
 
-
+<br></br>
+<br></br>
+<br></br>
 
 
 
@@ -101,7 +105,9 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 **Fink, L.** & Mazman, A. (2013, July). False belief attribution: An investigation of the neural pattern account. *Poster presented at the Society for Philosophy and Psychology Conference, Providence, RI.*
 
 
-
+<br></br>
+<br></br>
+<br></br>
 
 
 
@@ -124,7 +130,9 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
 
 
-
+<br></br>
+<br></br>
+<br></br>
 
 
 

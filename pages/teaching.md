@@ -69,6 +69,9 @@ Student ratings and reviews from all courses taught available upon request.
 
 *"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
 
+<br>
+<br>
+
 ### <a name="certifications"></a>Teaching Certifications
 **Science Communication Program**, American Association for the Advancement of Science. [![Science Communication Program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Certificate_AAAS_ScienceCommunicationProgram.pdf){:target="_blank"} 
 

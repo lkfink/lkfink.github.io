@@ -22,6 +22,8 @@ From Winter 2018-2020, Lauren is a peer review panelist for the [California Arts
 > "Peer-review panels [. . .] ensure that our grant application review process is democratic, fair and representative of California’s diverse geography; wealth of organizations; racial, ethnic and gender identities; perspectives and knowledge."  
 
 ![CAC logo]({{ BASE_PATH }}/pages/publpics/CAC.png) 
+<br>
+
 
 #### Girls Rock Sacramento
 Lauren is a volunteer drum set coach at [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"}. 
@@ -30,7 +32,8 @@ Lauren is a volunteer drum set coach at [Girls Rock Sacramento](http://www.girls
 ![GRS kit]({{ BASE_PATH }}/pages/publpics/GRS.png)  
 
 
-<br><br>
+<br>
+<br>
 
 ### <a name="past"></a>Past projects 
  

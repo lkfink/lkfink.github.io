@@ -29,6 +29,9 @@ description: Lauren Fink's teaching
 ### <a name="philosophy"></a>Teaching statement
 coming soon...
 
+<br>
+<br>
+
 ### <a name="current"></a>Courses taught
 At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized below according to the department in which they were taught. 
 
@@ -47,6 +50,8 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 **University Writing Program:**  
 - Popular Science and Technology Writing - **D**
 
+<br>
+<br>
 
 ### <a name="portfolio"></a>Teaching portfolio
 Student ratings and reviews from all courses taught available upon request. 
@@ -72,6 +77,9 @@ Student ratings and reviews from all courses taught available upon request.
 **Foundations in Teaching**, University of Califonia Davis, Center for Educational Effectiveness. [![Foundations in teaching](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Foundations_TeachingCertificate_Fink.pdf){:target="_blank"} 
 
 **Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf){:target="_blank"}
+
+<br>
+<br>
 
 ### <a name="dev"></a>Courses developed
 

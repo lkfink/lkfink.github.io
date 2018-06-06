@@ -33,7 +33,7 @@ description: Lauren Fink's publications
 
 ### <a name="editor"></a>Edited volumes
 
-**Fink, L.** & Lange, E. (2018, forthcoming). Special Issue on Music & Eye-Tracking. *Journal of Eye Movement Research*.  
+**Fink, L.** & Lange, E. (2018, rolling/forthcoming). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
 
 **L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
 

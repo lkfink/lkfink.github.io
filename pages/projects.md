@@ -86,7 +86,7 @@ invited to communicate their research. Our project will provide a platform for s
 
 
 
-![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/SOMA.png)  
+![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/soma201718.png)  
 
 <br><br>
 

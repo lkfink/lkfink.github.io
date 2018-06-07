@@ -33,7 +33,8 @@ description: Lauren Fink's projects
 Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon.
 
 For anyone considering purchasing from Pupil Labs, Lauren has written up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
-
+ 
+![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png)  
 <br><br>
 
 ### <a name="Modeling attention"></a>Modeling attention

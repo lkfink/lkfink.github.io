@@ -45,6 +45,8 @@ In this project, Lauren uses a combination of computational modeling, psychophys
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
 The code for this project is currently being developed and will eventually be publicly available. Check back in a few months for more details. 
 
+![groove enhancement machine collage]({{ BASE_PATH }}/assets/publpics/gem_example.png)  
+
 <br><br>
 
 ### <a name="MET"></a>Conference on Music and Eye-Tracking

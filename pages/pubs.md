@@ -17,9 +17,9 @@ description: Lauren Fink's publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#editor">Edited volumes</a></li>
             <li><a href="#articles">Articles</a></li>
             <li><a href="#abstracts">Abstracts</a></li>
+            <li><a href="#editor">Edited volumes</a></li>
             <li><a href="#thesis">Thesis</a></li>
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
@@ -28,21 +28,6 @@ description: Lauren Fink's publications
 
 
 
-
-
-
-### <a name="editor"></a>Edited volumes
-
-**Fink, L.** & Lange, E. (2018, rolling/forthcoming). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
-
-**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
-
-J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
-
-
-
-<br>
-<br>
 
 
 ### <a name="articles"></a>Articles
@@ -106,6 +91,19 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 <br>
 <br>
 
+
+### <a name="editor"></a>Edited volumes
+
+**Fink, L.** & Lange, E. (2018, rolling/forthcoming). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
+
+**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
+
+J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
+
+
+
+<br>
+<br>
 
 
 

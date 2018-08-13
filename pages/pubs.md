@@ -38,7 +38,7 @@ description: Lauren Fink's publications
 
 **Fink, L.** & Lange, E. (in press). The application of eye-tracking in music research. *Journal of Eye Movement Research.*  
 
-Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* DOI: 10.1037/xhp0000563
+Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  

@@ -18,8 +18,8 @@ description: Lauren Fink's publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">Articles</a></li>
-            <li><a href="#abstracts">Abstracts</a></li>
             <li><a href="#editor">Edited volumes</a></li>
+            <li><a href="#abstracts">Abstracts</a></li>
             <li><a href="#thesis">Thesis</a></li>
             <li><a href="#dissertation">Dissertation</a></li>
         </ul>
@@ -34,11 +34,11 @@ description: Lauren Fink's publications
 
 #### 2018
 
-**Fink, L.**, Hurley, B., Geng, J. & Janata, P. (submitted). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  
-
 **Fink, L.** & Lange, E. (in press). The application of eye-tracking in music research. *Journal of Eye Movement Research.*  
 
-Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
+**Fink, L.**, Hurley, B., Geng, J. & Janata, P. (submitted). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  
+
+Hurley, B., **Fink, L.**, & Janata, P. (2018, August 9). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* Advance online publication. [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
@@ -50,6 +50,20 @@ Hurley, B., **Fink, L.**, & Janata, P. (in press). Mapping the dynamic allocatio
 <br>
 <br>
 
+
+
+
+### <a name="editor"></a>Edited volumes
+
+**Fink, L.** & Lange, E. (2018, rolling/forthcoming). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
+
+**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
+
+J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}   
+
+
+<br>
+<br>
 
 
 ### <a name="abstracts"></a>Conference abstracts  
@@ -86,19 +100,6 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 #### 2013
 **Fink, L.** & Mazman, A. (2013, July). False belief attribution: An investigation of the neural pattern account. *Poster presented at the Society for Philosophy and Psychology Conference, Providence, RI.*
-
-
-<br>
-<br>
-
-
-### <a name="editor"></a>Edited volumes
-
-**Fink, L.** & Lange, E. (2018, rolling/forthcoming). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
-
-**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
-
-J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}  
 
 
 

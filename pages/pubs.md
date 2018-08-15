@@ -20,8 +20,8 @@ description: Lauren Fink's publications
             <li><a href="#articles">Articles</a></li>
             <li><a href="#editor">Edited volumes</a></li>
             <li><a href="#abstracts">Abstracts</a></li>
-            <li><a href="#thesis">Thesis</a></li>
             <li><a href="#dissertation">Dissertation</a></li>
+            <li><a href="#thesis">Thesis</a></li>
         </ul>
     </div>
 </div>

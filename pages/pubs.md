@@ -70,7 +70,7 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 #### 2018
 
-**Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk to be presented at the International Conference on Music Perception & Cognition, Graz, Austria.* 
+**Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.* 
 
 **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*
 
@@ -108,6 +108,28 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 
+
+### <a name="dissertation"></a>Doctoral dissertation
+[Dissertation still in progress. Check back in about a year for the full document]  
+
+#### PROJECT SUMMARY 
+Music is present in all known human cultures and is commonly used to facilitate social interactions, mood/arousal regulation, and therapeutic change. As such, music is a potent, ethologically valid tool for studying the neural mechanisms of attention and interpersonal coordination. In this project, we use a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, we aim to 1) assess the potential of a stimulus-driven linear oscillator model to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.  
+
+Evidenced through perceptual thresholds for detecting change at various points in time, as well as pupillary and eyeblink responses, preliminary results reveal that temporal structure in musical patterns enhances attention to specific points in time over others. Further, we have found that ocular motor changes are systematically related to auditory ones. Such correspondence between ocular data and auditory stimuli provides a potential mechanistic explanation for the enhanced visual target detection that has been shown to occur in the presence of rhythmic auditory stimuli, as well as the changes in visual experience often reported during music listening. We have shown that our linear oscillator model can predict not only participants’ perceptual thresholds but also the continuous pupillary response to musical patterns. To our knowledge, we are the first to show that the pupil can become entrained by rhythmic auditory stimuli.  
+
+In sum, our model is a promising tool for predicting continuous attentional (behavioral and physiological) responses to novel auditory stimuli. The additional analysis to be completed as part of my dissertation research will assess our model’s usefulness in predicting cortical electrophysiology in relation to auditory stimuli, as well as the relationship between ocular and cortical electrophysiological data. Ultimately, this research will enhance our understanding of how the brain responds to complex musical patterns and provide insights for harnessing the effects of music to enhance or alter attentional states.  
+
+#### INNOVATION & SIGNIFICANCE
+At present, leading models of temporal attention can only predict prominent periodicities present in an audio signal. This research will assess a time-varying prediction of temporal salience. In other words, rather than a broad average of the expected behavior resulting from an audio signal, we aim to predict on an instant-by-instant basis the attentional fluctuations elicited by auditory stimuli. To investigate our linear oscillator model’s predictions, we have developed a couple of novel approaches. The first is an adaptive thresholding paradigm to measure perceptual thresholds for detecting change at various points in time throughout an on-going auditory scene. The second is the use of eye-tracking in such an auditory context. Though eye-tracking is a common methodology in other subfields of neuroscience, using motor behaviors such as eyeblinks and pupil dilation to index temporal attention to auditory scenes is relatively novel. Blinks and pupil dilation index striatal dopamine and the locus coeruleus norepinephrine system, respectively. These two neurotransmitter systems can otherwise only be studied in humans using invasive techniques such as PET imaging. Eye-tracking therefore provides an inexpensive, non-invasive way to understand the role of these two neurotransmitter systems in the context of auditory processing.  
+
+To evaluate the similarity of the temporal characteristics of the pupillary signal to cortical EEG, we will be developing novel analytical techniques. At present, very few studies treat the pupil signal as continuous; instead averages are taken following specific events of interest. Here we will do time-frequency analyses on the pupillary signal as well as the EEG, comparing their prominent frequency spectra and assessing any potential nested oscillatory activity. Similarly, the timing of blinks in relation to pupillary and cortical oscillations may also provide novel insights as to how the nervous system processes complex, rhythmically structured sound.
+The proposed research will provide a basic understanding of the ways in which the oculomotor system is influenced by temporally regular auditory stimuli. In addition to evaluating novel dependent measures in the context of auditory processing, this work will lay the foundation for future studies investigating the use of auditory stimuli to guide or distract from visual attention. The development and fine-tuning of our computational model in relation to this research will be a significant step forward for the computational music and auditory neuroscience research communities. All code for our model is publicly available for download as part of the [Janata Lab Music Toolbox](http://atonal.ucdavis.edu/resources/software/jlmt/){:target="_blank"}.  
+
+
+
+<br>
+<br>
+
 ### <a name="thesis"></a>Masters thesis
 #### Music modulates eyeblinks: An examination of temporal coordination.
 
@@ -126,24 +148,4 @@ Eyeblink analysis is an established neuropsychological tool – used to evaluate
 [Full Text Available for download on ResearchGate](https://www.researchgate.net/publication/267752012_Music_modulates_eyeblinks_An_examination_of_temporal_coordination){:target="_blank"}
 
 
-<br>
-<br>
-
-
-
-### <a name="dissertation"></a>Doctoral dissertation
-[Dissertation still in progress. Check back in about a year for the full document]  
-
-#### PROJECT SUMMARY 
-Music is present in all known human cultures and is commonly used to facilitate social interactions, mood/arousal regulation, and therapeutic change. As such, music is a potent, ethologically valid tool for studying the neural mechanisms of attention and interpersonal coordination. In this project, we use a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, we aim to 1) assess the potential of a stimulus-driven linear oscillator model to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.  
-
-Evidenced through perceptual thresholds for detecting change at various points in time, as well as pupillary and eyeblink responses, preliminary results reveal that temporal structure in musical patterns enhances attention to specific points in time over others. Further, we have found that ocular motor changes are systematically related to auditory ones. Such correspondence between ocular data and auditory stimuli provides a potential mechanistic explanation for the enhanced visual target detection that has been shown to occur in the presence of rhythmic auditory stimuli, as well as the changes in visual experience often reported during music listening. We have shown that our linear oscillator model can predict not only participants’ perceptual thresholds but also the continuous pupillary response to musical patterns. To our knowledge, we are the first to show that the pupil can become entrained by rhythmic auditory stimuli.  
-
-In sum, our model is a promising tool for predicting continuous attentional (behavioral and physiological) responses to novel auditory stimuli. The additional analysis to be completed as part of my dissertation research will assess our model’s usefulness in predicting cortical electrophysiology in relation to auditory stimuli, as well as the relationship between ocular and cortical electrophysiological data. Ultimately, this research will enhance our understanding of how the brain responds to complex musical patterns and provide insights for harnessing the effects of music to enhance or alter attentional states.  
-
-#### INNOVATION & SIGNIFICANCE
-At present, leading models of temporal attention can only predict prominent periodicities present in an audio signal. This research will assess a time-varying prediction of temporal salience. In other words, rather than a broad average of the expected behavior resulting from an audio signal, we aim to predict on an instant-by-instant basis the attentional fluctuations elicited by auditory stimuli. To investigate our linear oscillator model’s predictions, we have developed a couple of novel approaches. The first is an adaptive thresholding paradigm to measure perceptual thresholds for detecting change at various points in time throughout an on-going auditory scene. The second is the use of eye-tracking in such an auditory context. Though eye-tracking is a common methodology in other subfields of neuroscience, using motor behaviors such as eyeblinks and pupil dilation to index temporal attention to auditory scenes is relatively novel. Blinks and pupil dilation index striatal dopamine and the locus coeruleus norepinephrine system, respectively. These two neurotransmitter systems can otherwise only be studied in humans using invasive techniques such as PET imaging. Eye-tracking therefore provides an inexpensive, non-invasive way to understand the role of these two neurotransmitter systems in the context of auditory processing.  
-
-To evaluate the similarity of the temporal characteristics of the pupillary signal to cortical EEG, we will be developing novel analytical techniques. At present, very few studies treat the pupil signal as continuous; instead averages are taken following specific events of interest. Here we will do time-frequency analyses on the pupillary signal as well as the EEG, comparing their prominent frequency spectra and assessing any potential nested oscillatory activity. Similarly, the timing of blinks in relation to pupillary and cortical oscillations may also provide novel insights as to how the nervous system processes complex, rhythmically structured sound.
-The proposed research will provide a basic understanding of the ways in which the oculomotor system is influenced by temporally regular auditory stimuli. In addition to evaluating novel dependent measures in the context of auditory processing, this work will lay the foundation for future studies investigating the use of auditory stimuli to guide or distract from visual attention. The development and fine-tuning of our computational model in relation to this research will be a significant step forward for the computational music and auditory neuroscience research communities. All code for our model is publicly available for download as part of the [Janata Lab Music Toolbox](http://atonal.ucdavis.edu/resources/software/jlmt/){:target="_blank"}.
 

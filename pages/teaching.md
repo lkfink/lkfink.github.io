@@ -56,7 +56,7 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 <br>
 
 ### <a name="reviews"></a>Reviews
-Student ratings and reviews from all courses taught available upon request. 
+Student ratings and reviews from all courses taught are available upon request. 
 
 **Excerpts from Neurobiology discussion section reviews:**  
 

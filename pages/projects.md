@@ -30,9 +30,7 @@ description: Lauren Fink's projects
 
 ### <a name="Mobile eye-tracking"></a>Mobile eye-tracking
 
-Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon.
-
-For anyone considering purchasing from Pupil Labs, Lauren has written up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
+Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon. For anyone considering purchasing from Pupil Labs, Lauren has written up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
  
 ![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png)  
 <br><br>
@@ -43,7 +41,7 @@ In this project, Lauren uses a combination of computational modeling, psychophys
 <br><br>
 
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
-The code for this project is currently being developed and will eventually be publicly available. Check back in a few months for more details. 
+This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. Lauren is in the process of writing up the results of this project. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
 
 ![groove enhancement machine collage]({{ BASE_PATH }}/assets/publpics/gem_example.png)  
 
@@ -73,7 +71,7 @@ Despite the enthusiasm of the Neuroscience Graduate Group for increasing diversi
 Demographics within neuroscience vastly mismatch the actual distribution of minority communities within the United States population [1]. In a 2011 survey report of 97 U.S. neuroscience graduate programs, only 12% of predoctoral trainees were minorities (African- American, Hispanic-American, Native-American, “Other”) - a statistic that reduces to only 4% of postdoctoral trainees and 5% of tenure track faculty [2]. Increasing the visibility of underrepresented scientists is a critical component to addressing this inequity. Without visibility, the aforementioned unequal distributions are inevitably perpetuated. At UC Davis, there is a marked underrepresentation of individuals belonging to marginalized communities who are
 invited to communicate their research. Our project will provide a platform for scientific researchers to share a diverse set of ideas and perspectives, upholding Goals 3 and 4 of the UC Davis Diversity and Inclusion Strategic Plan. This unique exchange will be further developed through dialogue between our speakers and students in social spaces, like pre- seminar lunches and post-seminar dinners, which will hopefully lead to fruitful professional networks and mentorship opportunities.  
 
-1. U.S. Census Bureau. Population Estimates. *Vintage 2011: Downloadable Data Files*. Available from: https://www.census.gov/popest/data/historical/2010s/vintage_2011/index.html.  
+1. U.S. Census Bureau. Population Estimates. *Vintage 2011: Downloadable Data Files*. Available [here](https://www.census.gov/popest/data/historical/2010s/vintage_2011/index.html){:target="_blank"}.  
  
 2. Sved, A.F., *Report of Survey of Neuroscience Graduate, Postdoctoral, & Undergraduate Programs (Academic Year 2010-2011)*. Society for Neuroscience, 2011.  
 
@@ -87,6 +85,11 @@ invited to communicate their research. Our project will provide a platform for s
 
 
 ![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/soma201718.png)  
+
+
+**Renewed funding for 2018-19!**
+Thanks to the UC Davis neuroscience community's interest in this seminar series, we have been able to secure funding for three seminars in 2018-19! Details are available on the [neuroscience graduate group website](https://neuroscience.ucdavis.edu/seminar-outreach-minority-advocacy-soma){:target="_blank"}.
+
 
 <br><br>
 

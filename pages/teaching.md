@@ -56,7 +56,9 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 <br>
 
 ### <a name="reviews"></a>Reviews
-Student ratings and reviews from all courses taught are available upon request. 
+Student ratings and reviews (raw data) from all courses taught are available [here](https://github.com/lkfink/lkfink.github.io/tree/master/assets/UCD_CourseEvals){:target="_blank"}.  
+
+A concatenated summary of the evaluation data for all courses is presented here, in graphic format. [![UCD evals](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/UCD_courseEvals/UCD_teachingEvals_compiledCharts.pdf){:target="_blank"}  
 
 **Excerpts from Neurobiology discussion section reviews:**  
 

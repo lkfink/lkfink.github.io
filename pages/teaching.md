@@ -34,7 +34,7 @@ coming soon...
 <br>
 
 ### <a name="courses"></a>Courses taught
-At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized below according to the department in which they were taught. 
+At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized according to the department in which they were taught. 
 
 **Dept. of Neurobiology, Physiology, & Behavior:** 
 - Neurobiology - **D**
@@ -73,6 +73,13 @@ A concatenated summary of the evaluation data for all courses is presented here,
 *"Lauren was very funny and helpful. I liked her a lot as a TA and she made it clear which concepts were important and which concepts we were thinking too deeply about for the class. She kept discussion interesting. I would enjoy having her as a TA again! :) Thanks for all your help, Lauren!"*  
 
 *"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
+
+
+**Mentee Testimonals**
+As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy.
+- [letter from undergraduate mentee](https://github.com/lkfink/lkfink.github.io/blob/master/assets/Mentorship_letter.pdf){:target="_blank"} 
+- [letter from Neurobiology student for whom I wrote a recommendation letter](https://github.com/lkfink/lkfink.github.io/blob/master/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
+- [email from Neurobiology student](https://github.com/lkfink/lkfink.github.io/blob/master/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
 
 <br>
 <br>

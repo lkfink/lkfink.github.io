@@ -79,7 +79,7 @@ A concatenated summary of the evaluation data for all courses is presented here,
 
 As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy.
 - [letter from undergraduate mentee]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
-- [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NBP_thankYouLetter_1.pdf){:target="_blank"} 
+- [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
 - [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
 
 <br>

@@ -60,6 +60,8 @@ Student ratings and reviews (raw data) from all courses taught are available [he
 
 A concatenated summary of the evaluation data for all courses is presented here, in graphic format. [![UCD evals](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/UCD_CourseEvals/UCD_teachingEvals_compiledCharts.pdf){:target="_blank"}  
 
+[![teaching eval charts]({{ BASE_PATH }}/assets/publpics/evals.png)]({{ BASE_PATH }}/assets/UCD_CourseEvals/UCD_teachingEvals_compiledCharts.pdf){:target="_blank"}     
+
 **Excerpts from Neurobiology discussion section reviews:**  
 
 *"Very good at explaining and answering questions. Direct and concise responses and helpful for those struggling with concepts."*  

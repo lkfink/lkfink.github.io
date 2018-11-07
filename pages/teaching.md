@@ -96,3 +96,5 @@ A concatenated summary of the evaluation data for all courses is presented here,
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  
 
 Syllabus available upon request.
+
+![Beyonce course image]({{ BASE_PATH }}/assets/publpics/beyCourse.png)

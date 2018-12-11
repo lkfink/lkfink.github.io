@@ -44,7 +44,7 @@ Focus Day Evening Concert (2016)
 [Percussive Arts Society International Convention](http://www.pas.org/){:target="_blank"}
 Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)  
-Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"} 
+Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}. From left to right: Lauren Fink, Paul Schuette, Ty Niemeyer.  
 <br><br>
 ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
 View from the stage before the show.

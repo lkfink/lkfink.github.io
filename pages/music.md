@@ -39,8 +39,8 @@ Lauren is a volunteer drum set coach at [Girls Rock Sacramento](http://www.girls
 
 ### <a name="past"></a>Past projects 
  
-#### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](ttp://www.paulschuette.com/music/){:target="_blank"}
-Focus Day Evening Concert
+#### World premiere of [Paul Schuette's](http://www.paulschuette.com/) [*Oscillator Etudes*](http://www.paulschuette.com/music/){:target="_blank"}
+Focus Day Evening Concert (2016)
 [Percussive Arts Society International Convention](http://www.pas.org/){:target="_blank"}
 Indianapolis, IN, USA
 ![setting up]({{ BASE_PATH }}/assets/publpics/osc2.png)  
@@ -49,6 +49,7 @@ Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:t
 ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
 View from the stage before the show.
 <br><br>
+[Footage from Cincinnati premiere at the Emery Theatre, Cincinnati, OH (2012)](https://youtu.be/inZUFKHSn1o){:target="_blank"}
 <br><br>
 <br><br>
 

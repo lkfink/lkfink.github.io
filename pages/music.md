@@ -49,7 +49,8 @@ Sound Check. Photo credit [Shane Jones](http://www.shanejonespercussion.com/){:t
 ![View from the stage]({{ BASE_PATH }}/assets/publpics/OscillatorEtudes_PASIC14.png)  
 View from the stage before the show.
 <br><br>
-[Footage from Cincinnati premiere at the Emery Theatre, Cincinnati, OH (2012)](https://youtu.be/inZUFKHSn1o){:target="_blank"}
+Video Footage from Cincinnati premiere at the Emery Theatre, Cincinnati, OH (2012)
+[![Video Footage from Cincinnati premiere at the Emery Theatre, Cincinnati, OH (2012)](https://youtu.be/inZUFKHSn1o.jpg)](https://youtu.be/inZUFKHSn1o){:target="_blank"}
 <br><br>
 <br><br>
 

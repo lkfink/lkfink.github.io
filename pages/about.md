@@ -56,6 +56,7 @@ In addition to her research, Lauren leads a neuroscience diversity initiative: [
             </b><code>davis</code><b>So</b><code>.</code><b>please</b><code>e</code><b>leave
             </b><code>d</code><b>me</b><code>u</code><br/>
             <a href="https://orcid.org/0000-0001-6699-750X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6699-750X</a>
+            <a href= "https://scholar.google.com/citations?view_op=list_works&hl=en&user=-6H65F4AAAAJ" target-"_blank">Google Scholar</a
             </div>
         </div>
 

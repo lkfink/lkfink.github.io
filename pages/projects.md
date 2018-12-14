@@ -35,7 +35,7 @@ Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank
 ![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png)  
 <br><br>
 
-### <a name="Modeling attention"></a>Modeling attention
+### <a name="Modeling attention"></a>Modeling attention to music
 In this project, Lauren uses a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, she aims to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.
 
 Papers resulting from this project will be posted below:  

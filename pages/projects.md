@@ -53,7 +53,7 @@ This project involves a real-time adaptive music making device to enhance synchr
 
 <br><br>
 
-### <a name="MET"></a>Conference on Music and Eye-Tracking 
+### <a name="MET"></a>Conference on Music and Eye-Tracking (MET)
 
 Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held 17-18 August 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 

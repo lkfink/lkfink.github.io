@@ -49,7 +49,11 @@ Hurley, B., **Fink, L.**, & Janata, P. (2018). Mapping the dynamic allocation of
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
 This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. Lauren is in the process of writing up the results of this project. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
 
-[This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project.](https://www.arte.tv/de/videos/074208-005-A/groove-maschine/){:target="_blank"}
+[This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project.](https://www.arte.tv/de/videos/074208-005-A/groove-maschine/){:target="_blank"}  
+
+Preliminary results from this project will be presented at the annual Cognitive Neuroscience society in March 2019:
+
+**Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome.
 
 ![groove enhancement machine collage]({{ BASE_PATH }}/assets/publpics/gem_example.png)  
 

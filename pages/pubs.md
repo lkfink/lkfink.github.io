@@ -34,7 +34,7 @@ description: Lauren Fink's publications
 
 #### 2018
 
-**Fink, L.** & Lange, E. (in press). The application of eye-tracking in music research. *Journal of Eye Movement Research.*  
+**Fink, L.**, Lange, E., & Groner, R. (2018). The application of eye-tracking in music research. *Journal of Eye Movement Research, 11*(2):1. [DOI: https://doi.org/10.16910/jemr.11.2.1](https://bop.unibe.ch/JEMR/article/view/MET-intro.pdf){:target="_blank"}.
 
 **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2018). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  *Journal of Eye Movement Research, 11*(2):12. [DOI: 10.16910/jemr.11.2.12](https://bop.unibe.ch/JEMR/article/view/4285/){:target="_blank"}.
 

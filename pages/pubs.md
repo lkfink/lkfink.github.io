@@ -68,9 +68,14 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 ### <a name="abstracts"></a>Conference abstracts  
 
+#### 2019
+**Fink, L.**, Alexander, P. & Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*
+
+Mikovits, M., Sperber, L., **Fink, L.** & Prebel, J. (2019, March). Writing Fellows as Agents of Transfer: Training in Threshold Concepts to Support Campus-Wide Sites of Writing. *Symposium presented at the College Composition and Communication Convention, Pittsburgh, PA.*
+
 #### 2018
 
-**Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.* 
+**Fink, L.**, Lange, E. & Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.* 
 
 **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*
 

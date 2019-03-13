@@ -65,7 +65,7 @@ Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/peop
 
 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
-A [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} with selected presentations from the conference will be published in the [Journal of Eye Movement Research](http://www.eyemovementresearch.com/){:target="_blank"}. Submissions are currently being reviewed and will be published on a rolling basis, beginning winter 2018.
+A [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} with selected presentations from the conference was published in the Journal of Eye Movement Research. 
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 

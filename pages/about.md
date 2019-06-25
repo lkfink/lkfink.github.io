@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Lauren Fink is a neuroscience PhD student at the University of California, Davis.
+description: Lauren Fink holds a PhD in neuroscience from the University of California, Davis.
 ---
 <HEAD>
 <!-- Global site tag (gtag.js) - Google Analytics -->

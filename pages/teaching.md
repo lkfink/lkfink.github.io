@@ -52,6 +52,9 @@ At the University of California Davis, Lauren has been a teaching assistant for 
 - Popular Science and Technology Writing - **D**
 - Visual Rhetoric - **D**
 
+**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**
+- Introduction to Research (Lauren designed and taught this course for a group of under-represented minority students conducting their summer research at UC Davis)
+
 <br>
 <br>
 

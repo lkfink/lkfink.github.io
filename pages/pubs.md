@@ -71,7 +71,11 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 #### 2019
 
-**Fink, L.**, Hurley, B., Geng, J., Lange, E., & Janata, P. (2019, Aug.). A computational model of rhythmic auditory attention predicts the pupillary response to music. Talk presented at the European Conference on Eye Movements, Alicante, Spain.
+**Fink, L.**, Hurley, B., Geng, J., Lange, E., & Janata, P. (2019, Aug.). A computational model of rhythmic auditory attention predicts the pupillary response to music. *Talk presented at the European Conference on Eye Movements, Alicante, Spain.*
+
+Lange, E., Thiele, D., **Fink, L.**, & Kuijpers, M. (2019, Aug.). Narrative aesthetic absorption into
+audiobooks: Acoustics, cross-modal coupling and subjective states are related. *Poster presented
+at the European Conference on Eye Movements, Alicante, Spain.*
 
 **Fink, L.**, Alexander, P. & Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*
 

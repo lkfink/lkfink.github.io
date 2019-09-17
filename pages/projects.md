@@ -63,9 +63,9 @@ cognition. *Poster presented at the Rhythm Perception & Production Workshop, Ams
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
 This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. Lauren is in the process of writing up the results of this project. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
 
-[This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project.](https://www.arte.tv/de/videos/074208-005-A/groove-maschine/){:target="_blank"}  
+This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project, as well as related work in the Janata Lab.
 
-<iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D1%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
+<iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D0%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
 
 ##### Conference presentations related to this project:
 

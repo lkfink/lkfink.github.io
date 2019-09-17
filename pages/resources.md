@@ -31,7 +31,7 @@ description: public outreach
 
 <!-- ### <a name="music"></a>Music -->
 
-## Listen to Lauren's recent interview on the podcast Applied Science Live!
+## Listen to Lauren's recent interview on the podcast [Applied Science Live](https://www.appliedsciencelive.com/episodes/dr-lauren-fink){:target="_blank"}!
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679433037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>  
 

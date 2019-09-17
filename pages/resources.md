@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources
-description: useful resources
+title: Outreach
+description: public outreach
 ---
 <HEAD>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -14,7 +14,9 @@ description: useful resources
   </script>
 </HEAD>
 
-<div class="navbar">
+
+
+<!-- <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#music">Music</a></li>
@@ -24,81 +26,35 @@ description: useful resources
         </ul>
     </div>
 </div>
-
-## [Under Development!]
-
-### <a name="music"></a>Music
-
-Free [courses from the Berklee College of Music](https://www.edx.org/school/berkleex){:target="_blank"}
-
-Free [Introduction to Western Music Theory course](http://www.open.edu/openlearn/history-the-arts/culture/music/introduction-music-theory/content-section-0?active-tab=description-tab){:target="_blank"} from the Open University
-
-[Public Domain Music Scores](http://imslp.org/wiki/Main_Page){:target="_blank"}
-
-[International Inventory of Musical Sources](http://www.rism.info/){:target="_blank"}
-
-[Free repository of sounds](https://freesound.org/){:target="_blank"}
-
-[Math, Science, Music](https://mathsciencemusic.org/){:target="_blank"} - "an exciting and engaging repository of free, interactive tools for learning STEM subjects through music"
-
-More coming soon... 
-
-### <a name="neuroscience"></a>Neuroscience
-[Basics of Neuroscience](https://neuroscience5e.sinauer.com/animations01.html){:target="_blank"}, with animations!
-
-[Auditory Neuroscience tutorials](https://auditoryneuroscience.com/){:target="_blank"}
-
-[Anne's List](https://anneslist.net/){:target="_blank"}, highlighting women in neuroscience  
-
-[Bias Watch Neuro](https://biaswatchneuro.com/?wref=bif){:target="_blank"} - "The goal of this site is to track the speaker composition of conferences in neuroscience, particularly with respect to gender representation."  
-
-More coming soon... 
-
-### <a name="music"></a>Programming
-
-#### Matlab
-[Janata Lab Music Toolbox](http://atonal.ucdavis.edu/resources/software/jlmt/){:target="_blank"}  
-
-[Music Information Retrieval Toolbox](https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mirtoolbox){:target="_blank"}  
-
-[IPEM Toolbox](https://www.ugent.be/lw/kunstwetenschappen/en/research-groups/musicology/ipem/finishedprojects/ipem-toolbox.htm){:target="_blank"}
-
-#### Python
-
-[A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp){:target="_blank"}  
-
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/){:target="_blank"} 
-
-[Matplotlib](http://matplotlib.org/){:target="_blank"} – make nice plots in python!  
-
-[SciPy tutorials](https://docs.scipy.org/doc/scipy/reference/tutorial/index.html){:target="_blank"}  
-
-[Pandas resources and books](http://www.dataschool.io/best-python-pandas-resources/){:target="_blank"}  
-
-[Pandas resources and courses](https://chatbotslife.com/pandas-learning-resources-946540ba574e){:target="_blank"}  
-
-[Numpy user guide](https://docs.scipy.org/doc/numpy-dev/user/){:target="_blank"}  
-
-[NumPy for Matlab users](http://mathesaurus.sourceforge.net/matlab-numpy.html){:target="_blank"} - a cheat sheet of functions  
-
-Free [Audio Signal Processing Course](https://www.coursera.org/learn/audio-signal-processing){:target="_blank"} on Coursera  
- 
-#### SQL
-[SQL tutorial on Mode](https://community.modeanalytics.com/sql/tutorial/introduction-to-sql/){:target="_blank"}
+--> 
 
 
+<!-- ### <a name="music"></a>Music -->
 
-### <a name="music"></a>Academia
+## Listen to Lauren's recent interview on the podcast Applied Science Live!
 
-[Women & Science](http://www.jessicagrahn.com/women--science.html){:target="_blank"} from Dr. Jessica Grahn (lots of useful links!)  
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679433037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>  
 
-[Academia Net](http://www.academia-net.org/project/){:target="_blank"}  
+<br>
 
-[Women in Cognitive Science](http://womenincogsci.org/){:target="_blank"}   
+## Learn about Lauren's neuroscience diversity initiative, SOMA: Seminar Outreach for Minority Advocacy
 
-[Women in Music Information Retrieval](http://www.ismir.net/wimir.html){:target="_blank"}  
+Demographics within neuroscience vastly mismatch the actual distribution of minority communities within the United States population. In a 2011 survey report of 97 U.S. neuroscience graduate programs, only 12% of predoctoral trainees were minorities (African- American, Hispanic-American, Native-American, “Other”) - a statistic that reduces to only 4% of postdoctoral trainees and 5% of tenure track faculty. Increasing the visibility of underrepresented scientists is a critical component to addressing this inequity. Without visibility, the aforementioned unequal distributions are inevitably perpetuated. 
+
+Click to learn more.
+![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/soma201718.png)
+
+<br>
+
+## Watch a short documentary about Lauren's groove-related research
+
+<iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D0%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
+
+<br>
+
+## From 2018-20 Lauren is serving on the grant review panel of the California Arts Council
+
+In this role, Lauren meets with other arts & science experts to deliberate which Research in the Arts grants should receive state funding.
+![CAC logo]({{ BASE_PATH }}/pages/publpics/CAC.png) 
 
 
-
-
-More coming soon... 

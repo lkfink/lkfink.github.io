@@ -37,5 +37,5 @@ Demographics within neuroscience vastly mismatch the actual distribution of mino
 **Renewed funding for 2018-19!**
 Thanks to the UC Davis neuroscience community's interest in this seminar series, we have been able to secure funding for three seminars in 2018-19! Details are available on the [neuroscience graduate group website](https://neuroscience.ucdavis.edu/seminar-outreach-minority-advocacy-soma){:target="_blank"}.
 
-**Renewed funding for 2019-20**
+**Renewed funding for 2019-20**  
 We are happy to report that this seminar series is now receiving stable financial support through the UC Davis Neuroscience Graduate Group.

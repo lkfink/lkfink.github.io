@@ -17,7 +17,7 @@ description: Lauren Fink's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#philosophy">Teaching statement</a></li>
+            <!-- <li><a href="#philosophy">Teaching statement</a></li> -->
             <li><a href="#courses">Courses taught</a></li>
             <li><a href="#reviews">Reviews</a></li>
             <li><a href="#certifications">Certifications</a></li>
@@ -26,15 +26,12 @@ description: Lauren Fink's teaching
     </div>
 </div>
 
-
+<!--
 ### <a name="philosophy"></a>Teaching statement
-coming soon...
-
-<br>
-<br>
+coming soon... -->
 
 ### <a name="courses"></a>Courses taught
-At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for designing, teaching, and grading her own discussion section.** Courses are organized according to the department in which they were taught. 
+At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for developing curriculum, teaching, and grading her own sections.** Courses are organized according to the department in which they were taught. 
 
 **Dept. of Neurobiology, Physiology, & Behavior:** 
 - Neurobiology - **D**

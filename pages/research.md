@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-description: Lauren Fink's projects
+title: Research
+description: Lauren Fink's research projects
 ---
 <HEAD>
 <!-- Global site tag (gtag.js) - Google Analytics -->

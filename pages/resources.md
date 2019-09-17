@@ -41,7 +41,8 @@ description: public outreach
 
 Demographics within neuroscience vastly mismatch the actual distribution of minority communities within the United States population. In a 2011 survey report of 97 U.S. neuroscience graduate programs, only 12% of predoctoral trainees were minorities (African- American, Hispanic-American, Native-American, “Other”) - a statistic that reduces to only 4% of postdoctoral trainees and 5% of tenure track faculty. Increasing the visibility of underrepresented scientists is a critical component to addressing this inequity. Without visibility, the aforementioned unequal distributions are inevitably perpetuated. 
 
-Click to learn more.
+[Click to learn more.](http://lkfink.github.io/pages/soma_info.html){:target="_blank"}.
+
 ![Fall SOMA Seminars 2017]({{ BASE_PATH }}/assets/publpics/soma201718.png)
 
 <br>

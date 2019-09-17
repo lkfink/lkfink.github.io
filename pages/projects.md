@@ -65,6 +65,8 @@ This project involves a real-time adaptive music making device to enhance synchr
 
 [This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project.](https://www.arte.tv/de/videos/074208-005-A/groove-maschine/){:target="_blank"}  
 
+<iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D1%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
+
 ##### Conference presentations related to this project:
 
 > **Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  

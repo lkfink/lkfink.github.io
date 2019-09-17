@@ -58,7 +58,8 @@ Demographics within neuroscience vastly mismatch the actual distribution of mino
 
 ## From 2018-20 Lauren is serving on the grant review panel of the California Arts Council
 
-In this role, Lauren meets with other arts & science experts to deliberate which Research in the Arts grants should receive state funding.
+In this role, Lauren meets with other arts & science experts to deliberate which Research in the Arts grants should receive state funding.  
+
 ![CAC logo]({{ BASE_PATH }}/pages/publpics/CAC.png) 
 
 

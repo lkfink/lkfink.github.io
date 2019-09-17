@@ -39,23 +39,23 @@ In this project, Lauren uses a combination of computational modeling, psychophys
 
 ##### Conference presentations related to this project:
 
-**Fink, L.**, Hurley, B., Geng, J., Lange, E., & Janata, P. (2019, Aug.). A computational model of rhythmic auditory attention predicts the pupillary response to music. *Talk presented at the European Conference on Eye Movements, Alicante, Spain.*  
+> **Fink, L.**, Hurley, B., Geng, J., Lange, E., & Janata, P. (2019, Aug.). A computational model of rhythmic auditory attention predicts the pupillary response to music. *Talk presented at the European Conference on Eye Movements, Alicante, Spain.*  
 
-**Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.*  
+> **Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.*  
 
-**Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*  
+> **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*  
 
-Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*  
+> Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*  
 
-**Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2017, August). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Talk presented at the Conference on Music & Eye- Tracking, Frankfurt, Germany.*  
+> **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2017, August). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Talk presented at the Conference on Music & Eye- Tracking, Frankfurt, Germany.*  
 
-Hurley, B., **Fink, L.**, & Janata, P. (2017, March). A resonator model predicts temporal orienting in rhythmic music. *Poster presented  at the Cognitive Neuroscience Society Annual Meeting.*  
+> Hurley, B., **Fink, L.**, & Janata, P. (2017, March). A resonator model predicts temporal orienting in rhythmic music. *Poster presented  at the Cognitive Neuroscience Society Annual Meeting.*  
 
-**Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2016, July). Pupillary and eyeblink responses to auditory stimuli index attention and sensorimotor coupling. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 788.*  
+> **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2016, July). Pupillary and eyeblink responses to auditory stimuli index attention and sensorimotor coupling. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 788.*  
 
-Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attention in music with a damped oscillator model. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 782.*  
+> Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attention in music with a damped oscillator model. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 782.*  
 
-**Fink, L.** (2015, July). Eyeblinks as biomarkers of temporal coordination during music
+> **Fink, L.** (2015, July). Eyeblinks as biomarkers of temporal coordination during music
 cognition. *Poster presented at the Rhythm Perception & Production Workshop, Amsterdam, Netherlands.*
 
 <br><br>
@@ -67,9 +67,9 @@ This project involves a real-time adaptive music making device to enhance synchr
 
 ##### Conference presentations related to this project:
 
-**Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
+> **Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
 
-**Fink, L.**, & Alexander, P., & Janata, P. (2017, July). Fostering Empathy and Improving Focus Through the Groove Enhancement Machine: Facilitating Sensorimotor Coordination and Cooperation Among Groups of Individuals. *Demonstration presented at the National Academies Keck Futures Initiative Art, Science, Engineering, and Medicine Mid-Cycle Grant Meeting, Boston, MA.*
+> **Fink, L.**, & Alexander, P., & Janata, P. (2017, July). Fostering Empathy and Improving Focus Through the Groove Enhancement Machine: Facilitating Sensorimotor Coordination and Cooperation Among Groups of Individuals. *Demonstration presented at the National Academies Keck Futures Initiative Art, Science, Engineering, and Medicine Mid-Cycle Grant Meeting, Boston, MA.*
 
 ![groove enhancement machine collage]({{ BASE_PATH }}/assets/publpics/gem_example.png)  
 
@@ -90,7 +90,7 @@ Conference Program: [![Click here to view the MET conference program](icons16/pd
 
 A [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} with selected presentations from the conference was published in the Journal of Eye Movement Research.  
 
-**Fink, L.**, Lange, E. & Groner, R. (2019). The application of eye-tracking in music research. *Journal of
+> **Fink, L.**, Lange, E. & Groner, R. (2019). The application of eye-tracking in music research. *Journal of
 Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
@@ -105,13 +105,13 @@ The second Conference on Music & Eye-Tracking will be held at the Max Planck Ins
 ### <a name="WAC"></a>Writing Across the Curriculum (WAC)
 Lauren served for three years as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, she managed a team of six Graduate Writing Fellows and acted as a liason between graduate fellows and faculty. The WAC fellows hold one-on-one [writing consultations](http://writing.ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](http://writing.ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](http://writing.ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](http://writing.ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](http://writing.ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. Lauren developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](http://writing.ucdavis.edu/wac/gfw-bios){:target="_blank"}. She also conducted numerous research projects which were presented at the following conferences: 
 
-Mikovits, M., Sperber, L., **Fink, L.** & Prebel, J. (2019, March). Writing Fellows as Agents of Transfer: Training in Threshold Concepts to Support Campus-Wide Sites of Writing. *Symposium presented at the College Composition and Communication Convention, Pittsburgh, PA.*  
+> Mikovits, M., Sperber, L., **Fink, L.** & Prebel, J. (2019, March). Writing Fellows as Agents of Transfer: Training in Threshold Concepts to Support Campus-Wide Sites of Writing. *Symposium presented at the College Composition and Communication Convention, Pittsburgh, PA.*  
 
-**Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. *Symposium presented at the College Composition and Communication Convention, Kansas City, MO.*  
+> **Fink, L.**, Ribeiro, J., & White, V. (2018, March). Transforming graduate writing experiences: A new Writing Across the Curriculum (WAC) certificate program. *Symposium presented at the College Composition and Communication Convention, Kansas City, MO.*  
 
-Bright, A., Singleton, J., **Fink, L.**, & Rodger, K. (2017, March). Cultivating a Rhetorical Consciousness: Supporting Graduate Student Writers Across the Curriculum. *Symposium presented at the College Composition and Communication Convention, Portland, OR.*  
+> Bright, A., Singleton, J., **Fink, L.**, & Rodger, K. (2017, March). Cultivating a Rhetorical Consciousness: Supporting Graduate Student Writers Across the Curriculum. *Symposium presented at the College Composition and Communication Convention, Portland, OR.*  
 
-**Fink, L.** & Rodger, K. (2016, June). Mapping neuroscience through professional writing. *Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.*
+> **Fink, L.** & Rodger, K. (2016, June). Mapping neuroscience through professional writing. *Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.*
 
 
 

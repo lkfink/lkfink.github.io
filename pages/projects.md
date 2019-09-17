@@ -31,6 +31,11 @@ description: Lauren Fink's projects
 ### <a name="Modeling attention"></a>Modeling attention to music
 In this project, Lauren uses a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, she aims to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMVWDExIq38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+<br><br>
+<br><br>
+
 ##### Papers resulting from this project:  
 
 > **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2018). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  *Journal of Eye Movement Research, 11*(2):12. [DOI: 10.16910/jemr.11.2.12](https://bop.unibe.ch/JEMR/article/view/4285/){:target="_blank"}.  

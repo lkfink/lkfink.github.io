@@ -24,7 +24,10 @@ description: Lauren Fink holds a PhD in neuroscience from the University of Cali
   </div>
 </div>
 
-Lauren Fink holds a PhD in neuroscience from the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, where she was supervised by [Dr. Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"}. Previously, Lauren attended the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/){:target="_blank"}, where she studied with [Allen Otte](http://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof){:target="_blank"} of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html){:target="_blank"} and earned her Bachelors of Music in percussion performance. Lauren also holds an M.Phil. from the [University of Cambridge](https://www.cam.ac.uk/){:target="_blank"}, where she conducted research in the [Center for Music & Science](http://cms.mus.cam.ac.uk/){:target="_blank"} and was supervised by [Dr. Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"}.
+
+<div class="split left">
+  <div class="centered">
+    <p> Lauren Fink holds a PhD in neuroscience from the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, where she was supervised by [Dr. Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"}. Previously, Lauren attended the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/){:target="_blank"}, where she studied with [Allen Otte](http://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof){:target="_blank"} of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html){:target="_blank"} and earned her Bachelors of Music in percussion performance. Lauren also holds an M.Phil. from the [University of Cambridge](https://www.cam.ac.uk/){:target="_blank"}, where she conducted research in the [Center for Music & Science](http://cms.mus.cam.ac.uk/){:target="_blank"} and was supervised by [Dr. Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"}.
 
 Lauren has been a visiting researcher at the [Swartz Center for Computational Neuroscience](https://sccn.ucsd.edu/){:target="_blank"}, the Stanford University [Center for Computer Research in Music and Acoustics](https://ccrma.stanford.edu/){:target="_blank"}, and the [Max-Planck-Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/institut.html). She was the scientific co-chair of a [Conference on Music and Eye-Tracking](https://www.aesthetics.mpg.de/institut/veranstaltungen/music-eye-tracking-conference-2017.html){:target="_blank"} and a guest editor of a [Special Issue](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} on the same topic for the Journal of Eye Movement Research.  
 
@@ -33,6 +36,16 @@ In addition to her research, Lauren leads a neuroscience diversity initiative: [
 Soon, Lauren will be moving to Frankfurt, Germany for a postdoctoral fellowship at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/institut.html){:target="_blank"}. 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/fink_cv.pdf){:target="_blank"} 
+
+   </p>
+  </div>
+</div>
+
+<div class="split right">
+  <div class="centered">
+    <img src="../assets/pics/Fink_bioPhoto.jpg" alt="Photo of Lauren">
+  </div>
+</div>
 
 
 ---
@@ -58,12 +71,13 @@ Soon, Lauren will be moving to Frankfurt, Germany for a postdoctoral fellowship 
             <a href="https://orcid.org/0000-0001-6699-750X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6699-750X</a><br/>
             <a href= "https://scholar.google.com/citations?view_op=list_works&hl=en&user=-6H65F4AAAAJ" target="_blank">Google Scholar</a>
             </div>
-        </div>
+            
+        <!-- </div>
 
         <div class="span2">
         <a href="../assets/pics/Fink_bioPhoto.jpg">
             <img src="../assets/pics/Fink_bioPhoto.jpg"
                   title="Lauren Fink" alt="Lauren Fink"/></a>
-        </div>
+        </div> -->
     </div>
 </div>

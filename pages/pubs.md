@@ -41,6 +41,11 @@ description: Lauren Fink's publications
 
 Hurley, B., **Fink, L.**, & Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance, 44*(11), 1694-1711. [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
+<!-- 
+Open access version available through UC libraries
+https://escholarship.org/uc/item/6gv4f561 
+-->
+
 #### 2017
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
 

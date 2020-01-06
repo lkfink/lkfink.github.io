@@ -24,9 +24,9 @@ description: Lauren Fink holds a PhD in neuroscience from the University of Cali
   </div>
 </div>
 
-Lauren Fink is a postdoctoral researcher at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/institut.html){:target="_blank"} in Frankfurt, Germany. Her research interests center around using behavioral and physiological data (e.g. eye-tracking, EEG) to:
--	inform computational models of temporal attention, salience, and entrainment
+Lauren Fink is a postdoctoral researcher at the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/institut.html){:target="_blank"} in Frankfurt, Germany. Her research interests center around using physiological data (e.g. eye-tracking, EEG) to:
 -	predict listeners’ subjective evaluation or experience of music
+-	inform computational models of temporal attention, salience, and entrainment
 -	decode what someone is listening to  
 
 Lauren holds a PhD in neuroscience from the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, where she was supervised by [Dr. Petr Janata](https://atonal.ucdavis.edu/){:target="_blank"}. Before her PhD, Lauren attended the [University of Cincinnati College&ndash;Conservatory of Music](https://ccm.uc.edu/){:target="_blank"}, where she studied with [Allen Otte](http://ccm.uc.edu/about/directory.html?eid=otteac&thecomp=uceprof){:target="_blank"} of the [Percussion Group Cincinnati](http://www.pgcinfo.com/PGC.html){:target="_blank"} and earned her Bachelors of Music in percussion performance. Lauren also holds an M.Phil. from the [University of Cambridge](https://www.cam.ac.uk/){:target="_blank"}, where she conducted research in the [Center for Music & Science](http://cms.mus.cam.ac.uk/){:target="_blank"} and was supervised by [Dr. Ian Cross](http://www.mus.cam.ac.uk/directory/ian-cross){:target="_blank"}.

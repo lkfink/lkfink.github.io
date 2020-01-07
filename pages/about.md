@@ -52,7 +52,7 @@ Lauren has been a visiting researcher at the [Swartz Center for Computational Ne
             <div id="hide_email">
             <a href="https://www.linkedin.com/in/lauren-fink-2ba747109/" target="_blank">LinkedIn</a><br/>
             Email: <code>lauren.</code><b>I</b><code>fink</code><b>don't</b><code>@</code><b>want</b><code>ae</code><b>spam!
-            </b><code>.</code><b>So</b><code>mpg</code><b>please</b><code></code><b>leave
+            </b><code>.</code><b>So</b><code>mpg</code><b>please</b><code>.</code><b>leave
             </b><code>d</code><b>me</b><code>e</code><br/>
             <a href="https://orcid.org/0000-0001-6699-750X" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;">    <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0001-6699-750X</a><br/>
             <a href= "https://scholar.google.com/citations?view_op=list_works&hl=en&user=-6H65F4AAAAJ" target="_blank">Google Scholar</a>

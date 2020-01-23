@@ -88,7 +88,7 @@ Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank
 
 ### <a name="MET"></a>Conference on Music and Eye-Tracking (MET)
 
-Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held 17-18 August 2017 at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+In August 2017, Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 
 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
@@ -99,8 +99,8 @@ Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 
-##### Upcoming 2020 Conference   
-The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 16-17 July 2020. More information will be posted as it becomes available: www.ae.mpg.de/met.
+#### Upcoming 2020 Conference!   
+The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 16-17 July 2020. More information will be posted as it becomes available: [www.ae.mpg.de/met](https://www.ae.mpg.de/met){:target="_blank"}.
 
 
 

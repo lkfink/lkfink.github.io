@@ -31,6 +31,17 @@ description: public outreach
 
 <!-- ### <a name="music"></a>Music -->
 
+
+## Read about Lauren's project [Music in the Time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}!
+
+[![musCorona_image](../../assets/publpics/musCorona_image.png)](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"} 
+
+Participate in the research by taking the survey:
+In [English](tiny.cc/Cormus){:target="_blank"} oder [Deutsch](ww2.unipark.de/uc/musicandcorona/){:target="_blank"} 
+
+<br>
+<br>
+
 ## Listen to Lauren's recent interview on the podcast [Applied Science Live](https://www.appliedsciencelive.com/episodes/dr-lauren-fink){:target="_blank"}!
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/679433037&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>  

@@ -33,32 +33,14 @@ In this project, Lauren uses a combination of computational modeling, psychophys
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMVWDExIq38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Papers resulting from this project:  
+This video shows oscillations in pupil size while listening to a clip of music. The video is sped up 5x.
+
+##### Papers related to this project:  
 
 > **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2018). A linear oscillator model predicts dynamic temporal attention and pupillary sensorimotor synchronization to rhythmic musical patterns.  *Journal of Eye Movement Research, 11*(2):12. [DOI: 10.16910/jemr.11.2.12](https://bop.unibe.ch/JEMR/article/view/4285/){:target="_blank"}.  
 
 > Hurley, B., **Fink, L.**, & Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* Advance online publication. [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
-##### Conference presentations related to this project:
-
-> **Fink, L.**, Hurley, B., Geng, J., Lange, E., & Janata, P. (2019, Aug.). A computational model of rhythmic auditory attention predicts the pupillary response to music. *Talk presented at the European Conference on Eye Movements, Alicante, Spain.*  
-
-> **Fink, L.**, Lange, E., Janata, P. (2018, July). The pupil entrains to prominent periodicities in music. *Talk presented at the International Conference on Music Perception & Cognition, Graz, Austria.*  
-
-> **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2018, May). Predicting attention and motor responses to musical patterns. *Poster presented at the Stanford Music & Brain Symposium, Palo Alto, CA.*  
-
-> Lange, E. & **Fink, L.** (2017, August). Symposium: Using eye-tracking and pupillometry to study rhythmic processing in music and dance. *European Conference on Eye Movements, Wüppertal, Germany.*  
-
-> **Fink, L.**, Hurley, B., Geng, J., & Janata, P. (2017, August). Predicting attention to auditory rhythms using a linear oscillator model and pupillometry. *Talk presented at the Conference on Music & Eye- Tracking, Frankfurt, Germany.*  
-
-> Hurley, B., **Fink, L.**, & Janata, P. (2017, March). A resonator model predicts temporal orienting in rhythmic music. *Poster presented  at the Cognitive Neuroscience Society Annual Meeting.*  
-
-> **Fink, L.**, Hurley, B., Geng, J. & Janata, P. (2016, July). Pupillary and eyeblink responses to auditory stimuli index attention and sensorimotor coupling. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 788.*  
-
-> Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attention in music with a damped oscillator model. *Proceedings of the 14th International Conference for Music Perception & Cognition, pg. 782.*  
-
-> **Fink, L.** (2015, July). Eyeblinks as biomarkers of temporal coordination during music
-cognition. *Poster presented at the Rhythm Perception & Production Workshop, Amsterdam, Netherlands.*
 
 <br><br>
 
@@ -69,7 +51,7 @@ This short documentary, directed by Joerg Altekruse, highlights an early prototy
 
 <iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D0%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
 
-##### Conference presentations related to this project:
+##### Conference presentations related to this project (paper in prep.):
 
 > **Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
 
@@ -99,7 +81,7 @@ Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 
-#### Upcoming 2020 Conference!   
+#### Upcoming 2020 Conference! (CANCELLED)
 The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 16-17 July 2020. More information will be posted as it becomes available: [www.ae.mpg.de/met](https://www.ae.mpg.de/met){:target="_blank"}.
 
 

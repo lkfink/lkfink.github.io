@@ -10,6 +10,7 @@ description: Lauren Fink's music
         <ul class="nav">
             <li><a href="#current">Current projects</a></li>
             <li><a href="#past">Past projects</a></li>
+            <li><a href="#cage">Cage / 2012</a></li>
         </ul>
     </div>
 </div>
@@ -61,31 +62,57 @@ Poster advertisement
 <br><br>
 <br><br>
 
-#### Senior recital
-#### MATRICULAPHONY: A Percussive Circus on Van Meter Ames' *A BOOK OF CHANGES*  
-For a full description, please see the program and program notes.  
-[Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}   
-[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}  
-The chance-determined background audio track described in the performance notes (that played behind the live music throughout the recital) can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent. 
 
-<audio controls preload> 
+### <a name="Cage / 2012"></a>Cage / 2012 
+In 2012, the John Cage (born 1912) Centennial, Lauren was a senior percussion student at the University of Cincinnati College-Conservatory of Music, as well as an intern at the UC Archives and Rare Books Library. A variety of projects sprang from [a manuscript Lauren discovered in the Archives](https://libapps.libraries.uc.edu/liblog/2011/08/zen-in-the-archives-and-rare-books-library-john-cage-and-the-van-meter-ames-papers/){:target="_blank"}, which documented the friendship between John Cage and UC Philosophy professor Van Meter Ames, as well as Cage's time in Cincinnati when he was composer-in-residence at the Conservatory.
+Each project is briefly described and linked below.
+<br>
+
+#### Matriculaphony: A Percussive Circus on Van Meter Ames’ A BOOK OF CHANGES
+Lauren Fink's realization of Cage's piece *___, a ___ Circus On ____*.
+
+The program notes explain the process of realizing the piece, which included creating mesostic poems from the text of Van Meter Ames' manuscript and collecting samples of every sound and from every geographical location mentioned in the manuscript. Those sounds were then layered into a background track which played behind the live performance. Because the manuscript was about Cage, the realization becomes self-referential, with Cage piece, layered on top of Cage piece.
+[Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}
+[Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}
+<br>
+
+Live performance of Matriculaphony
+Click the image to play
+[![Matriculaphony](https://img.youtube.com/vi/axHd9fq6yY4/05.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE){:target="_blank"}
+<br><br>
+
+The chance-determined background audio track can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent.
+<audio controls preload>
     <!-- <source src="audio.mp3"></source> -->
-    <source src="../assets/audio/recital_background_track.ogg"></source> 
-</audio>  
-<br><br>
-
-![poster]({{ BASE_PATH }}/assets/publpics/RecitalPoster.png)  
-Recital Poster  
-<br><br>
-![stage]({{ BASE_PATH }}/assets/publpics/CorbettTheater.png)  
-View of the stage before the show
-<br><br>
-<br><br>
+    <source src="../assets/audio/recital_background_track.ogg"></source>
+</audio>
 <br><br>
 
 
-#### Mahler 3 
-#### with the Cincinnati College-Conservatory of Music’s Philharmonia Orchestra
+#### Interview with Allen Otte and Lauren Fink
+A conversation about Otte's relationship with Cage, the Van Meter Ames Manuscript, and realizing *Circus On*
+Interview by Lisa Haynes-Henry and Matt Specter.
+[![Interview](https://www.youtube.com/watch?v=iaprETn-NnU/0.jpg)](https://www.youtube.com/watch?v=iaprETn-NnU){:target="_blank"}
+
+
+#### Echoes of Silence
+A project of Lisa Haynes-Henry and Matt Specter, which includes a full scan of the Van Meter Ames manuscript.
+[Echoes of Silence ![ePub as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/EchoesOfSilence.pdf){:target="_blank"}
+
+
+#### John Cage and Van Meter Ames: Zen Buddhism, Friendship, and Cincinnati
+A [Masters Thesis](https://etd.ohiolink.edu/!etd.send_file?accession=ucin1378195094&disposition=inline){:target="_blank"} written by Serena Yang, largely centered on the Van Meter Ames manuscript.
+
+
+
+<br><br>
+<br><br>
+<br><br>
+
+
+
+#### Misc.
+**Mahler 3 with the Cincinnati College-Conservatory of Music’s Philharmonia Orchestra**
 Click the image to play 
 
 <iframe width="512" height="376" src="https://player.pbs.org/viralplayer/2365027812/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>
@@ -94,7 +121,6 @@ Click the image to play
 <br><br>
 <br><br>
 
-#### Playing with some friends in Cincinnati
 
 **Knockin' on Wood - Red Norvo**, arr. [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}  
 Click the image to play
@@ -113,7 +139,7 @@ Click the image to play
 <br><br>
 <br><br>
 
-#### Rhode Lines (Band)
+**Rhode Lines (Band)**
 Cincinnati, OH, USA  
 <!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
 Click the image below to play  

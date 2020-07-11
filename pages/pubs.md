@@ -83,9 +83,9 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 Howlin, C., Randell, W., Warrenburg, L., **Fink, L.**, Wald-Fuhrmann, M., Hansen, N.C. (2020, Sept.) Can music engagement provide a sense of social cohesion or social surrogacy during times of physical distancing? *Talk (virtual) presented at the Society for Education, Music, and Psychology Research.*
 
-Czepiel, A., Merrill, J., Fink, L., Egermann, H., Wald-Fuhrmann, M. (2020, Sept.) Tempo and key clarity synchronise physiology in classical concert audiences. *Poster (virtual) presented at the Deutschen Gesellschaft für Musikpsychologie Virtuelle Postertagung.*
+Czepiel, A., Merrill, J., **Fink, L.**, Egermann, H., Wald-Fuhrmann, M. (2020, Sept.) Tempo and key clarity synchronise physiology in classical concert audiences. *Poster (virtual) presented at the Deutschen Gesellschaft für Musikpsychologie Virtuelle Postertagung.*
 
-Lange, E., Zweck, F., Sinn, P., Thiel, D., Fink, L., & Kujipers, M. (2020, Sept.) Eye-tracking as method to investigate experiences of aesthetic absorption. *Poster (virtual) presented at the Deutschen Gesellschaft für Musikpsychologie Virtuelle Postertagung.*
+Lange, E., Zweck, F., Sinn, P., Thiel, D., **Fink, L.**, & Kujipers, M. (2020, Sept.) Eye-tracking as method to investigate experiences of aesthetic absorption. *Poster (virtual) presented at the Deutschen Gesellschaft für Musikpsychologie Virtuelle Postertagung.*
 
 
 #### 2019

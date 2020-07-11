@@ -76,11 +76,11 @@ Lauren Fink's realization of Cage's piece *___, a ___ Circus On ____*.
 The program notes explain the process of realizing the piece, which included creating mesostic poems from the text of Van Meter Ames' manuscript and collecting samples of every sound and from every geographical location mentioned in the manuscript. Those sounds were then layered into a background track which played behind the live performance. Because the manuscript was about Cage, the realization becomes self-referential, with Cage piece, layered on top of Cage piece.
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}
-<br>
+<br><br>
 
 Live performance of Matriculaphony  
 Click the image to play  
-[![Matriculaphony](https://www.youtube.com/watch?v=pcFtX0GDQOE/0.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE){:target="_blank"}
+[![Matriculaphony](https://www.youtube.com/watch?v=pcFtX0GDQOE/0.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE)
 <br><br>
 
 The chance-determined background audio track can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent.
@@ -88,26 +88,25 @@ The chance-determined background audio track can be listened to here and is free
     <!-- <source src="audio.mp3"></source> -->
     <source src="../assets/audio/recital_background_track.ogg"></source>
 </audio>
-<br>
+<br><br>
 
 
 #### Interview with Allen Otte and Lauren Fink
 A conversation about Otte's relationship with Cage, the Van Meter Ames Manuscript, and realizing *Circus On*
 Interview by Lisa Haynes-Henry and Matt Specter.
-[![Interview](https://www.youtube.com/watch?v=iaprETn-NnU/0.jpg)](https://www.youtube.com/watch?v=iaprETn-NnU){:target="_blank"}
-<br>
+[![Interview](https://www.youtube.com/watch?v=iaprETn-NnU/0.jpg)](https://www.youtube.com/watch?v=iaprETn-NnU)
+<br><br>
 
 #### Echoes of Silence
 A project of Lisa Haynes-Henry and Matt Specter, which includes a full scan of the Van Meter Ames manuscript.
 [Echoes of Silence ![ePub as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/EchoesOfSilence.pdf){:target="_blank"}
-<br>
+<br><br>
 
 #### John Cage and Van Meter Ames: Zen Buddhism, Friendship, and Cincinnati
 A [Masters Thesis](https://etd.ohiolink.edu/!etd.send_file?accession=ucin1378195094&disposition=inline){:target="_blank"} written by Serena Yang, largely centered on the Van Meter Ames manuscript.
-<br>
-
-
 <br><br>
+
+
 <br><br>
 <br><br>
 

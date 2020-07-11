@@ -71,7 +71,7 @@ Each project is briefly described and linked below.
 <br>
 
 #### Matriculaphony: A Percussive Circus on Van Meter Ames’ A BOOK OF CHANGES
-Lauren Fink's realization of Cage's piece *___, a ___ Circus On ____*.
+Lauren Fink's realization of Cage's piece ___, a ___ Circus On ___.
 
 The program notes explain the process of realizing the piece, which included creating mesostic poems from the text of Van Meter Ames' manuscript and collecting samples of every sound and from every geographical location mentioned in the manuscript. Those sounds were then layered into a background track which played behind the live performance. Because the manuscript was about Cage, the realization becomes self-referential, with Cage piece, layered on top of Cage piece.
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}

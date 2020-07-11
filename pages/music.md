@@ -11,6 +11,7 @@ description: Lauren Fink's music
             <li><a href="#current">Current projects</a></li>
             <li><a href="#past">Past projects</a></li>
             <li><a href="#cage">Cage / 2012</a></li>
+            <li><a href="#misc">Misc.</a></li>
         </ul>
     </div>
 </div>
@@ -63,7 +64,8 @@ Poster advertisement
 <br><br>
 
 
-### <a name="Cage / 2012"></a>Cage / 2012 
+### <a name="cage"></a>Cage / 2012 
+
 In 2012, the John Cage (born 1912) Centennial, Lauren was a senior percussion student at the University of Cincinnati College-Conservatory of Music, as well as an intern at the UC Archives and Rare Books Library. A variety of projects sprang from [a manuscript Lauren discovered in the Archives](https://libapps.libraries.uc.edu/liblog/2011/08/zen-in-the-archives-and-rare-books-library-john-cage-and-the-van-meter-ames-papers/){:target="_blank"}, which documented the friendship between John Cage and UC Philosophy professor Van Meter Ames, as well as Cage's time in Cincinnati when he was composer-in-residence at the Conservatory.
 Each project is briefly described and linked below.
 <br>
@@ -76,9 +78,9 @@ The program notes explain the process of realizing the piece, which included cre
 [Program ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgram_04-04-13.pdf){:target="_blank"}
 <br>
 
-Live performance of Matriculaphony
-Click the image to play
-[![Matriculaphony](https://img.youtube.com/vi/axHd9fq6yY4/05.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE){:target="_blank"}
+Live performance of Matriculaphony  
+Click the image to play  
+[![Matriculaphony](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE){:target="_blank"}
 <br><br>
 
 The chance-determined background audio track can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent.
@@ -86,23 +88,23 @@ The chance-determined background audio track can be listened to here and is free
     <!-- <source src="audio.mp3"></source> -->
     <source src="../assets/audio/recital_background_track.ogg"></source>
 </audio>
-<br><br>
+<br>
 
 
 #### Interview with Allen Otte and Lauren Fink
 A conversation about Otte's relationship with Cage, the Van Meter Ames Manuscript, and realizing *Circus On*
 Interview by Lisa Haynes-Henry and Matt Specter.
 [![Interview](https://www.youtube.com/watch?v=iaprETn-NnU/0.jpg)](https://www.youtube.com/watch?v=iaprETn-NnU){:target="_blank"}
-
+<br>
 
 #### Echoes of Silence
 A project of Lisa Haynes-Henry and Matt Specter, which includes a full scan of the Van Meter Ames manuscript.
 [Echoes of Silence ![ePub as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/EchoesOfSilence.pdf){:target="_blank"}
-
+<br>
 
 #### John Cage and Van Meter Ames: Zen Buddhism, Friendship, and Cincinnati
 A [Masters Thesis](https://etd.ohiolink.edu/!etd.send_file?accession=ucin1378195094&disposition=inline){:target="_blank"} written by Serena Yang, largely centered on the Van Meter Ames manuscript.
-
+<br>
 
 
 <br><br>
@@ -110,9 +112,8 @@ A [Masters Thesis](https://etd.ohiolink.edu/!etd.send_file?accession=ucin1378195
 <br><br>
 
 
-
-#### Misc.
-**Mahler 3 with the Cincinnati College-Conservatory of Music’s Philharmonia Orchestra**
+### <a name="misc"></a>Miscellaneous
+#### Mahler 3 with the Cincinnati College-Conservatory of Music’s Philharmonia Orchestra
 Click the image to play 
 
 <iframe width="512" height="376" src="https://player.pbs.org/viralplayer/2365027812/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>
@@ -122,7 +123,8 @@ Click the image to play
 <br><br>
 
 
-**Knockin' on Wood - Red Norvo**, arr. [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}  
+#### Knockin' on Wood - Red Norvo   
+arr. [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}  
 Click the image to play
 
 [![Knockin' on Wood](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=axHd9fq6yY4){:target="_blank"}
@@ -131,7 +133,8 @@ Click the image to play
 <br><br>
 
 
-**Fool in the Rain - Led Zeppelin**, arr. [Alex Fragiskatos](https://fragiskatospercussion.com/){:target="_blank"}  
+#### Fool in the Rain - Led Zeppelin**. 
+arr. [Alex Fragiskatos](https://fragiskatospercussion.com/){:target="_blank"}  
 Click the image to play  
 
 [![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU){:target="_blank"}
@@ -139,7 +142,7 @@ Click the image to play
 <br><br>
 <br><br>
 
-**Rhode Lines (Band)**
+#### Rhode Lines (Band)
 Cincinnati, OH, USA  
 <!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
 Click the image below to play  

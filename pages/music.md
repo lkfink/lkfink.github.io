@@ -80,7 +80,8 @@ The program notes explain the process of realizing the piece, which included cre
 
 Live performance of Matriculaphony  
 Click the image to play  
-[![Matriculaphony](https://img.youtube.com/vi/pcFtX0GDQOE/0.jpg)](https://www.youtube.com/watch?v=pcFtX0GDQOE){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pcFtX0GDQOE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br><br>
 
 The chance-determined background audio track can be listened to here and is freely available for reuse and modification. Please note that the first ~20 seconds of the hour long track are silent.

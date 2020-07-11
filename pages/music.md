@@ -114,7 +114,6 @@ A [Masters Thesis](https://etd.ohiolink.edu/!etd.send_file?accession=ucin1378195
 
 ### <a name="misc"></a>Miscellaneous
 #### Mahler 3 with the Cincinnati College-Conservatory of Music’s Philharmonia Orchestra
-Click the image to play 
 
 <iframe width="512" height="376" src="https://player.pbs.org/viralplayer/2365027812/" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" seamless allowfullscreen></iframe>
 

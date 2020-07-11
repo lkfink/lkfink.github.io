@@ -95,7 +95,7 @@ The chance-determined background audio track can be listened to here and is free
 #### Interview with Allen Otte and Lauren Fink
 A conversation about Otte's relationship with Cage, the Van Meter Ames Manuscript, and realizing *Circus On*
 Interview by Lisa Haynes-Henry and Matt Specter.
-[![Interview](https://img.youtube.com/vi/iaprETn-NnU/0.jpg)](https://www.youtube.com/watch?v=iaprETn-NnU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iaprETn-NnU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 #### Echoes of Silence
@@ -125,9 +125,8 @@ Click the image to play
 
 #### Knockin' on Wood - Red Norvo   
 arr. [Shane Jones](http://www.shanejonespercussion.com/){:target="_blank"}  
-Click the image to play
 
-[![Knockin' on Wood](https://img.youtube.com/vi/axHd9fq6yY4/0.jpg)](https://www.youtube.com/watch?v=axHd9fq6yY4){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/axHd9fq6yY4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <br><br>
 <br><br>
@@ -135,18 +134,19 @@ Click the image to play
 
 #### Fool in the Rain - Led Zeppelin**. 
 arr. [Alex Fragiskatos](https://fragiskatospercussion.com/){:target="_blank"}  
-Click the image to play  
 
-[![Fool in the Rain](https://img.youtube.com/vi/Ga-iHxlNgqU/0.jpg)](https://www.youtube.com/watch?v=Ga-iHxlNgqU){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ga-iHxlNgqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <br><br>
 <br><br>
 
 #### Rhode Lines (Band)
 Cincinnati, OH, USA  
-<!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) -->
+<!-- ![playing drums]({{ BASE_PATH }}/assets/publpics/rhodeLines.png) 
 Click the image below to play  
-[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE){:target="_blank"}
+[![Playing drums](https://img.youtube.com/vi/zS67TM2L1KE/0.jpg)](https://www.youtube.com/watch?v=zS67TM2L1KE){:target="_blank"} -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zS67TM2L1KE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <br><br>
 <br><br>

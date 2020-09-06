@@ -34,7 +34,9 @@ description: Lauren Fink's publications
 
 #### 2020
 
-N. Sharma, V. Krishnamohan, S. Ganapathy, A. Gangopadhayay & **L. Fink** (2020). On The Impact of Language Familiarity in Talker Change Detection. *ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain*, pp. 6249-6253. [DOI: 10.1109/ICASSP40776.2020.9054294](https://ieeexplore.ieee.org/document/9054294).
+Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (submitted). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. doi: [https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
+
+N. Sharma, V. Krishnamohan, S. Ganapathy, A. Gangopadhayay & **L. Fink** (2020). On The Impact of Language Familiarity in Talker Change Detection. *ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain*, pp. 6249-6253. [DOI: 10.1109/ICASSP40776.2020.9054294](https://ieeexplore.ieee.org/document/9054294){:target="_blank"}.
 
 #### 2019
 **Fink, L.**, Lange, E., & Groner, R. (2019). The application of eye-tracking in music research. *Journal of Eye Movement Research, 11*(2):1. [DOI: https://doi.org/10.16910/jemr.11.2.1](https://bop.unibe.ch/JEMR/article/view/MET-intro.pdf){:target="_blank"}.  

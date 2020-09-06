@@ -81,9 +81,7 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 #### 2020
 
-**Fink, L.**, Howlin, C., Randell, W., Warrenburg, L., Hansen, N.C., Wald-Fuhrmann, M. (2020, Sept.) Music as a tool for emotional coping during the Coronavirus crisis. *Talk (virtual) presented at the Society for Education, Music, and Psychology Research.*
-
-Howlin, C., Randell, W., Warrenburg, L., **Fink, L.**, Wald-Fuhrmann, M., Hansen, N.C. (2020, Sept.) Can music engagement provide a sense of social cohesion or social surrogacy during times of physical distancing? *Talk (virtual) presented at the Society for Education, Music, and Psychology Research.*
+**Fink, L.**, Howlin, C., Randall, W., Warrenburg, L., Hansen, N.C., Wald-Fuhrmann, M. (2020, Sept.) Music as a tool for socio-emotional coping during Covid-19 pandemic lockdown. *Talk (virtual) presented at the Society for Education, Music, and Psychology Research.*
 
 Czepiel, A., Merrill, J., **Fink, L.**, Egermann, H., Wald-Fuhrmann, M. (2020, Sept.) Tempo and key clarity synchronise physiology in classical concert audiences. *Poster (virtual) presented at the Deutschen Gesellschaft für Musikpsychologie Virtuelle Postertagung.*
 

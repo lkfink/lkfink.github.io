@@ -36,6 +36,8 @@ description: Lauren Fink's publications
 
 Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (submitted). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. doi: [https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
 
+Sharma, N., Krishnamohan, V., Ganapathy, S., Gangopadhayay, A. & **Fink, L.** (2020). Acoustic and linguistic features influence talker change detection. *J. Acoust. Soc. Amer. Express Letters 147*(5). [DOI: https://doi.org/10.1121/10.0002462](https://asa.scitation.org/doi/10.1121/10.0002462){:target="_blank"}. 
+
 N. Sharma, V. Krishnamohan, S. Ganapathy, A. Gangopadhayay & **L. Fink** (2020). On The Impact of Language Familiarity in Talker Change Detection. *ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Barcelona, Spain*, pp. 6249-6253. [DOI: 10.1109/ICASSP40776.2020.9054294](https://ieeexplore.ieee.org/document/9054294){:target="_blank"}.
 
 #### 2019

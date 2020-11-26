@@ -99,10 +99,19 @@ As both a teaching assistant and a graduate student researcher, Lauren has serve
 
 ### <a name="dev"></a>Courses developed
 
+**Musical Time: Psychological and Theoretical Perspectives**  
+
+Music unfolds over time. However, the relationship between clock time (e.g. seconds, minutes) and
+musical time (e.g. perceived beats, meters, durations) is not constant. Which acoustic properties
+of the musical signal and which psychological properties of the human mind define our fluctuating
+perceptions of musical time? How do we form mental expectations about when an event will happen next in music?
+This course provides an overview of the most pertinent music-theoretic and psychological factors
+relevant for understanding and predicting temporal perception and expectations in music. 
+
+![Beyonce course image]({{ BASE_PATH }}/assets/publpics/timeBrainMusic.png)
+
 **This is your Brain on Beyoncé**  
 
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  
-
-Syllabus available upon request.
 
 ![Beyonce course image]({{ BASE_PATH }}/assets/publpics/beyCourse.png)

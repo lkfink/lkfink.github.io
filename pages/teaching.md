@@ -110,6 +110,9 @@ relevant for understanding and predicting temporal perception and expectations i
 
 ![Beyonce course image]({{ BASE_PATH }}/assets/publpics/timeBrainMusic.png)
 
+<br>
+<br>
+
 **This is your Brain on Beyoncé**  
 
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  

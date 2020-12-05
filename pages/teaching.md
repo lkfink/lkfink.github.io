@@ -31,31 +31,46 @@ description: Lauren Fink's teaching
 coming soon... -->
 
 ### <a name="courses"></a>Courses taught
-At the University of California Davis, Lauren has been a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for developing curriculum, teaching, and grading her own sections.** Courses are organized according to the department in which they were taught. 
+In Spring 2021 Lauren will be teaching the course "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
 
-**Dept. of Neurobiology, Physiology, & Behavior:** 
+Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, Lauren was a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for developing curriculum, teaching, and grading her own sections.** Courses are organized according to the department in which they were taught. 
+
+[**Dept. of Neurobiology, Physiology, & Behavior:**](https://npb.ucdavis.edu/){:target="_blank"}
 - Neurobiology - **D**
 - Human Brain & Disease 
 - Neurobiology of Speech 
 
-**Dept. of Psychology:**
+[**Dept. of Psychology:**](https://psychology.ucdavis.edu/){:target="_blank"}
 - Psychology of Music
 - Research Methods 
 
-**Humanities Program:**
+[**Humanities Program:**](https://humanities.ucdavis.edu/){:target="_blank"}
 - Cultural History of the Blues - **D**
 
-**University Writing Program:**  
+[**University Writing Program:**](https://writing.ucdavis.edu/){:target="_blank"}
 - Popular Science and Technology Writing - **D**
 - Visual Rhetoric - **D**
 
-**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**
+[**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**](https://ucleads.ucdavis.edu/){:target="_blank"}
 - Introduction to Research (Lauren designed and taught this course for a group of under-represented minority students conducting their summer research at UC Davis)
 
 <br>
 <br>
 
 ### <a name="reviews"></a>Reviews
+
+**Mentee Testimonals**  
+
+As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy; their contact information is available upon request. 
+- [letter from undergraduate mentee (Neuroscience)]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
+- [letter from undergraduate mentee (Music / Neuroscience)]({{ BASE_PATH }}/assets/MentorshipLetter_JanataLab_redacted.pdf){:target="_blank"} 
+- [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
+- [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
+
+<br>
+<br>
+
+**Student Ratings**  
 Student ratings and reviews (raw data) from all courses taught are available [here](https://github.com/lkfink/lkfink.github.io/tree/master/assets/UCD_CourseEvals){:target="_blank"}.  
 
 A concatenated summary of the evaluation data for all courses is presented here, in graphic format. [![UCD evals](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/UCD_CourseEvals/UCD_teachingEvals_compiledCharts.pdf){:target="_blank"}  
@@ -73,14 +88,6 @@ A concatenated summary of the evaluation data for all courses is presented here,
 *"Lauren was very funny and helpful. I liked her a lot as a TA and she made it clear which concepts were important and which concepts we were thinking too deeply about for the class. She kept discussion interesting. I would enjoy having her as a TA again! :) Thanks for all your help, Lauren!"*  
 
 *"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
-
-<br>
-**Mentee Testimonals**  
-
-As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy.
-- [letter from undergraduate mentee]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
-- [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
-- [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
 
 <br>
 <br>
@@ -108,7 +115,7 @@ perceptions of musical time? How do we form mental expectations about when an ev
 This course provides an overview of the most pertinent music-theoretic and psychological factors
 relevant for understanding and predicting temporal perception and expectations in music. 
 
-![Beyonce course image]({{ BASE_PATH }}/assets/publpics/timeBrainMusic.png)
+![Time course image]({{ BASE_PATH }}/assets/publpics/timeBrainMusic.png)
 
 <br>
 <br>

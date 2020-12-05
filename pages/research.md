@@ -63,9 +63,21 @@ This short documentary, directed by Joerg Altekruse, highlights an early prototy
 
 ### <a name="Mobile eye-tracking"></a>Mobile eye-tracking
 
-Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. More details coming soon. For anyone considering purchasing from Pupil Labs, Lauren has written up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
+Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. For anyone considering purchasing from Pupil Labs, Lauren previously wrote up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
  
-![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png)  
+![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png) 
+
+At the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html){:target="_blank"}, Lauren, together with [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"}, would like to bring mobile eye-tracking into the concert hall ([ArtLab](https://www.aesthetics.mpg.de/index.php?id=625&L=1){:target="_blank"}). Project description below: 
+
+The increasing availability of cost-effective, mobile, physiological measurement devices is leading to a growing interest in live, concert research studies in an attempt to understand how changes in audience members’ or musicians’ physiology relate to their subjective experiences. Such studies are still in their infancy, as they require a great deal of technical expertise in terms of hardware and software, as well as resources (e.g. a concert hall equipped for data collection, funding for scientific staff, physiological recording devices, etc.). To date, researchers have used methods like motion capture and mobile EEG to examine things like head bobbing or brain wave synchronization between audience members during a live vs. recorded music concert. Here, we propose the use of mobile eye-trackers in the concert hall. 
+
+While it may seem odd to use eye-tracking (vision) in a musical (auditory) context, a growing number of laboratory studies have clearly established that sound systematically affects visual processing. However, eye-tracking has yet to be widely adopted in auditory, and more specifically, musical, contexts. Previously, mobile eye-trackers have been used to examine gaze patterns of up to 3 musicians playing together; however, no studies have examined mobile eye-tracking data from multiple audience members at a concert, in addition to the musicians on stage. Such an undertaking would allow for comparisons of:
+-	gaze location (what audience members and what musicians are looking at)
+-	eye movement dynamics (when, in relation to musical events, and each other, audience members and musicians shift their gaze)
+-	blink rate (how often people blink) and blink timing (when people blink)
+These measures will allow us to answer a number of questions about how and when music affects ocular dynamics, e.g. which elements of a concert lead to synchronized ocular activity across audience members and/or musicians on stage. On a lower level, we can also answer questions about which neural mechanisms may underlie certain aspects of musical processing, as many ocular measures have well established neural substrates. Further, we can pit auditory and visual saliency against each other to answer questions related to cross-modal interactions.  
+
+
 <br><br>
 
 ### <a name="MET"></a>Conference on Music and Eye-Tracking (MET)

@@ -36,9 +36,6 @@ description: public outreach
 
 [![musCorona_image](../../assets/publpics/musCorona_image.png)](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"} 
 
-Participate in the research by taking the survey:
-in [English](tiny.cc/Cormus){:target="_blank"} oder [Deutsch](ww2.unipark.de/uc/musicandcorona/){:target="_blank"} 
-
 <br>
 <br>
 

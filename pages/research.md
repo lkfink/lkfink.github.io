@@ -75,6 +75,7 @@ While it may seem odd to use eye-tracking (vision) in a musical (auditory) conte
 -	gaze location (what audience members and what musicians are looking at)
 -	eye movement dynamics (when, in relation to musical events, and each other, audience members and musicians shift their gaze)
 -	blink rate (how often people blink) and blink timing (when people blink)
+
 These measures will allow us to answer a number of questions about how and when music affects ocular dynamics, e.g. which elements of a concert lead to synchronized ocular activity across audience members and/or musicians on stage. On a lower level, we can also answer questions about which neural mechanisms may underlie certain aspects of musical processing, as many ocular measures have well established neural substrates. Further, we can pit auditory and visual saliency against each other to answer questions related to cross-modal interactions.  
 
 

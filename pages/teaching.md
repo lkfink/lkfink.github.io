@@ -33,10 +33,10 @@ coming soon... -->
 ### <a name="courses"></a>Courses taught
 In Spring 2021 Lauren will be teaching the course "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
 
-Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, Lauren was a teaching assistant for numerous courses. **Courses listed below with a "D" indicate that Lauren was responsible for developing curriculum, teaching, and grading her own sections.** Courses are organized according to the department in which they were taught. 
+Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, Lauren was a teaching assistant for numerous courses. **Courses listed in bold indicate that Lauren was fully responsible for developing the curriculum, teaching, and grading.** Courses are organized according to the department in which they were taught. 
 
 [**Dept. of Neurobiology, Physiology, & Behavior:**](https://npb.ucdavis.edu/){:target="_blank"}
-- Neurobiology - **D**
+- **Neurobiology**
 - Human Brain & Disease 
 - Neurobiology of Speech 
 
@@ -45,14 +45,14 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 - Research Methods 
 
 [**Humanities Program:**](https://humanities.ucdavis.edu/){:target="_blank"}
-- Cultural History of the Blues - **D**
+- **Cultural History of the Blues**
 
 [**University Writing Program:**](https://writing.ucdavis.edu/){:target="_blank"}
-- Popular Science and Technology Writing - **D**
-- Visual Rhetoric - **D**
+- **Popular Science and Technology Writing**
+- **Visual Rhetoric**
 
 [**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**](https://ucleads.ucdavis.edu/){:target="_blank"}
-- Introduction to Research (Lauren designed and taught this course for a group of under-represented minority students conducting their summer research at UC Davis)
+- **Introduction to Research** (Lauren designed and taught this course for a group of under-represented minority students conducting their summer research at UC Davis)
 
 <br>
 <br>
@@ -62,8 +62,9 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 **Mentee Testimonals**  
 
 As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy; their contact information is available upon request. 
-- [letter from undergraduate mentee (Neuroscience)]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
+- [letter from undergraduate mentee (Psychology)]({{ BASE_PATH }}/assets/Mentorship_letter_psych.pdf){:target="_blank"} 
 - [letter from undergraduate mentee (Music / Neuroscience)]({{ BASE_PATH }}/assets/MentorshipLetter_JanataLab_redacted.pdf){:target="_blank"} 
+- [letter from undergraduate mentee (Neuroscience)]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
 - [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
 - [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
 

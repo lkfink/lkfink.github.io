@@ -66,7 +66,7 @@ As both a teaching assistant and a graduate student researcher, Lauren has serve
 - [letter from undergraduate mentee (Music / Neuroscience)]({{ BASE_PATH }}/assets/MentorshipLetter_JanataLab_redacted.pdf){:target="_blank"} 
 - [letter from undergraduate mentee (Neuroscience)]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 
 - [letter from Neurobiology student for whom I wrote a recommendation letter]({{ BASE_PATH }}/assets/NPB_thankYouLetter_1.pdf){:target="_blank"} 
-- [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} 
+<!-- - [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} -->
 
 <br>
 <br>

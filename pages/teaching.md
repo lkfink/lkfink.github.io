@@ -31,7 +31,7 @@ description: Lauren Fink's teaching
 coming soon... -->
 
 ### <a name="courses"></a>Courses taught
-In Spring 2021 Lauren will be teaching a masters seminar she developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
+In Spring 2021 Lauren will be teaching a master's seminar she developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
 
 Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, Lauren was a teaching assistant for numerous courses. **Courses listed in bold indicate that Lauren was fully responsible for developing the curriculum, teaching, and grading.** Courses are organized according to the department in which they were taught. 
 

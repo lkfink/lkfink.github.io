@@ -20,7 +20,7 @@ description: Lauren Fink's music
 ### <a name="current"></a>Current projects  
 
 #### California Arts Council
-From Winter 2018-2020, Lauren is a peer review panelist for the [California Arts Council](http://www.arts.ca.gov/){:target="_blank"}.
+From Winter 2018-2020, I am a peer review panelist for the [California Arts Council](http://www.arts.ca.gov/){:target="_blank"}.
 > "Peer-review panels [. . .] ensure that our grant application review process is democratic, fair and representative of California’s diverse geography; wealth of organizations; racial, ethnic and gender identities; perspectives and knowledge."  
 
 ![CAC logo]({{ BASE_PATH }}/pages/publpics/CAC.png) 
@@ -34,7 +34,7 @@ From Winter 2018-2020, Lauren is a peer review panelist for the [California Arts
 ### <a name="past"></a>Past projects 
 
 #### Girls Rock Sacramento
-Lauren was a volunteer drum set coach at [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"} in California. 
+I was a volunteer drum set coach for [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"} in California. 
 > "Girls Rock Sacramento is a nonprofit 501 C-3 organization that empowers girls through music and music education. We promote an environment that fosters self-confidence, creativity and teamwork. GRS challenges gender stereotypes, encourages collaboration and tolerance among peers, and provides a comfortable and safe place for girls of all backgrounds to express themselves. Through music lessons, workshops, group activities and live performance, girls acquire skills that help guide them throughout their lives."
 
 ![GRS kit]({{ BASE_PATH }}/pages/publpics/GRS.png)  
@@ -67,12 +67,12 @@ Poster advertisement
 
 ### <a name="cage"></a>Cage / 2012 
 
-In 2012, the John Cage (born 1912) Centennial, Lauren was a senior percussion student at the University of Cincinnati College-Conservatory of Music, as well as an intern at the UC Archives and Rare Books Library. A variety of projects sprang from [a manuscript Lauren discovered in the Archives](https://libapps.libraries.uc.edu/liblog/2011/08/zen-in-the-archives-and-rare-books-library-john-cage-and-the-van-meter-ames-papers/){:target="_blank"}, which documented the friendship between John Cage and UC Philosophy professor Van Meter Ames, as well as Cage's time in Cincinnati when he was composer-in-residence at the Conservatory.
+In 2012, the John Cage (born 1912) Centennial, I was a senior percussion student at the University of Cincinnati College-Conservatory of Music, as well as an intern at the UC Archives and Rare Books Library. A variety of projects sprang from [a manuscript I discovered in the Archives](https://libapps.libraries.uc.edu/liblog/2011/08/zen-in-the-archives-and-rare-books-library-john-cage-and-the-van-meter-ames-papers/){:target="_blank"}, which documented the friendship between John Cage and UC Philosophy professor Van Meter Ames, as well as Cage's time in Cincinnati when he was composer-in-residence at the Conservatory.
 Each project is briefly described and linked below.
 <br>
 
 #### Matriculaphony: A Percussive Circus on Van Meter Ames’ A BOOK OF CHANGES
-Lauren Fink's realization of Cage's piece ___, a ___ Circus On ___.
+My realization of Cage's piece ___, a ___ Circus On ___.
 
 The program notes explain the process of realizing the piece, which included creating mesostic poems from the text of Van Meter Ames' manuscript and collecting samples of every sound and from every geographical location mentioned in the manuscript. Those sounds were then layered into a background track which played behind the live performance. Because the manuscript was about Cage, the realization becomes self-referential, with Cage piece, layered on top of Cage piece.
 [Program Notes ![Notes as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Fink_RecitalProgramNotes.pdf){:target="_blank"}

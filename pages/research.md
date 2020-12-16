@@ -29,7 +29,7 @@ description: Lauren Fink's research projects
 
 
 ### <a name="Modeling attention"></a>Modeling attention to music
-In this project, Lauren uses a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, she aims to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures.
+In this project, I use a combination of computational modeling, psychophysics, eye-tracking, and electroencephalography (EEG) to measure and predict dynamic attention to auditory stimuli. Specifically, I aim to 1) assess the potential of a stimulus-driven [linear oscillator model](http://atonal.ucdavis.edu/projects/musical_spaces/rhythm/btb/){:target="_blank"} to predict attention to complex musical stimuli and 2) determine the relationship between ocular and cortical responses to auditory rhythms and whether pupil dynamics can index auditory attention in a manner similar to EEG signatures. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OMVWDExIq38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -45,7 +45,7 @@ This video shows oscillations in pupil size while listening to a clip of music. 
 <br><br>
 
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
-This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. Lauren is in the process of writing up the results of this project. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
+This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. The final manuscript it currently being prepared. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
 
 This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project, as well as related work in the Janata Lab.
 
@@ -63,11 +63,11 @@ This short documentary, directed by Joerg Altekruse, highlights an early prototy
 
 ### <a name="Mobile eye-tracking"></a>Mobile eye-tracking
 
-Lauren is currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. For anyone considering purchasing from Pupil Labs, Lauren previously wrote up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
+I am currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. For anyone considering purchasing from Pupil Labs, I previously wrote up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
  
 ![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png) 
 
-At the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html){:target="_blank"}, Lauren, together with [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"}, would like to bring mobile eye-tracking into the concert hall ([ArtLab](https://www.aesthetics.mpg.de/index.php?id=625&L=1){:target="_blank"}). While it may seem odd to use eye-tracking (vision) in a musical (auditory) context, a growing number of laboratory studies have clearly established that sound systematically affects visual processing. However, eye-tracking has yet to be widely adopted in auditory, and more specifically, musical, contexts. Previously, mobile eye-trackers have been used to examine gaze patterns of up to 3 musicians playing together; however, no studies have examined mobile eye-tracking data from multiple audience members at a concert, in addition to the musicians on stage. Such an undertaking would allow for comparisons of:
+At the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html){:target="_blank"}, I, together with [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"}, would like to bring mobile eye-tracking into the concert hall ([ArtLab](https://www.aesthetics.mpg.de/index.php?id=625&L=1){:target="_blank"}). While it may seem odd to use eye-tracking (vision) in a musical (auditory) context, a growing number of laboratory studies have clearly established that sound systematically affects visual processing. However, eye-tracking has yet to be widely adopted in auditory, and more specifically, musical, contexts. Previously, mobile eye-trackers have been used to examine gaze patterns of up to 3 musicians playing together; however, no studies have examined mobile eye-tracking data from multiple audience members at a concert, in addition to the musicians on stage. Such an undertaking would allow for comparisons of:
 -	gaze location (what audience members and what musicians are looking at)
 -	eye movement dynamics (when, in relation to musical events, and each other, audience members and musicians shift their gaze)
 -	blink rate (how often people blink) and blink timing (when people blink)
@@ -79,7 +79,7 @@ These measures will allow us to answer a number of questions about how and when 
 
 ### <a name="MET"></a>Conference on Music and Eye-Tracking (MET)
 
-In August 2017, Lauren Fink and [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+In August 2017, [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} and I organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 
 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
@@ -90,7 +90,7 @@ Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 
-#### Upcoming 2020 Conference! (CANCELLED)
+#### Upcoming 2020 Conference! (POSTPONED UNTIL 2022 DUE TO COVID-19)
 The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 16-17 July 2020. More information will be posted as it becomes available: [www.ae.mpg.de/met](https://www.ae.mpg.de/met){:target="_blank"}.
 
 
@@ -98,7 +98,7 @@ The second Conference on Music & Eye-Tracking will be held at the Max Planck Ins
 <br><br>
 
 ### <a name="WAC"></a>Writing Across the Curriculum (WAC)
-Lauren served for three years as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, she managed a team of six Graduate Writing Fellows and acted as a liason between graduate fellows and faculty. The WAC fellows hold one-on-one [writing consultations](http://writing.ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](http://writing.ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](http://writing.ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](http://writing.ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](http://writing.ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. Lauren developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](http://writing.ucdavis.edu/wac/gfw-bios){:target="_blank"}. She also conducted numerous research projects which were presented at the following conferences: 
+I served for three years as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, I managed a team of six Graduate Writing Fellows and acted as a liason between graduate fellows and faculty. The WAC fellows hold one-on-one [writing consultations](http://writing.ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](http://writing.ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](http://writing.ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](http://writing.ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](http://writing.ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. I developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](http://writing.ucdavis.edu/wac/gfw-bios){:target="_blank"}. I also conducted numerous research projects which were presented at the following conferences: 
 
 > Mikovits, M., Sperber, L., **Fink, L.** & Prebel, J. (2019, March). Writing Fellows as Agents of Transfer: Training in Threshold Concepts to Support Campus-Wide Sites of Writing. *Symposium presented at the College Composition and Communication Convention, Pittsburgh, PA.*  
 

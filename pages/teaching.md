@@ -17,7 +17,7 @@ description: Lauren Fink's teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <!-- <li><a href="#philosophy">Teaching statement</a></li> -->
+            <li><a href="#philosophy">Teaching philosophy</a></li>
             <li><a href="#courses">Courses taught</a></li>
             <li><a href="#reviews">Reviews</a></li>
             <li><a href="#certifications">Certifications</a></li>
@@ -26,9 +26,9 @@ description: Lauren Fink's teaching
     </div>
 </div>
 
-<!--
-### <a name="philosophy"></a>Teaching statement
-coming soon... -->
+
+### <a name="philosophy"></a>Teaching philosophy
+My responsibility as a lecturer and advisor is to train students to think critically about the information they consume and provide them with the skills to produce their own arguments and knowledge. I aim to equip students with concrete strategies and to inspire the confidence necessary to accomplish the tasks required of them in academia and beyond.  In order to do this, I work to create student-centered learning environments that stress the socially-situated nature of knowledge and communication. I also aim to make the often-opaque practices of academia and scholarly writing transparent to my students. Further, I am explicit about my strategies and motivations. I enlist students’ input about what they need from me, how I can meet those needs, whether I am doing so effectively, and whether our communication or working style could be improved. This process encourages students to identify their needs and knowledge gaps – skills that will be crucial for them in becoming independent scholars. [Click to read more ... ](https://github.com/lkfink/lkfink.github.io/tree/master/assets/Fink_teachingPhilosophy){:target="_blank"}.  
 
 ### <a name="courses"></a>Courses taught
 In Spring 2021 Lauren will be teaching a master's seminar she developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 

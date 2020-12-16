@@ -31,9 +31,9 @@ description: Lauren Fink's teaching
 My responsibility as a lecturer and advisor is to train students to think critically about the information they consume and provide them with the skills to produce their own arguments and knowledge. I aim to equip students with concrete strategies and to inspire the confidence necessary to accomplish the tasks required of them in academia and beyond.  In order to do this, I work to create student-centered learning environments that stress the socially-situated nature of knowledge and communication. I also aim to make the often-opaque practices of academia and scholarly writing transparent to my students. Further, I am explicit about my strategies and motivations. I enlist students’ input about what they need from me, how I can meet those needs, whether I am doing so effectively, and whether our communication or working style could be improved. This process encourages students to identify their needs and knowledge gaps – skills that will be crucial for them in becoming independent scholars. [Click to read more ... ](https://github.com/lkfink/lkfink.github.io/tree/master/assets/Fink_teachingPhilosophy){:target="_blank"}.  
 
 ### <a name="courses"></a>Courses taught
-In Spring 2021 Lauren will be teaching a master's seminar she developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
+In Spring 2021 I will be teaching a master's seminar I developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
 
-Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, Lauren was a teaching assistant for numerous courses. **Courses listed in bold indicate that Lauren was fully responsible for developing the curriculum, teaching, and grading.** Courses are organized according to the department in which they were taught. 
+Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, I was a teaching assistant for numerous courses. **Courses listed in bold indicate that I was fully responsible for developing the curriculum, teaching, and grading.** Courses are organized according to the department in which they were taught. 
 
 [**Dept. of Neurobiology, Physiology, & Behavior:**](https://npb.ucdavis.edu/){:target="_blank"}
 - **Neurobiology**
@@ -52,7 +52,7 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 - **Visual Rhetoric**
 
 [**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**](https://ucleads.ucdavis.edu/){:target="_blank"}
-- **Introduction to Research** (Lauren designed and taught this course for a group of under-represented minority students conducting their summer research at UC Davis)
+- **Introduction to Research** 
 
 <br>
 <br>
@@ -61,7 +61,7 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 
 **Mentee Testimonals**  
 
-As both a teaching assistant and a graduate student researcher, Lauren has served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy; their contact information is available upon request. 
+As both a teaching assistant and a graduate student researcher, I have served as a mentor to a variety of undergraduate students. Letters from some of these students are linked below. All student names have been redacted for privacy; their contact information is available upon request. 
 - [letter from undergraduate mentee (Psychology)]({{ BASE_PATH }}/assets/Mentorship_letter_psych.pdf){:target="_blank"} 
 - [letter from undergraduate mentee (Music / Neuroscience)]({{ BASE_PATH }}/assets/MentorshipLetter_JanataLab_redacted.pdf){:target="_blank"} 
 - [letter from undergraduate mentee (Neuroscience)]({{ BASE_PATH }}/assets/Mentorship_letter.pdf){:target="_blank"} 

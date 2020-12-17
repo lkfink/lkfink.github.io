@@ -54,11 +54,10 @@ https://escholarship.org/uc/item/6gv4f561
 -->
 
 #### 2017
-**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20). [https://mediapressmusic.com/allen-otte-folio-various/.](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"}
+**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), [*Allen Otte Folio*](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"} (pp. 17-20). 
 
 #### 2016
-**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} [https://ethnomusicologyreview.ucla.edu/content/greatest](https://ethnomusicologyreview.ucla.edu/content/greatest){:target="_blank"}
-
+**Fink, L.** (2016). [*The Greatest.*](https://ethnomusicologyreview.ucla.edu/content/greatest){:target="_blank"} [Pulse Special Issue of Ethnomusicology Review/Sounding Board.]
 
 <br>
 <br>

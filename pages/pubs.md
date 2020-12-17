@@ -57,7 +57,7 @@ https://escholarship.org/uc/item/6gv4f561
 **Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), [*Allen Otte Folio*](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"} (pp. 17-20). 
 
 #### 2016
-**Fink, L.** (2016). [*The Greatest.*](https://ethnomusicologyreview.ucla.edu/content/greatest){:target="_blank"} [Pulse Special Issue of Ethnomusicology Review/Sounding Board.]
+**Fink, L.** (2016). [*The Greatest.*](https://ethnomusicologyreview.ucla.edu/content/greatest){:target="_blank"} [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](https://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"}
 
 <br>
 <br>
@@ -69,7 +69,7 @@ https://escholarship.org/uc/item/6gv4f561
 
 **Fink, L.** & Lange, E. (2019). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
 
-**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California. [http://explorations.ucdavis.edu/2017/index.html](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"}
+**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California. 
 
 J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}. Available to purchase from [Media Press Inc.](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"}   
 

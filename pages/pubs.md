@@ -54,10 +54,10 @@ https://escholarship.org/uc/item/6gv4f561
 -->
 
 #### 2017
-**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20).  
+**Fink, L.** (2017). Chance Operations in Neuroscience.  In J. Lane & L. Fink (Eds.), *Allen Otte Folio* (pp. 17-20). [https://mediapressmusic.com/allen-otte-folio-various/.](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"}
 
 #### 2016
-**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} 
+**Fink, L.** (2016). *The Greatest.* [Pulse Special Issue of Ethnomusicology Review/Sounding Board.](http://ethnomusicologyreview.ucla.edu/sounding-board/special-issue){:target="_blank"} [https://ethnomusicologyreview.ucla.edu/content/greatest](https://ethnomusicologyreview.ucla.edu/content/greatest){:target="_blank"}
 
 
 <br>
@@ -70,7 +70,7 @@ https://escholarship.org/uc/item/6gv4f561
 
 **Fink, L.** & Lange, E. (2019). [Special Issue on Music & Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}. *Journal of Eye Movement Research*.  
 
-**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California.    
+**L. Fink** (Ed.) (2017). [*Explorations: The UC Davis Undergraduate Research Journal*. (Vol. 19).](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"} The Regents of the University of California. [http://explorations.ucdavis.edu/2017/index.html](http://explorations.ucdavis.edu/2017/index.html){:target="_blank"}
 
 J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Otte_Folio_preview.pdf){:target="_blank"}. Available to purchase from [Media Press Inc.](https://mediapressmusic.com/allen-otte-folio-various/){:target="_blank"}   
 

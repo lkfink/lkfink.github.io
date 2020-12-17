@@ -34,7 +34,7 @@ description: Lauren Fink's publications
 
 #### 2020
 
-Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (under review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. doi: [https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
+Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (under review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. [DOI: https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
 
 Sharma, N., Krishnamohan, V., Ganapathy, S., Gangopadhayay, A. & **Fink, L.** (2020). Acoustic and linguistic features influence talker change detection. *J. Acoust. Soc. Amer. Express Letters 147*(5). [DOI: https://doi.org/10.1121/10.0002462](https://asa.scitation.org/doi/10.1121/10.0002462){:target="_blank"}. 
 

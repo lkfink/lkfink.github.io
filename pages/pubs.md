@@ -32,6 +32,10 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
+#### 2021
+
+***Fink, L.**, *Warrenburg, L. A., Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021, submitted). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. https://doi.org/10.31234/osf.io/7mg2v
+
 #### 2020
 
 Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (under review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. [DOI: https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.

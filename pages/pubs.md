@@ -84,6 +84,10 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 ### <a name="abstracts"></a>Conference abstracts  
 
+#### 2021
+
+Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M. (2021, Mar). Multimodality of music listening: how live versus recorded versions of piano music influence self-report and physiological responses. Talk (virtual) presented at the Tagung experimentell arbeitender Psychologen (TeaP). 
+
 #### 2020
 
 **Fink, L.**, Howlin, C., Randall, W., Warrenburg, L., Hansen, N.C., Wald-Fuhrmann, M. (2020, Sept.) Music as a tool for socio-emotional coping during Covid-19 pandemic lockdown. *Talk (virtual) presented at the Society for Education, Music, and Psychology Research.*

@@ -32,13 +32,15 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
-#### 2021
+#### Submitted / In review
 
 Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (in review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. [DOI: https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
 
 ***Fink, L.**, *Warrenburg, L. A., Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021, in review). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. PsyArXiv: [https://doi.org/10.31234/osf.io/7mg2v](https://doi.org/10.31234/osf.io/7mg2v]){:target="_blank"}.
 
-**Fink, L.** (2021, in press). Computational models of temporal expectations. Proceedings of the Future Directions of Music Cognition International Conference.![image](https://user-images.githubusercontent.com/20568316/120012619-060c9700-bfe0-11eb-920e-3c24f13e09fc.png)
+#### 2021
+
+**Fink, L.** (2021, in press). Computational models of temporal expectations. Proceedings of the Future Directions of Music Cognition International Conference.
 
 **Durojaye, C., Fink, L.,** Wald-Fuhrmann, M., Roeske, T. & Larrouy-Maestri, P. (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. Front. Psychol. 12:652673. [https://doi.org/10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 

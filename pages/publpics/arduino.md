@@ -3,11 +3,10 @@ layout: frontpage
 title: Arduino + Adafruit Waveshield
 ---
 
-Photo of an [Arduino Uno](https://www.arduino.cc/) device with an [Adafruit](https://www.adafruit.com/) waveshield on top (for playing sound).   
+We are currently using [Arduino Unos](https://www.arduino.cc/) with [Adafruit](https://www.adafruit.com/) waveshields (for playing sound) in group music-making experiments in the lab.    
 
-<img src="https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/gem_example.png" alt="arduino" width="200"/>
+<img src="https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/gem_example.png" alt="arduino" width="1000"/>
 
-We are currently using these devices as instruments in group music-making experiments in the lab. 
 
 You can watch a short video, with preliminary data, about the project here: 
 

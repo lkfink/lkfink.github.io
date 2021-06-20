@@ -1,12 +1,9 @@
 ---
 layout: frontpage
-title: Arduino + Adafruit Waveshield
+title: GEM info
 ---
 
 We are currently using [Arduino Unos](https://www.arduino.cc/) with [Adafruit](https://www.adafruit.com/) waveshields (for playing sound) in group music-making experiments in the lab.    
-
-<img src="https://github.com/lkfink/lkfink.github.io/blob/master/assets/publpics/gem_example.png" width="560"/>
-
 
 You can watch a short video, with preliminary data, about the project here: 
 

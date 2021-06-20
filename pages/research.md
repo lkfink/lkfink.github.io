@@ -53,7 +53,10 @@ This short documentary, directed by Joerg Altekruse, highlights an early prototy
 
 ##### Conference presentations related to this project (paper in prep.):
 
-> **Fink, L.**, Alexander, P., Janata, J. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
+> **Fink, L.**, Alexander, P., Janata, P. (2021, June). The influence of metronome adaptivity and auditory feedback on group tapping. *Talk presented at the Rhythm Perception & Production Workshop, University of Oslo, Norway (virtual).*  
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/tDZCIjiCmLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> **Fink, L.**, Alexander, P., Janata, P. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
 
 > **Fink, L.**, & Alexander, P., & Janata, P. (2017, July). Fostering Empathy and Improving Focus Through the Groove Enhancement Machine: Facilitating Sensorimotor Coordination and Cooperation Among Groups of Individuals. *Demonstration presented at the National Academies Keck Futures Initiative Art, Science, Engineering, and Medicine Mid-Cycle Grant Meeting, Boston, MA.*
 

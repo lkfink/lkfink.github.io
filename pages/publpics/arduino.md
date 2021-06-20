@@ -7,6 +7,11 @@ Photo of an [Arduino Uno](https://www.arduino.cc/) device with an [Adafruit](htt
 
 We are currently using these devices as instruments in group music-making experiments in the lab. 
 
-More details about this project coming soon..
+You can watch a short video about preliminary data from the project here: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDZCIjiCmLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+  
+  
 
 [![arduino](../../assets/publpics/arduino.png)](https://lkfink.github.io/pages/publpics/arduino.html)

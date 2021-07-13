@@ -36,6 +36,8 @@ description: public outreach
 
 [![dundun_kids_1](../../assets/publpics/dundun_kids_1.png)](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"} 
 
+<br>
+<br>
 
 ## Press release about our project [Music in the Time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}!
 

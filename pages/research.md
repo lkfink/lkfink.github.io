@@ -42,7 +42,9 @@ This video shows oscillations in pupil size while listening to a clip of music. 
 > Hurley, B., **Fink, L.**, & Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* Advance online publication. [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
 ##### Recent conference presentation about an extension of this project: 
+> In this video I discuss the possibility of predicting listeners' absorption into music from their pupils. 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/5bpDhrxUvLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <br><br>
 
@@ -56,6 +58,8 @@ This short documentary, directed by Joerg Altekruse, highlights an early prototy
 ##### Conference presentations related to this project (paper in prep.):
 
 > **Fink, L.**, Alexander, P., Janata, P. (2021, June). The influence of metronome adaptivity and auditory feedback on group tapping. *Talk presented at the Rhythm Perception & Production Workshop, University of Oslo, Norway (virtual).*  
+> 
+> This talk provides the most up-to-date information about our project: 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/optqIxLbz2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > **Fink, L.**, Alexander, P., Janata, P. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  

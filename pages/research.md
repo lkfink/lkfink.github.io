@@ -41,6 +41,8 @@ This video shows oscillations in pupil size while listening to a clip of music. 
 
 > Hurley, B., **Fink, L.**, & Janata, P. (2018). Mapping the dynamic allocation of attention in musical patterns. *Journal of Experimental Psychology: Human Perception & Performance.* Advance online publication. [DOI: 10.1037/xhp0000563](http://psycnet.apa.org/doiLanding?doi=10.1037%2Fxhp0000563){:target="_blank"}  
 
+##### Recent Conference presentation related to this project: 
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/5bpDhrxUvLg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br><br>
 

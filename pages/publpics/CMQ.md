@@ -9,7 +9,7 @@ During the pandemic, we wanted to understand the role of music in helping people
 
 > People experiencing different degrees of emotional changes showed different patterns of musical engagement.  
 
-> Listening to music vs. making making may provide different coping potentials.  
+> Listening to music vs. making music may provide different coping potentials.  
 
 > "Coronamusic" played a key role in socio-emotional coping.  
 
@@ -19,15 +19,17 @@ It has just been accepted for publication in [Nature Humanities and Social Scien
 
 All code and figures related to the project can be found on our dedicated Github page: [https://github.com/lkfink/CMQ](https://github.com/lkfink/CMQ){:target="_blank"}.  
 
-
-You can watch a short conference talk about the project, presented by co-author [Lindsay Warrenburg](https://www.lindsaywarrenburg.com/){:target="_blank"} here.
+<br>
+<br>
+You can watch a short conference talk about the project, presented by co-first author [Lindsay Warrenburg](https://www.lindsaywarrenburg.com/){:target="_blank"} here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qnR8fWfyVEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 <br>
-You can learn more about an International network related to music during the times of COVID [here](https://www.aesthetics.mpg.de/en/research/department-of-music/musicovid-an-international-research-network.html){:target="_blank"}
+<br>
+You can learn more about an international research network related to music and COVID [here](https://www.aesthetics.mpg.de/en/research/department-of-music/musicovid-an-international-research-network.html){:target="_blank"}
 
-### Press related to the article will appear below: 
+### Press related to the project will appear below: 
 > Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}. 
 
 > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}

@@ -4,7 +4,9 @@ title: CMQ info
 ---
 
 During the pandemic, we wanted to understand the role of music in helping people to cope with the crisis. 
-A [pre-print of our article is here](https://psyarxiv.com/7mg2v/){:target="_blank"}. It has just been accepted for publication at [Nature Humanities and Social Sciences Communications](https://www.nature.com/palcomms/){:target="_blank"} and will be in print soon. 
+A [pre-print of our article is here](https://psyarxiv.com/7mg2v/){:target="_blank"}. It has just been accepted for publication in [Nature Humanities and Social Sciences Communications](https://www.nature.com/palcomms/){:target="_blank"} and will soon be in print soon. 
+
+All code and figures related to the project can be found on our dedicated Github page: [https://github.com/lkfink/CMQ](https://github.com/lkfink/CMQ){:target="_blank"}.  
 
 
 You can watch a short conference talk about the project, presented by co-author [Lindsay Warrenburg](https://www.lindsaywarrenburg.com/){:target="_blank"} here.
@@ -13,3 +15,7 @@ You can watch a short conference talk about the project, presented by co-author 
   
 
 You can learn more about an International network related to music during the times of COVID [here](https://www.aesthetics.mpg.de/en/research/department-of-music/musicovid-an-international-research-network.html){:target="_blank"}
+
+Press related to the article will appear below: 
+> Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}
+> > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}

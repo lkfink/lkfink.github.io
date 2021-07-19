@@ -18,4 +18,4 @@ You can learn more about an International network related to music during the ti
 
 Press related to the article will appear below: 
 > Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}
-> > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}
+> Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}

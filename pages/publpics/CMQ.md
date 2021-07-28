@@ -35,3 +35,15 @@ You can learn more about an international research network related to music and 
 > Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}. 
 
 > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}
+
+> > RTE: [Viral tunes: how we used music to get through the pandemic](https://www.rte.ie/brainstorm/2021/0727/1237479-music-pandemic-lockdown-research/){:target="_blank"}
+
+> Deutschlandfunk Nova: [Musikhören hilft im Lockdown](https://www.deutschlandfunknova.de/nachrichten/studie-musikhoeren-hilft-im-lockdown){:target="_blank"}
+
+> SRF: [Wie Musik uns durch den Lockdown brachte](https://www.srf.ch/kultur/musik/studie-zu-musik-in-der-krise-wie-musik-uns-durch-den-lockdown-brachte){:target="_blank"}
+
+> t-online: [Gegen diese Folgen der Pandemie hilft Musik](https://www.t-online.de/gesundheit/krankheiten-symptome/id_90512154/corona-krise-musik-hilft-gegen-corona-stress.html){:target="_blank"}
+
+> NTV: [Musik hilft durch Krisenzeiten](https://www.n-tv.de/wissen/Musik-hilft-durch-Krisenzeiten-article22704153.html){:target="_blank"}
+
+

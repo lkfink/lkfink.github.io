@@ -4,6 +4,8 @@ title: CMQ info
 ---
 
 During the pandemic, we wanted to understand the role of music in helping people to cope with the first lockdown (~ April 2020).  
+<br>
+<br>
 Read our paper in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-021-00858-y.){:target="_blank"}.   
 
 
@@ -36,7 +38,7 @@ You can learn more about an international research network related to music and 
 
 > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}
 
-> > RTE: [Viral tunes: how we used music to get through the pandemic](https://www.rte.ie/brainstorm/2021/0727/1237479-music-pandemic-lockdown-research/){:target="_blank"}
+> RTE: [Viral tunes: how we used music to get through the pandemic](https://www.rte.ie/brainstorm/2021/0727/1237479-music-pandemic-lockdown-research/){:target="_blank"}
 
 > Deutschlandfunk Nova: [Musikhören hilft im Lockdown](https://www.deutschlandfunknova.de/nachrichten/studie-musikhoeren-hilft-im-lockdown){:target="_blank"}
 

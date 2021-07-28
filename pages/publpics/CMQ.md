@@ -3,7 +3,11 @@ layout: frontpage
 title: CMQ info
 ---
 
-During the pandemic, we wanted to understand the role of music in helping people to cope with the crisis. We found that:   
+During the pandemic, we wanted to understand the role of music in helping people to cope with the first lockdown (~ April 2020).  
+Read our paper in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-021-00858-y.){:target="_blank"}.   
+
+
+In short, we found that:   
 
 > During the COVID-19 lockdown, people turned to music for regulating their emotions.  
 
@@ -14,10 +18,7 @@ During the pandemic, we wanted to understand the role of music in helping people
 > "Coronamusic" played a key role in socio-emotional coping.  
 
 
-A [pre-print of our article is here](https://psyarxiv.com/7mg2v/){:target="_blank"}. 
-It has just been accepted for publication in [Nature Humanities and Social Sciences Communications](https://www.nature.com/palcomms/){:target="_blank"} and will soon be in print soon!
-
-All code and figures related to the project can be found on our dedicated Github page: [https://github.com/lkfink/CMQ](https://github.com/lkfink/CMQ){:target="_blank"}.  
+All code and figures related to the project can be found on our Github page: [https://github.com/lkfink/CMQ](https://github.com/lkfink/CMQ){:target="_blank"}.  
 
 <br>
 <br>
@@ -28,6 +29,7 @@ You can watch a short conference talk about the project, presented by co-first a
 <br>
 <br>
 You can learn more about an international research network related to music and COVID [here](https://www.aesthetics.mpg.de/en/research/department-of-music/musicovid-an-international-research-network.html){:target="_blank"}
+
 
 ### Press related to the project will appear below: 
 > Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}. 

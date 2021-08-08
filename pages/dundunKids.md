@@ -33,11 +33,13 @@ by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, [Cecilia Durojaye]
     <!-- <source src="audio.mp3"></source> -->
     <source src="../assets/audio/dundun_example.ogg"></source>
 </audio>
+<br>
+Can you hear the similarity between the two examples? Even though one is the human voice and the other is a drum, the tones and timing of the two examples should sound similar to you. If you are having trouble hearing the changes over time, try following along with the red lines in figure above while you listen. The three lines in the top speech bubble represent the tone levels of Yorùbá: High, Medium, Low. The waveform in the lower speech bubble shows the changes in drum intensity over time. Each black burst indicates a strike of the drum. You can “read” the rhythm from left to right. In both speech bubbles, the red line corresponds to the changes in tone. Both sound clips follow the same general changes in tone over time. 
 
 
 
 ### Can you tell whether the dùndún is "talking" or playing music?   
-Here are a few clips of recordings from the dùndún. Try guess whether each one is speech or music. An answer key is provided at the bottom of the page. 
+Understanding exactly what the dùndún talking drum is saying (the content of its message) would require being familiar with the Yorùbá language. However, we were interested in whether people would be able to tell, in general, whether the drum was speaking or playing music. Do you think you could tell the difference between drum speech and music? Try it! Below we provide three examples of dùndún performances. Can you guess whether each one is music vs. speech? An answer key is provided at the bottom of the page. 
 <br>
 <audio controls preload>
     <!-- <source src="audio.mp3"></source> -->

@@ -12,8 +12,11 @@
 ## Drums help us understand how we process speech and music
 Online audio examples for Frontiers for Young Minds article
 
-by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, [Cecilia Durojaye[(https://www.news.uct.ac.za/article/-2021-02-19-winning-phd-highlights-african-indigenous-knowledge-systems){:target="_blank"}, [Tina Roeske[(https://www.aesthetics.mpg.de/en/the-institute/people/tina-roeske.html){:target="_blank"}, [Melanie Wald-Fuhrmann](https://www.aesthetics.mpg.de/en/the-institute/people/melanie-wald-fuhrmann.html){:target="_blank"}, & [Pauline Larrouy-Maestri](https://www.aesthetics.mpg.de/en/the-institute/people/pauline-larrouy-maestri.html){:target="_blank"}
+by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, [Cecilia Durojaye](https://www.news.uct.ac.za/article/-2021-02-19-winning-phd-highlights-african-indigenous-knowledge-systems){:target="_blank"}, [Tina Roeske](https://www.aesthetics.mpg.de/en/the-institute/people/tina-roeske.html){:target="_blank"}, [Melanie Wald-Fuhrmann](https://www.aesthetics.mpg.de/en/the-institute/people/melanie-wald-fuhrmann.html){:target="_blank"}, & [Pauline Larrouy-Maestri](https://www.aesthetics.mpg.de/en/the-institute/people/pauline-larrouy-maestri.html){:target="_blank"}
 
+[![dundun_kids_1](../../assets/publpics/dundun_kids_1.png)](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"} 
+<br>
+<br>
 
 ### Yorùbá language and dùndún drumming:
  In Nigeria, many people speak a language called Yorùbá. Unlike English, to speak Yorùbá, certain parts of words need to be spoken at particular pitches to be properly understood. 

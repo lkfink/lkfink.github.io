@@ -66,6 +66,8 @@ Here are a few clips of recordings from the dùndún. Try guess whether each one
 
 <br>
 <br>
+
+We asked over 100 people to do the task you just did. We were interested in whether those unfamiliar with the dùndún and Yorùbá language could tell above chance whether they were hearing speech or music. We also wanted to know whether there are specific characteristics of sound that define the speech and music categories. You can [read our original research article here](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"} or our version for Young Minds here [paper coming soon]. 
 <br>
 <br>
 <br>

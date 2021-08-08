@@ -36,5 +36,38 @@ by [Lauren Fink](http://lkfink.github.io/){:target="_blank"}, [Cecilia Durojaye]
 
 
 
+### Can you tell whether the dùndún is "talking" or playing music?   
+Here are a few clips of recordings from the dùndún. Try guess whether each one is speech or music. An answer key is provided at the bottom of the page. 
+<br>
+<audio controls preload>
+    <!-- <source src="audio.mp3"></source> -->
+    <source src="../assets/audio/D8M_kids.ogg"></source>
+</audio>
+<br>
+
+<audio controls preload>
+    <!-- <source src="audio.mp3"></source> -->
+    <source src="../assets/audio/D7s_kids.ogg"></source>
+</audio>
+
+<br>
+<audio controls preload>
+    <!-- <source src="audio.mp3"></source> -->
+    <source src="../assets/audio/13s_kids.ogg"></source>
+</audio>
+<br>
+
+<audio controls preload>
+    <!-- <source src="audio.mp3"></source> -->
+    <source src="../assets/audio/D6M_kids.ogg"></source>
+</audio>
 
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Answer Key (s = speech; m = music): m, s, s, m. 

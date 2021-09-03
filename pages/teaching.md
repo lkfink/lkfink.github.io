@@ -31,7 +31,8 @@ description: Lauren Fink's teaching
 My responsibility as a lecturer and advisor is to train students to think critically about the information they consume and provide them with the skills to produce their own arguments and knowledge. I aim to equip students with concrete strategies and to inspire the confidence necessary to accomplish the tasks required of them in academia and beyond.  In order to do this, I work to create student-centered learning environments that stress the socially-situated nature of knowledge and communication. I also aim to make the often-opaque practices of academia and scholarly writing transparent to my students. Further, I am explicit about my strategies and motivations. I enlist students’ input about what they need from me, how I can meet those needs, whether I am doing so effectively, and whether our communication or working style could be improved. This process encourages students to identify their needs and knowledge gaps – skills that will be crucial for them in becoming independent scholars. [Click to read more ... ](https://github.com/lkfink/lkfink.github.io/tree/master/assets/Fink_teachingPhilosophy){:target="_blank"}.  
 
 <br>
-### <a name="courses"></a>Courses taught
+### <a name="courses"></a>Courses taught  
+
 My current instituttion - the Max Planck Institute for Empirical Aesthetics - is purely a research institute, however, nearby at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"} I have taught in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}. Most recently, I designed and taught a masters seminar:  
 [Musical Time: Psychological and Theoretical Perspectives](https://lkfink.github.io/pages/teaching.html#dev).
 

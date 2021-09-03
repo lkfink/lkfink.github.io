@@ -40,23 +40,23 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 **Courses listed in bold indicate that I was fully responsible for developing the curriculum, teaching, and grading.**   
 Courses are organized according to the department in which they were taught. 
 
-[**Dept. of Neurobiology, Physiology, & Behavior:**](https://npb.ucdavis.edu/){:target="_blank"}
+[Dept. of Neurobiology, Physiology, & Behavior:](https://npb.ucdavis.edu/){:target="_blank"}
 - **Neurobiology**
 - Human Brain & Disease 
 - Neurobiology of Speech 
 
-[**Dept. of Psychology:**](https://psychology.ucdavis.edu/){:target="_blank"}
+[Dept. of Psychology:](https://psychology.ucdavis.edu/){:target="_blank"}
 - Psychology of Music
 - Research Methods 
 
-[**Humanities Program:**](https://humanities.ucdavis.edu/){:target="_blank"}
+[Humanities Program:](https://humanities.ucdavis.edu/){:target="_blank"}
 - **Cultural History of the Blues**
 
-[**University Writing Program:**](https://writing.ucdavis.edu/){:target="_blank"}
+[University Writing Program:](https://writing.ucdavis.edu/){:target="_blank"}
 - **Popular Science and Technology Writing**
 - **Visual Rhetoric**
 
-[**University of California Leadership Excellence through Advanced Degrees (UC LEADS)**](https://ucleads.ucdavis.edu/){:target="_blank"}
+[University of California Leadership Excellence through Advanced Degrees (UC LEADS)](https://ucleads.ucdavis.edu/){:target="_blank"}
 - **Introduction to Research** 
 
 <br>

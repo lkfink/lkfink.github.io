@@ -30,10 +30,14 @@ description: Lauren Fink's teaching
 ### <a name="philosophy"></a>Teaching philosophy
 My responsibility as a lecturer and advisor is to train students to think critically about the information they consume and provide them with the skills to produce their own arguments and knowledge. I aim to equip students with concrete strategies and to inspire the confidence necessary to accomplish the tasks required of them in academia and beyond.  In order to do this, I work to create student-centered learning environments that stress the socially-situated nature of knowledge and communication. I also aim to make the often-opaque practices of academia and scholarly writing transparent to my students. Further, I am explicit about my strategies and motivations. I enlist students’ input about what they need from me, how I can meet those needs, whether I am doing so effectively, and whether our communication or working style could be improved. This process encourages students to identify their needs and knowledge gaps – skills that will be crucial for them in becoming independent scholars. [Click to read more ... ](https://github.com/lkfink/lkfink.github.io/tree/master/assets/Fink_teachingPhilosophy){:target="_blank"}.  
 
+<br>
 ### <a name="courses"></a>Courses taught
-In Spring 2021 I will be teaching a master's seminar I developed "Musical Time: Psychological and Theoretical Perspectives" in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}, at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"}, Frankfurt. 
+My current instituttion - the Max Planck Institute for Empirical Aesthetics - is purely a research institute, however, nearby at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"} I have taught in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}. Most recently, I designed and taught a masters seminar:  
+[Musical Time: Psychological and Theoretical Perspectives](https://lkfink.github.io/pages/teaching.html#dev).
 
-Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, I was a teaching assistant for numerous courses. **Courses listed in bold indicate that I was fully responsible for developing the curriculum, teaching, and grading.** Courses are organized according to the department in which they were taught. 
+Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, I was a teaching assistant for numerous courses.   
+**Courses listed in bold indicate that I was fully responsible for developing the curriculum, teaching, and grading.**   
+Courses are organized according to the department in which they were taught. 
 
 [**Dept. of Neurobiology, Physiology, & Behavior:**](https://npb.ucdavis.edu/){:target="_blank"}
 - **Neurobiology**
@@ -55,7 +59,7 @@ Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:
 - **Introduction to Research** 
 
 <br>
-<br>
+
 
 ### <a name="reviews"></a>Reviews
 
@@ -69,7 +73,7 @@ As both a teaching assistant and a graduate student researcher, I have served as
 <!-- - [email from Neurobiology student]({{ BASE_PATH }}/assets/NBP_thankYouLetter_2.pdf){:target="_blank"} -->
 
 <br>
-<br>
+
 
 **Student Ratings**  
 Student ratings and reviews (raw data) from all courses taught are available [here](https://github.com/lkfink/lkfink.github.io/tree/master/assets/UCD_CourseEvals){:target="_blank"}.  
@@ -91,7 +95,7 @@ A concatenated summary of the evaluation data for all courses is presented here,
 *"Thanks so much for your help, for being an amazing TA and for making NPB so much more interesting for me."*
 
 <br>
-<br>
+
 
 ### <a name="certifications"></a>Teaching Certifications
 **Science Communication Program**, American Association for the Advancement of Science. [![Science Communication Program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Certificate_AAAS_ScienceCommunicationProgram.pdf){:target="_blank"} 
@@ -103,11 +107,11 @@ A concatenated summary of the evaluation data for all courses is presented here,
 **Thoughtful Pedagogy for Diverse Learning Environments**, University of Califonia Davis, Center for Educational Effectiveness. [![Thoughtful pedagogy for diverse learning environments](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Diversity_TeachingCertificate_Fink.pdf){:target="_blank"}
 
 <br>
-<br>
+
 
 ### <a name="dev"></a>Courses developed
 
-**Musical Time: Psychological and Theoretical Perspectives**  
+#### Musical Time: Psychological and Theoretical Perspectives
 
 Music unfolds over time. However, the relationship between clock time (e.g. seconds, minutes) and
 musical time (e.g. perceived beats, meters, durations) is not constant. Which acoustic properties
@@ -121,7 +125,7 @@ relevant for understanding and predicting temporal perception and expectations i
 <br>
 <br>
 
-**This is your Brain on Beyoncé**  
+#### This is your Brain on Beyoncé
 
 An introductory course on music, culture, and mind that relies on Dan Levitan's book [*This is your Brain on Music*](http://daniellevitin.com/publicpage/books/this-is-your-brain-on-music/){:target="_blank"} and Beyoncé's visual album [*Lemonade*](http://www.beyonce.com/album/lemonade-visual-album/){:target="_blank"} as core texts.  
 

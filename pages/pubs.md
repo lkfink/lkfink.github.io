@@ -32,12 +32,10 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
-#### Submitted / In review
-
-Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (in review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *BioRxiv*. [DOI: https://doi.org/10.1101/2020.09.01.271650](https://www.biorxiv.org/content/10.1101/2020.09.01.271650v1){:target="_blank"}.
-
 
 #### 2021
+
+Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (in review). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *Scientific Reports 11*, 22457. [DOI: https://doi.org/10.1038/s41598-021-00492-3](| https://doi.org/10.1038/s41598-021-00492-3){:target="_blank"}.
 
 **Fink, L.** (2021, in press). Computational models of temporal expectations. Proceedings of the Future Directions of Music Cognition International Conference.
 

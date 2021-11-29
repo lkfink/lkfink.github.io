@@ -20,7 +20,7 @@ description: Lauren Fink's research projects
             <li><a href="#Modeling attention">Modeling attention</a></li>
             <li><a href="#GEM">GEM</a></li> 
             <li><a href="#Mobile eye-tracking">Mobile eye-tracking</a></li>
-            <li><a href="#MET">MET</a></li> 
+            <li><a href="#musicET">MET</a></li> 
             <li><a href="#WAC">WAC</a></li> 
         </ul>
     </div>
@@ -86,7 +86,7 @@ These measures will allow us to answer a number of questions about how and when 
 
 <br><br>
 
-### <a name="MET"></a>Conference on Music and Eye-Tracking (MET)
+### <a name="musicET"></a>Conference on Music and Eye-Tracking 
 
 In August 2017, [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} and I organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
 
@@ -100,7 +100,7 @@ Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 [![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 
 #### Upcoming 2020 Conference! (POSTPONED UNTIL 2022 DUE TO COVID-19)
-The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 16-17 July 2020. More information will be posted as it becomes available: [www.ae.mpg.de/met](https://www.ae.mpg.de/met){:target="_blank"}.
+The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 7-8 July 2022. More information can be found on our website: [www.ae.mpg.de/musicET](https://www.ae.mpg.de/musicET){:target="_blank"}.
 
 
 
@@ -116,6 +116,10 @@ I served for three years as the lead Graduate Writing Fellow in the University o
 > Bright, A., Singleton, J., **Fink, L.**, & Rodger, K. (2017, March). Cultivating a Rhetorical Consciousness: Supporting Graduate Student Writers Across the Curriculum. *Symposium presented at the College Composition and Communication Convention, Portland, OR.*  
 
 > **Fink, L.** & Rodger, K. (2016, June). Mapping neuroscience through professional writing. *Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.*
+
+Most recently, we have had an article about our collective knowledge as graduate writing consultants accepted for publication! 
+
+> Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2021, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
 
 
 

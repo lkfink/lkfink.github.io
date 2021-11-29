@@ -176,7 +176,6 @@ Hurley, B., **Fink, L.**, & Janata, P. (2016, July). Predicting temporal attenti
 
 
 ### <a name="dissertation"></a>Doctoral dissertation
-[Dissertation embargoed for two years but eventually publicly available through the UC Davis library]  
 
 #### Predicting sensorimotor synchronization and attention to music using a linear oscillator model, eye-tracking, and electroencephalography
 
@@ -184,6 +183,8 @@ Supervised by [Petr Janata](https://atonal.ucdavis.edu/people/){:target="_blank"
 
 #### ABSTRACT
 Rhythm is a ubiquitous feature of music that induces specific neural modes of processing. In the following studies, we employ a computational model to predict fluctuations in attention as a function of temporal structure. We test our predictions against behavioral indices of attention, namely perceptual thresholds (Chs. 2 & 3) and subjective reports (Ch 4), as well as neural markers of attention – changes in pupil size (Chs. 2-4) and cortical activity recorded via electroencephalography (EEG; Ch 3). Chapter 1 highlights key theories regarding the cognitive and neurophysiological underpinnings of changes in pupil size to situate a discussion of the pupillary response to sound in future chapters. Chapters 2 and 3 detail the results of variations on an adaptive thresholding experiment in which participants detect deviants embedded into rhythmic patterns at multiple temporal locations. In both intensity increment (Ch 2) and decrement (Ch 3) versions of the experiment, we observed 1) perceptual thresholds vary as a function of output from the computational model, 2) a pupil dilation response to detected and missed (below perceptual threshold) deviants, with evoked pupil amplitude predicting participants’ responses. Chapter 3 discusses preliminary EEG results and the relationship between pupillary and cortical indices of auditory attention. In chapters 2 and 3 we also analyze the continuous pupillary response to the various rhythmic patterns and show entrainment to predicted prominent periodicities, as well as coherence between the pupil signal and the modelled temporal salience predictions. We extend these findings in Chapter 4, showing pupillary entrainment to complex, ‘real-world’ music that is predicted by participants’ absorption and familiarity ratings. We conclude that the model is relevant in predicting the temporal salience of complex stimuli and that the continuous pupillary signal can reveal psychologically relevant, fine-grained information about an attended auditory stimulus.
+
+[Full text available for download on ProQuest](https://www.proquest.com/docview/2309838271?pq-origsite=gscholar&fromopenview=true){:target="_blank"}
 
 
 

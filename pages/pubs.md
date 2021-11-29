@@ -94,7 +94,24 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 #### 2021
 
-Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M. (2021, Mar). Multimodality of music listening: how live versus recorded versions of piano music influence self-report and physiological responses. Talk (virtual) presented at the Tagung experimentell arbeitender Psychologen (TeaP). 
+Hörster, M., **Fink, L.**, Wald-Fuhrmann, M., Poeppel, D. & Larrouy-Maestri, P. (2021, Nov.). Speech, music, or “raindrops on drums”: Labels influence the categorization of sounds. *International conference of students of systematic musicology (SysMus21), Aarhus, Denmark.* 
+
+Lange, E. & **Fink, L.** (2021, Aug.). What is the relation between musical features and spontaneous or restricted blink activity? Blick und Bewegung Symposium, organized by Jörg Mühlhans. *Talk (virtual) presented at the DAGA 47. Deutsche Jahrestagung für Akustik, Vienna, Austria.* 
+
+**Fink, L.**, Janata, P., Ganapathy, S., Furukawa, S., Lange, L. (July, 2021). Spectral signatures of the pupillary response as an implicit measure of musical absorption. *Talk (virtual) presented at the International Conference for Music Perception & Cognition.* [Watch here](https://www.youtube.com/watch?v=5bpDhrxUvLg){:target="_blank"}  
+
+*Warrenburg, ***Fink**, L., L. A., Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021, in press). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. *Talk (virtual) presented at the International Conference for Music Perception & Cognition.* [Watch here](https://www.youtube.com/watch?v=qnR8fWfyVEo){:target="_blank"}  
+
+Larrouy-Maestri, P., **Fink, L.**, Durojaye, C., Hörster, M., Poeppel, D. & Wald-Fuhrmann, M. (2021, July). Music or language or both: Effect of the task on the classification of dùndún talking drum stimuli. *Talk (virtual) presented at the International Conference for Music Perception & Cognition.* [Watch here](https://www.youtube.com/watch?v=vBKJINpRtq8){:target="_blank"}  
+
+Lange, E. & **Fink, L.** (2021, July). Eyeblink activity during music listening. *Talk (virtual) presented at the International Conference for Music Perception & Cognition.* [Watch here](https://youtu.be/Y7vaASokv24){:target="_blank"}  
+
+Czepiel, A., Fink, L., Seibert, C., Scharinger, M. (2021, July). Multimodality of music listening: how live versus recorded versions of piano music influence aesthetic, physiological, and neural responses in a concert setting. *Poster (virtual) presented at the International Conference for Music Perception & Cognition.*
+
+Fink, L., Alexander, P., Janata, P. (2021, June). The influence of metronome adaptivity and auditory feedback on group tapping. *Talk presented at the Rhythm Perception & Production Workshop, Oslo, Norway (virtual).* [Watch here](https://www.youtube.com/watch?v=optqIxLbz2k){:target="_blank"}  
+
+Czepiel, A., Fink, L.K., Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (2021, June). Inter-subject correlation of physiological responses during live musical performances. *Poster presented at the Neuromusic VII conference, Aarhus, Denmark (virtual).*
+
 
 #### 2020
 

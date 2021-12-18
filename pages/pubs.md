@@ -39,7 +39,10 @@ Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merr
 
 Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2021, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
 
-**Fink, L.** (2021, in press). Computational models of temporal expectations. Proceedings of the Future Directions of Music Cognition International Conference.
+**Fink, L.** (2021). Computational models of temporal expectations. *Proceedings of the Future Directions of Music Cognition International Conference*, pp. 208-213. [https://doi.org/10.18061/FDMC.2021.0041](https://doi.org/10.18061/FDMC.2021.0041){:target="_blank"}.
+
+
+FDMC_2021_Fink_208.pdf
 
 ***Fink, L.K.**, **Warrenburg, L. A.**, Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. *Humanities & Social Sciences Communications 8*:180. [https://doi.org/10.1057/s41599-021-00858-y](https://doi.org/10.1057/s41599-021-00858-y){:target="_blank"}. 
 

@@ -33,7 +33,7 @@ My responsibility as a lecturer and advisor is to train students to think critic
 <br>
 ### <a name="courses"></a>Courses taught  
 
-My current instituttion - the Max Planck Institute for Empirical Aesthetics - is purely a research institute, however, nearby at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"} I have taught in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}. Most recently, I designed and taught a masters seminar:  
+My current institution - the Max Planck Institute for Empirical Aesthetics - is purely a research institute, however, nearby at the [Goethe Universität](https://www.uni-frankfurt.de/de){:target="_blank"} I have taught in the [Institute für Musikwissenschaft](https://www.uni-frankfurt.de/43265859/muwi?){:target="_blank"}. Most recently, I designed and taught a masters seminar:  
 [Musical Time: Psychological and Theoretical Perspectives](https://lkfink.github.io/pages/teaching.html#dev).
 
 Previously, at the [University of California, Davis](https://www.ucdavis.edu/){:target="_blank"}, I was a teaching assistant for numerous courses.   

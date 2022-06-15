@@ -32,12 +32,19 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
+#### 2022
+
+**Fink, L.K.**, Alexander, P.C., & Janata, P. (2022). The Groove Enhancement Machine (GEM): A multi-person adaptive metronome to manipulate sensorimotor synchronization and subjective enjoyment. *Front. Hum. Neurosci. 16*:916551. [doi: 10.3389/fnhum.2022.916551](https://doi.org/10.3389/fnhum.2022.916551){:target="_blank"}.
+
+Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *In 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* [https://doi.org/10.1145/3517031.3529645](https://doi.org/10.1145/3517031.3529645){:target="_blank"}.
+
+Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
+
+
 
 #### 2021
 
 Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (2021). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *Scientific Reports 11*, 22457. [DOI: https://doi.org/10.1038/s41598-021-00492-3](https://doi.org/10.1038/s41598-021-00492-3){:target="_blank"}.
-
-Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2021, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
 
 **Fink, L.** (2021). Computational models of temporal expectations. *Proceedings of the Future Directions of Music Cognition International Conference*, pp. 208-213. [https://doi.org/10.18061/FDMC.2021.0041](https://doi.org/10.18061/FDMC.2021.0041){:target="_blank"}.
 

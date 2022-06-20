@@ -38,7 +38,7 @@ description: Lauren Fink's publications
 
 Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *In 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* [https://doi.org/10.1145/3517031.3529645](https://doi.org/10.1145/3517031.3529645){:target="_blank"}.
 
-Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
+Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal, 19*(2). https://www.praxisuwc.com/192-wittstock-et-al
 
 
 

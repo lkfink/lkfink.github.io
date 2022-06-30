@@ -49,22 +49,17 @@ This video shows oscillations in pupil size while listening to a clip of music. 
 <br><br>
 
 ### <a name="GEM"></a>Groove Enhancement Machine (GEM)
-This project involves a real-time adaptive music making device to enhance synchrony between groups of people tapping together. The final manuscript it currently being prepared. All code and hardware specifications will eventually be publicly available. Check back in a few months for more details. 
+This project involves a real-time adaptive music making device to enhance motor synchrony and subjective enjoyment between groups of people tapping together. Our paper about this project is published in [Frontiers in Human Neuroscience](https://doi.org/10.3389/fnhum.2022.916551){:target="_blank"}. All code and hardware specifications required to build the device are publicly available. 
+
+> **Fink, L.K.**, Alexander, P.C., & Janata, P. (2022). The Groove Enhancement Machine (GEM): A multi-person adaptive metronome to manipulate sensorimotor synchronization and subjective enjoyment. *Front. Hum. Neurosci. 16*:916551. [doi: 10.3389/fnhum.2022.916551](https://doi.org/10.3389/fnhum.2022.916551){:target="_blank"}.
 
 This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project, as well as related work in the Janata Lab.
 
 <iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D0%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
 
-##### Conference presentations related to this project (paper in prep.):
-
-> **Fink, L.**, Alexander, P., Janata, P. (2021, June). The influence of metronome adaptivity and auditory feedback on group tapping. *Talk presented at the Rhythm Perception & Production Workshop, University of Oslo, Norway (virtual).*  
-> 
-> This talk provides the most up-to-date information about our project: 
+Below is a recent talk given at the Rhythm, Perception & Production Workshop (2021) which provides a more up-to-date and scientific overview of the project: 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/optqIxLbz2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> **Fink, L.**, Alexander, P., Janata, P. (2019, March). Bringing groups of people into greater temporal and psychological synchrony using a multi-person adaptive metronome. *Poster presented at the Cognitive Neuroscience Society Meeting, San Francisco, CA.*  
-
-> **Fink, L.**, & Alexander, P., & Janata, P. (2017, July). Fostering Empathy and Improving Focus Through the Groove Enhancement Machine: Facilitating Sensorimotor Coordination and Cooperation Among Groups of Individuals. *Demonstration presented at the National Academies Keck Futures Initiative Art, Science, Engineering, and Medicine Mid-Cycle Grant Meeting, Boston, MA.*
 
 <!-- ![groove enhancement machine collage]({{ BASE_PATH }}/assets/publpics/gem_example.png)  -->
 
@@ -107,7 +102,12 @@ The second Conference on Music & Eye-Tracking will be held at the Max Planck Ins
 <br><br>
 
 ### <a name="WAC"></a>Writing Across the Curriculum (WAC)
-I served for three years as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, I managed a team of six Graduate Writing Fellows and acted as a liason between graduate fellows and faculty. The WAC fellows hold one-on-one [writing consultations](http://writing.ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](http://writing.ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](http://writing.ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](http://writing.ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](http://writing.ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. I developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](http://writing.ucdavis.edu/wac/gfw-bios){:target="_blank"}. I also conducted numerous research projects which were presented at the following conferences: 
+I served for three years as the lead Graduate Writing Fellow in the University of California Davis's Writing Across the Curriculum program. In this role, I managed a team of six Graduate Writing Fellows and acted as a liason between graduate fellows and faculty. The WAC fellows hold one-on-one [writing consultations](http://writing.ucdavis.edu/wac/consultations){:target="_blank"} with graduate students and postdocs from any discipline, offer writing [retreats](http://writing.ucdavis.edu/wac/retreats){:target="_blank"} and [workshops](http://writing.ucdavis.edu/wac/workshops){:target="_blank"}, as well as specialized programs such as the [Graduate Certificate in Writing Theory and Practice](http://writing.ucdavis.edu/wac/certificate){:target="_blank"} and the [Writing Partner Program](http://writing.ucdavis.edu/wac/resources/writing-partner-program){:target="_blank"}. I developed the curriculum for the Graduate Certificate in Writing Theory and Practice, along with WAC peers [Tori White and Julia Ribeiro](http://writing.ucdavis.edu/wac/gfw-bios){:target="_blank"}. Our reflections and insights as a graduate writing consultant team have recently been published in Praxis:
+
+> Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal, 19*(2). https://www.praxisuwc.com/192-wittstock-et-al. 
+
+
+I also conducted numerous research projects which were presented at the following conferences: 
 
 > Mikovits, M., Sperber, L., **Fink, L.** & Prebel, J. (2019, March). Writing Fellows as Agents of Transfer: Training in Threshold Concepts to Support Campus-Wide Sites of Writing. *Symposium presented at the College Composition and Communication Convention, Pittsburgh, PA.*  
 

@@ -6,7 +6,7 @@ title: CMQ info
 During the pandemic, we wanted to understand the role of music in helping people to cope with the first lockdown (~ April 2020).  
 <br>
 <br>
-Read our paper in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-021-00858-y.){:target="_blank"}.   
+Read our paper in [Nature Humanities and Social Sciences Communications](https://doi.org/10.1057/s41599-021-00858-y){:target="_blank"}.   
 
 
 In short, we found that:   

@@ -36,6 +36,8 @@ You can learn more about an international research network related to music and 
 ### Press related to the project will appear below: 
 > Forbes: [Coronamusic gives people a sense of belonging](https://www.forbes.com/sites/evaamsen/2021/02/27/coronamusic-gives-people-a-sense-of-belonging-according-to-research/){:target="_blank"}. 
 
+> Times of India: [The year Beethove returned, Opera came home, & Baba bounced back](https://timesofindia.indiatimes.com/india/the-year-beethoven-returned-opera-came-home-baba-bounced-back/articleshow/85392953.cms){:target="_blank"}
+
 > Nachrichten: [Music in the time of Corona](https://nachrichten.idw-online.de/2020/04/20/music-in-the-time-of-corona/){:target="_blank"}
 
 > RTE: [Viral tunes: how we used music to get through the pandemic](https://www.rte.ie/brainstorm/2021/0727/1237479-music-pandemic-lockdown-research/){:target="_blank"}

@@ -32,23 +32,35 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
++ indicates student mentee
+
+#### Submitted
+
++Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M., Kotz, S. (2022, submitted). Aesthetic and physiological effects of naturalistic multimodal music listening. Preprint on BioRxiv: [https://www.biorxiv.org/content/10.1101/2022.07.02.498390v1](https://www.biorxiv.org/content/10.1101/2022.07.02.498390v1){:target="_blank"}.
+
+**Fink, L.**, Simola, J., Tavano, A., Lange, E., Wallot, S., & Laeng, B. (2021, in revision). From pre-processing to dynamic modeling of pupil data. Preprint on PsyArXiv: [https://psyarxiv.com/wqvue](https://psyarxiv.com/wqvue){:target="_blank"}.
+
+Tavano, A., Blohm, S., Knoop, C.A., Muralikrishnan, R., **Fink, L.**, Scharinger, M., Wagner, V., Thiele, D., Ghitza, O., Ding, N., Menninghaus, W., Poeppel, D. (2021, in revision). Neural harmonics of syntactic structure. Preprint on BioRxiv: [https://www.biorxiv.org/content/10.1101/2020.04.08.031575v3](https://www.biorxiv.org/content/10.1101/2020.04.08.031575v3){:target="_blank"}.
+
+
+
 #### 2022
 
 **Fink, L.K.**, Alexander, P.C., & Janata, P. (2022). The Groove Enhancement Machine (GEM): A multi-person adaptive metronome to manipulate sensorimotor synchronization and subjective enjoyment. *Front. Hum. Neurosci. 16*:916551. [doi: 10.3389/fnhum.2022.916551](https://doi.org/10.3389/fnhum.2022.916551){:target="_blank"}.
 
-Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *In 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* [https://doi.org/10.1145/3517031.3529645](https://doi.org/10.1145/3517031.3529645){:target="_blank"}.
++Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *In 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* [https://doi.org/10.1145/3517031.3529645](https://doi.org/10.1145/3517031.3529645){:target="_blank"}.
 
-Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal, 19*(2). https://www.praxisuwc.com/192-wittstock-et-al
+Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2022). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal, 19*(2). [https://www.praxisuwc.com/192-wittstock-et-al](https://www.praxisuwc.com/192-wittstock-et-al){:target="_blank"}.
 
 
 
 #### 2021
 
-Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (2021). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *Scientific Reports 11*, 22457. [DOI: https://doi.org/10.1038/s41598-021-00492-3](https://doi.org/10.1038/s41598-021-00492-3){:target="_blank"}.
++Czepiel, A., **Fink, L.K.**, Fink, L.T., Wald-Fuhrmann, M., Tröndle, M., & Merrill, J. (2021). Synchrony in the periphery: inter-subject correlation of physiological responses during live music concerts. *Scientific Reports 11*, 22457. [DOI: https://doi.org/10.1038/s41598-021-00492-3](https://doi.org/10.1038/s41598-021-00492-3){:target="_blank"}.
 
 **Fink, L.** (2021). Computational models of temporal expectations. *Proceedings of the Future Directions of Music Cognition International Conference*, pp. 208-213. [https://doi.org/10.18061/FDMC.2021.0041](https://doi.org/10.18061/FDMC.2021.0041){:target="_blank"}.
 
-***Fink, L.K.**, **Warrenburg, L. A.**, Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. *Humanities & Social Sciences Communications 8*:180. [https://doi.org/10.1057/s41599-021-00858-y](https://doi.org/10.1057/s41599-021-00858-y){:target="_blank"}. 
+**Fink, L.K.**, **Warrenburg, L. A.**, Howlin, C., Randall, W. M., +Hansen, N. C., & +Wald-Fuhrmann, M. (2021). Viral Tunes: Changes in musical behaviours and interest in coronamusic predict socio-emotional coping during COVID-19 lockdown. *Humanities & Social Sciences Communications 8*:180. [https://doi.org/10.1057/s41599-021-00858-y](https://doi.org/10.1057/s41599-021-00858-y){:target="_blank"}. 
 
 **Durojaye, C., Fink, L.,** Wald-Fuhrmann, M., Roeske, T. & Larrouy-Maestri, P. (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. [https://doi.org/10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 
@@ -98,6 +110,30 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 
 ### <a name="abstracts"></a>Conference abstracts  
+
+
+#### 2022
+
+**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Sept.). Western Listeners’ perception of music and speech is reflected in acoustic and semantic descriptors. *Poster (virtual) to be presented at the Biology-culture relationships in the evolution of language and music workshop, at Joint Conference on Language Evolution, Kanazawa, Japan.* 
+
++Saxena, S., **Fink, L.**, & Lange, E. (2022, Aug.). An online experiment with deep learning models for tracking eye movements via webcam. *Poster (virtual) presented at the European Conference on Eye Movements, Leicester, UK.*
+
+Linna, J., Kushan, M., Beck, J., **Fink, L.**, Margulis, L. (2022, Aug.). Using pupillometry to investigate the effect of meditation on musical listening. *Poster presented the Society for Music Perception & Cognition, Portland, OR.* 
+
+Lange, E. & **Fink, L.** (2022, July). Eyeblinks as indices of subjective states during music listening: Methodological considerations. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [https://vimeo.com/728532868/5c8f91824d](https://vimeo.com/728532868/5c8f91824d){:target="_blank"} 
+
+**Fink, L.**, +Saxena S., & Lange, E. (2022, Jul.). Consistency of eye movements across multiple memorized performances: A mobile eye-tracking pilot study. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [https://vimeo.com/728534533/8140ab1cf3](https://vimeo.com/728534533/8140ab1cf3){:target="_blank"}  
+
+Basiński, K., Domżalski, T., **Fink, L.**, & Szalewska, D. (2022, Jul.). The effect of harmonicity on pupil dilation response in an auditory oddball task. *Poster presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.*
+
++Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *Poster presented at the 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* 
+
++Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M., Kotz, S. (2022, May). Physiological correlates of aesthetic and naturalistic music concert experience. *Poster presented at the International Conference of Cognitive Neuroscience, Helsinki, Finland.* 
+
+**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Apr.). Bonfire happiness or a scratchy affair?: Patterns in free labelling and categorization of percussive stimuli. *Poster presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA, USA.*  
+
+Lange, E. & **Fink, L.** (2022, Feb.). Eye-tracking as a method to investigate music listening experiences. *Talk presented at the Tagung experimentell arbeitender Psychologen (TeaP).*
+
 
 #### 2021
 

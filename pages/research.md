@@ -100,7 +100,7 @@ In August 2017 and July 2022, [Elke Lange](https://www.aesthetics.mpg.de/en/the-
 
 2017 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
-A [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} with selected presentations from the conference was published in the Journal of Eye Movement Research.  
+After the 2017 conference, we edited a [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"}, published in the Journal of Eye Movement Research.  
 
 > **Fink, L.**, Lange, E. & Groner, R. (2019). The application of eye-tracking in music research. *Journal of
 Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.

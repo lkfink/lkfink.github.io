@@ -127,11 +127,6 @@ I also conducted numerous research projects which were presented at the followin
 
 > **Fink, L.** & Rodger, K. (2016, June). Mapping neuroscience through professional writing. *Talk presented at the International Writing Across the Curriculum Conference, Ann Arbor, MI.*
 
-Most recently, we have had an article about our collective knowledge as graduate writing consultants accepted for publication! 
-
-> Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., Simon, M., **Fink, L.** (2021, in press). Making what we know explicit: Perspectives from graduate writing consultants on supporting graduate writers. *Praxis: A Writing Center Journal.*
-
-
 
 
 

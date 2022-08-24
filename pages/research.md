@@ -57,11 +57,13 @@ This project involves a real-time adaptive music making device to enhance motor 
 
 > **Fink, L.K.**, Alexander, P.C., & Janata, P. (2022). The Groove Enhancement Machine (GEM): A multi-person adaptive metronome to manipulate sensorimotor synchronization and subjective enjoyment. *Front. Hum. Neurosci. 16*:916551. [doi: 10.3389/fnhum.2022.916551](https://doi.org/10.3389/fnhum.2022.916551){:target="_blank"}.
 
-This short documentary, directed by Joerg Altekruse, highlights an early prototype of the project, as well as related work in the Janata Lab.
+[This short documentary](https://www.arte.tv/de/videos/074208-005-A/groove-maschine/){:target="_blank"}, directed by Joerg Altekruse, highlights an early prototype of the project, as well as related work in the Janata Lab.
 
+<!--
 <iframe title="Groove-Maschine" allowfullscreen="true" style="transition-duration:0;transition-property:no;margin:0 auto;position:relative;display:block;background-color:#000000;" frameborder="0" scrolling="no" width="720" height="406" src="https://www.arte.tv/player/v3/index.php?json_url=https%3A%2F%2Fapi.arte.tv%2Fapi%2Fplayer%2Fv1%2Fconfig%2Fde%2F074208-005-A%3Fautostart%3D0%26lifeCycle%3D1&amp;lang=de_DE&amp;mute=0"></iframe>
+-->
 
-Below is a recent talk given at the Rhythm, Perception & Production Workshop (2021) which provides a more up-to-date and scientific overview of the project: 
+Below is a recent talk given at the Rhythm, Perception & Production Workshop (2021) which provides a preliminary overview of the project: 
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/optqIxLbz2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

@@ -67,35 +67,41 @@ Below is a recent talk given at the Rhythm, Perception & Production Workshop (20
 
 ### <a name="Mobile eye-tracking"></a>Mobile eye-tracking
 
-I am currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking headsets in a variety of music/neuroscience projects. For anyone considering purchasing from Pupil Labs, I previously wrote up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. 
+I am currently using [Pupil Labs'](https://pupil-labs.com/){:target="_blank"} mobile eye-tracking glasses in a variety of music/neuroscience projects. <!-- For anyone considering purchasing from Pupil Labs, I previously wrote up a [short guide of considerations](http://lkfink.github.io/pages/PupilLabs_aBeginnersGuide.html){:target="_blank"}. -->
  
 ![pupil labs collage]({{ BASE_PATH }}/assets/publpics/puplabs_collage.png) 
 
+For example, in a recent pilot study, we asked whether the eye movement patterns of pianists performing from memory are consistent across mutliple performances on different days. Basically, we wanted to know if eye movements become a (subconsciously) rehearsed and stable aspect of the full body memorized musical performance. You can listen to me talk about our prelimary results here! 
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/728534533?h=8140ab1cf3" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+<!--
 At the [Max Planck Institute for Empirical Aesthetics](https://www.aesthetics.mpg.de/en.html){:target="_blank"}, I, together with [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"}, would like to bring mobile eye-tracking into the concert hall ([ArtLab](https://www.aesthetics.mpg.de/index.php?id=625&L=1){:target="_blank"}). While it may seem odd to use eye-tracking (vision) in a musical (auditory) context, a growing number of laboratory studies have clearly established that sound systematically affects visual processing. However, eye-tracking has yet to be widely adopted in auditory, and more specifically, musical, contexts. Previously, mobile eye-trackers have been used to examine gaze patterns of up to 3 musicians playing together; however, no studies have examined mobile eye-tracking data from multiple audience members at a concert, in addition to the musicians on stage. Such an undertaking would allow for comparisons of:
 -	gaze location (what audience members and what musicians are looking at)
 -	eye movement dynamics (when, in relation to musical events, and each other, audience members and musicians shift their gaze)
 -	blink rate (how often people blink) and blink timing (when people blink)
 
 These measures will allow us to answer a number of questions about how and when music affects ocular dynamics. On a lower level, we can also answer questions about which neural mechanisms may underlie certain aspects of musical processing, as many ocular measures have well established neural substrates. Further, we can pit auditory and visual saliency against each other to answer questions related to cross-modal interactions.  
-
+--> 
 
 <br><br>
 
 ### <a name="musicET"></a>Conference on Music and Eye-Tracking 
 
-In August 2017, [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} and I organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/met17){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+[![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
 
-Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
+
+In August 2017 and July 2022, [Elke Lange](https://www.aesthetics.mpg.de/en/the-institute/people/lange.html){:target="_blank"} and I organized the [Conference on Music & Eye-Tracking](https://www.ae.mpg.de/musicET){:target="_blank"}, which was held at the Max Planck Institute for Empirical Aesthetics in Frankfurt, Germany. <br/>  
+
+2017 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/MET17-Konferenzbroschüre.pdf){:target="_blank"}   <br/>  
 
 A [Special Issue on Music and Eye-Tracking](https://bop.unibe.ch/JEMR/issue/view/793){:target="_blank"} with selected presentations from the conference was published in the Journal of Eye Movement Research.  
 
 > **Fink, L.**, Lange, E. & Groner, R. (2019). The application of eye-tracking in music research. *Journal of
 Eye Movement Research, 11(2)*:1. DOI: 10.16910/jemr.11.2.1.
 
-[![METimage](../../assets/publpics/METimage.png)](https://lkfink.github.io/pages/publpics/METimage.html){:target="_blank"} 
-
-#### Upcoming 2020 Conference! (POSTPONED UNTIL 2022 DUE TO COVID-19)
-The second Conference on Music & Eye-Tracking will be held at the Max Planck Institute for Empirical Aesthetics, 7-8 July 2022. More information can be found on our website: [www.ae.mpg.de/musicET](https://www.ae.mpg.de/musicET){:target="_blank"}.
+2022 Conference Program: [![Click here to view the MET conference program](icons16/pdf-icon.png)](https://indico.aesthetics.mpg.de/event/2/attachments/26/30/Lange-Fink-MusicET2022-Full-Program-DIGITAL.pdf){:target="_blank"}   <br/> 
 
 
 

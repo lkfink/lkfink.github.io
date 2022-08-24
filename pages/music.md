@@ -19,6 +19,11 @@ description: Lauren Fink's music
 
 ### <a name="current"></a>Current projects  
 
+[check back soon. pandemic making it hard to play music out 😢]
+
+
+### <a name="past"></a>Past projects 
+
 #### California Arts Council
 From Winter 2018-2020, I am a peer review panelist for the [California Arts Council](http://www.arts.ca.gov/){:target="_blank"}.
 > "Peer-review panels [. . .] ensure that our grant application review process is democratic, fair and representative of California’s diverse geography; wealth of organizations; racial, ethnic and gender identities; perspectives and knowledge."  
@@ -27,11 +32,6 @@ From Winter 2018-2020, I am a peer review panelist for the [California Arts Coun
 
 <br>
 <br>
-
-
-
-
-### <a name="past"></a>Past projects 
 
 #### Girls Rock Sacramento
 I was a volunteer drum set coach for [Girls Rock Sacramento](http://www.girlsrocksacramento.com/){:target="_blank"} in California. 

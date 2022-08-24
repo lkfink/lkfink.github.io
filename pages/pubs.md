@@ -32,7 +32,7 @@ description: Lauren Fink's publications
 
 ### <a name="articles"></a>Articles
 
-+ indicates student mentee
+(+) indicates student mentee
 
 #### Submitted
 

@@ -114,23 +114,23 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 #### 2022
 
-**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Sept.). Western Listeners’ perception of music and speech is reflected in acoustic and semantic descriptors. *Poster (virtual) to be presented at the Biology-culture relationships in the evolution of language and music workshop, at Joint Conference on Language Evolution, Kanazawa, Japan.* 
+**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Sept.). Western Listeners’ perception of music and speech is reflected in acoustic and semantic descriptors. *Poster (virtual) to be presented at the Biology-culture relationships in the evolution of language and music workshop, at Joint Conference on Language Evolution, Kanazawa, Japan.* [Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://lkfink.github.io/assets/Fink_dundun_Japan.pdf){:target="_blank"}
 
-+Saxena, S., **Fink, L.**, & Lange, E. (2022, Aug.). An online experiment with deep learning models for tracking eye movements via webcam. *Poster (virtual) presented at the European Conference on Eye Movements, Leicester, UK.*
++Saxena, S., **Fink, L.**, & Lange, E. (2022, Aug.). An online experiment with deep learning models for tracking eye movements via webcam. *Poster (virtual) presented at the European Conference on Eye Movements, Leicester, UK.* <!--[Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://osf.io/cjgyd){:target="_blank"} -->
 
 Linna, J., Kushan, M., Beck, J., **Fink, L.**, Margulis, L. (2022, Aug.). Using pupillometry to investigate the effect of meditation on musical listening. *Poster presented the Society for Music Perception & Cognition, Portland, OR.* 
 
-Lange, E. & **Fink, L.** (2022, July). Eyeblinks as indices of subjective states during music listening: Methodological considerations. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [https://vimeo.com/728532868/5c8f91824d](https://vimeo.com/728532868/5c8f91824d){:target="_blank"} 
+Lange, E. & **Fink, L.** (2022, July). Eyeblinks as indices of subjective states during music listening: Methodological considerations. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [Watch here](https://vimeo.com/728532868/5c8f91824d){:target="_blank"} 
 
-**Fink, L.**, +Saxena S., & Lange, E. (2022, Jul.). Consistency of eye movements across multiple memorized performances: A mobile eye-tracking pilot study. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [https://vimeo.com/728534533/8140ab1cf3](https://vimeo.com/728534533/8140ab1cf3){:target="_blank"}  
+**Fink, L.**, +Saxena S., & Lange, E. (2022, Jul.). Consistency of eye movements across multiple memorized performances: A mobile eye-tracking pilot study. *Talk presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.* [Watch here](https://vimeo.com/728534533/8140ab1cf3){:target="_blank"}  
 
 Basiński, K., Domżalski, T., **Fink, L.**, & Szalewska, D. (2022, Jul.). The effect of harmonicity on pupil dilation response in an auditory oddball task. *Poster presented the Conference on Music & Eye-Tracking, Frankfurt am Main, Germany.*
 
-+Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *Poster presented at the 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* 
++Saxena, S., Lange, E. & **Fink, L.** (2022). Towards efficient calibration for webcam eye-tracking in online experiments. *Poster presented at the 2022 Symposium on Eye Tracking Research and Applications (ETRA ’22), June 08–11, 2022, Seattle, WA, USA.* [Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://osf.io/sbm5e){:target="_blank"}
 
 +Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M., Kotz, S. (2022, May). Physiological correlates of aesthetic and naturalistic music concert experience. *Poster presented at the International Conference of Cognitive Neuroscience, Helsinki, Finland.* 
 
-**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Apr.). Bonfire happiness or a scratchy affair?: Patterns in free labelling and categorization of percussive stimuli. *Poster presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA, USA.*  
+**Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Apr.). Bonfire happiness or a scratchy affair?: Patterns in free labelling and categorization of percussive stimuli. *Poster presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA, USA.* [Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://lkfink.github.io/assets/Fink_Lauren_CNS2022_freeLabelling_percussion.pdf){:target="_blank"}
 
 Lange, E. & **Fink, L.** (2022, Feb.). Eye-tracking as a method to investigate music listening experiences. *Talk presented at the Tagung experimentell arbeitender Psychologen (TeaP).*
 

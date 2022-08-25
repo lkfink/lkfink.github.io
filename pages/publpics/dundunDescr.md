@@ -2,7 +2,7 @@
 layout: frontpage
 title: Dundun info
 ---
-## The dùndún: at the interface between speech and music 
+### The dùndún: at the interface between speech and music 
 
 In this project, we ask **what is that distinguishes speech from music?**   
 Every day, we easily tell the difference between these two types of auditory stimuli, but which acoustic features are important?  
@@ -16,7 +16,7 @@ Also, stay tuned for a series of follow-up studies that are currently in progres
 
 
 
-## Press related to the project will appear below: 
+### Press related to the project will appear below: 
 > Nachrichten: [When Drums Talk: How We Distinguish Speech from Music](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"}
 
 ![dundun talking drum]({{ BASE_PATH }}/pages/publpics/dundunImage_cecilia.jpeg) 

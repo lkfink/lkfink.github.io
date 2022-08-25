@@ -116,7 +116,7 @@ J. Lane & **L. Fink** (Eds.). (2017). *Allen Otte Folio.* [Preview ![Program as 
 
 **Fink, L.**, Hörster, M., Poeppel, D., Wald-Fuhrmann, M., & Larrouy-Maestri, P. (2022, Sept.). Western Listeners’ perception of music and speech is reflected in acoustic and semantic descriptors. *Poster (virtual) to be presented at the Biology-culture relationships in the evolution of language and music workshop, at Joint Conference on Language Evolution, Kanazawa, Japan.* [Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://lkfink.github.io/assets/Fink_dundun_Japan.pdf){:target="_blank"}
 
-+Saxena, S., **Fink, L.**, & Lange, E. (2022, Aug.). An online experiment with deep learning models for tracking eye movements via webcam. *Poster (virtual) presented at the European Conference on Eye Movements, Leicester, UK.* <!--[Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://osf.io/cjgyd){:target="_blank"} -->
++Saxena, S., **Fink, L.**, & Lange, E. (2022, Aug.). An online experiment with deep learning models for tracking eye movements via webcam. *Accepted talk at the European Conference on Eye Movements, Leicester, UK.* [Virtual Poster PDF ![Poster as pdf](icons16/pdf-icon.png)](https://osf.io/3u6dr){:target="_blank"}
 
 Linna, J., Kushan, M., Beck, J., **Fink, L.**, Margulis, L. (2022, Aug.). Using pupillometry to investigate the effect of meditation on musical listening. *Poster presented the Society for Music Perception & Cognition, Portland, OR.* 
 

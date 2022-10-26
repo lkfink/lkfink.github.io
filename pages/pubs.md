@@ -64,6 +64,9 @@ Wittstock, S., Sperber, L., Kirk, G., McCarty, K., de Sola-Smith, K., Wade, J., 
 
 **Durojaye, C., Fink, L.,** Wald-Fuhrmann, M., Roeske, T. & Larrouy-Maestri, P. (2021). Perception of Nigerian Dùndún Talking Drum Performances as Speech-Like vs. Music-Like: The Role of Familiarity and Acoustic Cues. *Front. Psychol. 12*:652673. [https://doi.org/10.3389/fpsyg.2021.652673](https://doi.org/10.3389/fpsyg.2021.652673){:target="_blank"}.
 
+> Child-friendly, outreach article related to this research: 
+> **Fink, L.**, Durojaye, C., Roeske, T., Wald-Fuhrmann, M. & Larrouy-Maestri, P. (2022). Drums help us understand how we process speech and music. *Frontiers for Young Minds, 10,* 755390. [https://doi.org/10.3389/frym.2022.755390](https://doi.org/10.3389/frym.2022.755390){:target="_blank"}.
+
 
 #### 2020
 

@@ -31,11 +31,11 @@ description: public outreach
 
 <!-- ### <a name="music"></a>Music -->
 
-## [Press release about our project using the dùndún (talking drum) to understand how people categorize music vs. speech](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"}!
+## [Child-friendly version of our dùndún research published in Frontiers for Young Minds!](https://doi.org/10.3389/frym.2022.755390   ![image](../../assets/publpics/dundunKids_cover.png)
+){:target="_blank"}!
 
-
-[![dundun_kids_1](../../assets/publpics/dundun_kids_1.png)](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"} 
-
+<br>
+[Click here to read a press release about our original research article using the dùndún (talking drum) to understand how people categorize music vs. speech](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"}!
 <br>
 <br>
 
@@ -53,7 +53,7 @@ description: public outreach
 <br>
 <br>
 
-## Learn about my neuroscience diversity initiative, SOMA: Seminar Outreach for Minority Advocacy
+## Learn a new initiative we started at UC Davis: SOMA: Seminar Outreach for Minority Advocacy
 
 Demographics within neuroscience vastly mismatch the actual distribution of minority communities within the United States population. In a 2011 survey report of 97 U.S. neuroscience graduate programs, only 12% of predoctoral trainees were minorities (African- American, Hispanic-American, Native-American, “Other”) - a statistic that reduces to only 4% of postdoctoral trainees and 5% of tenure track faculty. Increasing the visibility of underrepresented scientists is a critical component to addressing this inequity. Without visibility, the aforementioned unequal distributions are inevitably perpetuated. 
 

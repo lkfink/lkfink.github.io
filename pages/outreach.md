@@ -31,8 +31,8 @@ description: public outreach
 
 <!-- ### <a name="music"></a>Music -->
 
-## [Child-friendly version of our dùndún research published in Frontiers for Young Minds!](https://doi.org/10.3389/frym.2022.755390   ![image](../../assets/publpics/dundunKids_cover.png)
-){:target="_blank"}!
+## [Child-friendly version of our dùndún research published in Frontiers for Young Minds!](https://doi.org/10.3389/frym.2022.755390){:target="_blank"}!
+![image](../../assets/publpics/dundunKids_cover.png)
 
 <br>
 [Click here to read a press release about our original research article using the dùndún (talking drum) to understand how people categorize music vs. speech](https://nachrichten.idw-online.de/2021/07/13/when-drums-talk-how-we-distinguish-speech-from-music/){:target="_blank"}!

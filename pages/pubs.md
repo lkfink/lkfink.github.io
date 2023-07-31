@@ -34,15 +34,18 @@ description: Lauren Fink's publications
 
 (+) indicates student mentee
 
-#### Submitted
 
-+Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M., Kotz, S. (2022, submitted). Aesthetic and physiological effects of naturalistic multimodal music listening. Preprint on BioRxiv: [https://www.biorxiv.org/content/10.1101/2022.07.02.498390v1](https://www.biorxiv.org/content/10.1101/2022.07.02.498390v1){:target="_blank"}.
+#### 2023
 
-**Fink, L.**, Simola, J., Tavano, A., Lange, E., Wallot, S., & Laeng, B. (2021, in revision). From pre-processing to dynamic modeling of pupil data. Preprint on PsyArXiv: [https://psyarxiv.com/wqvue](https://psyarxiv.com/wqvue){:target="_blank"}.
++Saxena, S.,  **Fink, L.**, & Lange, E. (2023). Deep learning models for webcam eye-tracking in online experiments. *Behavior Research Methods*. [https://doi.org/10.3758/s13428-023-02190-6](https://doi.org/10.3758/s13428-023-02190-6){:target="_blank"}.
 
-Tavano, A., Blohm, S., Knoop, C.A., Muralikrishnan, R., **Fink, L.**, Scharinger, M., Wagner, V., Thiele, D., Ghitza, O., Ding, N., Menninghaus, W., Poeppel, D. (2021, in revision). Neural harmonics of syntactic structure. Preprint on BioRxiv: [https://www.biorxiv.org/content/10.1101/2020.04.08.031575v3](https://www.biorxiv.org/content/10.1101/2020.04.08.031575v3){:target="_blank"}.
++Czepiel, A., **Fink, L.**, Seibert, C., Scharinger, M., Kotz, S. (2023). Aesthetic and physiological effects of naturalistic multimodal music listening. *Cognition, 239*, 105537. [https://doi.org/10.1016/j.cognition.2023.105537](https://doi.org/10.1016/j.cognition.2023.105537){:target="_blank"}.
 
+Coretta, S., Casillas, J.V., […] **Fink, L.**, […] & Timo B. Roettger. (2023). Multidimensional signals and analytic flexibility: Estimating degrees of freedom in human speech analyses. *Advances in Methods and Practices in Psychological Science 6*(3). [https://doi.org/10.1177/25152459231162567](https://doi.org/10.1177/25152459231162567){:target="_blank"}.
 
+Lange, E., & **Fink, L.**. (2023). Eye-blinking, musical processing, and subjective states – A methods account. *Psychophysiology, 00*(e14350). [https://doi.org/10.1111/psyp.14350](https://doi.org/10.1111/psyp.14350){:target="_blank"}.
+
+**Fink, L.**, Simola, J., Tavano, A., Lange, E., Wallot, S., & Laeng, B. (2023). From pre-processing to dynamic modeling of pupil data. *Behavior Research Methods*. [https://doi.org/10.3758/s13428-023-02098-1](https://doi.org/10.3758/s13428-023-02098-1){:target="_blank"}.
 
 #### 2022
 

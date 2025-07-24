@@ -9,6 +9,8 @@
   </script>
 </HEAD>
 
+[NOTE. Audio files have been disabled to prevent unintended misuse of the stimulus material. Should you wish to listen to the audio files, please be in contact.]
+
 ## Drums help us understand how we process speech and music
 Online audio examples for Frontiers for Young Minds article
 
